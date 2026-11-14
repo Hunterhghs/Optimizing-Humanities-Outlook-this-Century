@@ -1,0 +1,62 @@
+{
+  "slug": "ai-global-development-convergence",
+  "seriesNumber": 9,
+  "number": "HH-2026-40",
+  "title": "Artificial Intelligence and Global Development Convergence",
+  "subtitle": "Expanding Access to Intelligence, Automation and Advanced Productive Capabilities",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "ai-global-development-convergence.pdf",
+  "pages": 30,
+  "dek": "How falling inference costs, localized open-weight models, sovereign clean compute, and foundational investments in digital infrastructure and skills can turn artificial intelligence from a force of global divergence into an engine of structural catch-up.",
+  "topics": [
+    "Artificial Intelligence",
+    "Economic Convergence",
+    "Emerging Economies",
+    "Sovereign Compute"
+  ],
+  "abstract": [
+    "Artificial Intelligence and Global Development Convergence examines how the diffusion and adoption of artificial intelligence can accelerate economic development, narrow technological disparities and expand productive capabilities across countries. The report explores AI's potential to improve productivity, automate routine tasks, enhance education, strengthen healthcare delivery, support scientific research and enable more efficient economic and institutional systems.",
+    "Particular attention is given to emerging economies, where accessible AI technologies could help overcome constraints associated with limited expertise, institutional capacity, educational resources and technological infrastructure. Standardized inference cost indices collapsed by 99.4% between 2021 and 2026 (100.0 to 0.6), while local edge capability surged from 12.0 to 94.0 and controlled workplace studies show bottom-quartile novice productivity rising +35% to +42% versus +3% to +11% for senior experts. By distilling open-weight models onto regional hydro-powered compute clusters and edge quantization, emerging institutions cut unit query costs by 90.5%—from $14.20 per million imported cloud API queries down to $1.35.",
+    "At the same time, the monograph evaluates structural risks of unequal AI adoption—including IMF AIPI preparedness deficits (21.0–26.0 in low-income innovation and infrastructure vs. 72.0–78.0 at the frontier), low-resource dialect collapse (34.0% on base frontier LLMs vs. 81.0% with open RAG), and 84%–88% external hyperscaler concentration in base compute layers. Under a coordinated Distributed AI Convergence Compact pairing shared clean compute, open DPI rails, dialect models, STEM fluency, and algorithmic accountability, composite developing-world productive parity reaches 72.8% by 2050 versus 32.6% under concentrated vendor displacement."
+  ],
+  "findings": [
+    "Standardized AI inference cost indices fell by 99.4% between 2021 and 2026 (from 100.0 to 0.6 for frontier APIs and 0.8 for open-weight serving), while local quantized edge capability rose from 12.0 to 94.0—making domain intelligence deployable across low-bandwidth clinics, schools, and enterprises.",
+    "IMF AI Preparedness Index gaps reveal sharp initial asymmetry: high-income frontier economies score 78.0 in digital infrastructure and 72.0 in innovation ecosystems compared with 26.0 and 21.0 across low-income economies, creating early risk of AI-induced divergence without complementary foundations.",
+    "Workplace field experiments show artificial intelligence compresses expertise gaps from within—lifting bottom-quartile novices by +35% in tech support, +39% in software coding, +42% in writing quality, and +38% in rural clinical triage compared with +3% to +11% for veteran experts.",
+    "Distilling open-weight models onto regional clean hydro/solar compute clusters and edge INT4 quantization slashes unit serving cost by 90.5%—from $14.20 per million foreign cloud API queries down to $1.35—while keeping 59% to 88% of tuning, vertical app, and extension spend inside domestic economies.",
+    "Across frontline public services and MSMEs, localized AI lifts rural TB screening accuracy from 68.0% to 91.0%, adaptive STEM mastery from 54.0% to 82.0%, smallholder crop pest accuracy from 58.0% to 89.0%, MSME credit underwriting from 63.0% to 88.0%, and local dialect query precision from 34.0% on bare frontier LLMs to 81.0% via open RAG.",
+    "Synchronizing regional clean compute, open DPI data rails, dialect RAG, STEM workflow fluency, and public algorithmic audits elevates the Bundled AI Convergence Index from 100.0 to 180.0 and lifts developing-world productive parity from 24.2% in 2026 to 72.8% by 2050 versus 32.6% under concentrated displacement."
+  ],
+  "keywords": [
+    "Artificial Intelligence",
+    "Economic Convergence",
+    "Emerging Economies",
+    "Open-Weight Models",
+    "Sovereign Compute",
+    "Human Capital",
+    "Public Sector AI",
+    "Technological Leapfrogging"
+  ],
+  "method": "An empirical and multi-sector convergence modeling synthesis combining IMF AI Preparedness Index (AIPI) sub-pillars, ILO task complementarity and substitution decompositions, Epoch AI and open-weight inference pricing series, randomized workplace RCTs on novice-expert skill compression, sovereign compute TCO stack modeling, a 3,400-firm MSME barrier survey, a 24-language dialect RAG evaluation benchmark, a 78-country AI institutional governance tracker, and a 2026–2050 global convergence scenario engine calibrated across frontier, emerging scaler, and catch-up regimes. Comprises an executive synthesis, eight analytical sections, 16 data figures, and a technical mathematical appendix.",
+  "contents": [
+    "Executive Summary: Democratizing Intelligence as a Convergence Engine",
+    "1. Intelligence as General-Purpose Capital and Global Convergence",
+    "2. Inference Cost Deflation, Open-Weight Models, and Sovereign Compute",
+    "3. Expertise Compression, Task Complementarity, and Workforce Transition",
+    "4. MSME Automation, Data Formalization, and Supply-Chain Upgrading",
+    "5. Health, Adaptive Education, and Linguistic Inclusion on the Frontlines",
+    "6. Public Sector Modernization and Scientific Research Leapfrogging",
+    "7. Overcoming Technological Concentration, Displacement, and Vendor Lock-In",
+    "8. The Distributed AI Convergence Compact: Sequencing to 2050"
+  ],
+  "backmatter": [
+    "9. Quantitative Framework, Equations, and Data Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24231045",
+  "license": "CC BY 4.0"
+}
