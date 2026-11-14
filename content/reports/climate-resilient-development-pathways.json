@@ -1,0 +1,61 @@
+{
+  "slug": "climate-resilient-development-pathways",
+  "seriesNumber": 15,
+  "number": "HH-2026-46",
+  "title": "Climate-Resilient Development Pathways",
+  "subtitle": "Integrating Adaptation, Infrastructure and Economic Development in High-Risk Regions",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "climate-resilient-development-pathways.pdf",
+  "pages": 31,
+  "dek": "How anticipatory early warning systems, heat-and-flood-proofed infrastructure, cool urban zoning, climate-smart watersheds, debt-for-adaptation swaps, and triple-dividend planning transform climate vulnerability into compounding structural development gains across high-risk emerging regions.",
+  "topics": [
+    "Climate-Resilient Development",
+    "Climate Adaptation",
+    "Resilient Infrastructure",
+    "Disaster Risk Finance"
+  ],
+  "abstract": [
+    "Climate-Resilient Development Pathways examines how countries and communities can pursue sustained economic and human development while reducing vulnerability to climate-related hazards and environmental change. The report explores how climate adaptation, resilient infrastructure, land-use planning, technological innovation and institutional capacity can be integrated into development strategies to protect productive assets, strengthen essential services and support long-term socioeconomic progress.",
+    "Evaluating resilience through Triple-Dividend accounting overturns fiscal austerity objections: integrating modest +2% to +4% upfront hazard-proofing into infrastructure procurement, reflective cool roofs and green urban canopies (7.4x BCR), sponge-city flood basins (6.1x), mangrove-seawall hybrids (5.8x), and 72-to-120 hour early warnings (8.6x) yields $460 to $610 in present value per $100 invested while cutting annual expected hazard GDP drag 73.3%—from 4.80% down to 1.28%.",
+    "Particular attention is given to emerging and climate-vulnerable economies where compounding heat stress, floods, drought, and debt crowding threaten catch-up: keeping peak-summer urban labor retention at 95.0% (vs 64.2% under unadapted heat islands), preserving 86.0%–95.0% agricultural crop yields under drought via solar drip irrigation and stress-tolerant seeds (+$214B/yr saved), replacing 14.6% emergency post-disaster debt with debt-for-adaptation swaps (6.1% WACC, 4.7x leverage) and blended Resilience & Sustainability pools (4.9% WACC, 5.8x leverage), and lifting high-risk developing convergence parity from 46.5% in 2026 to 84.6% by 2050."
+  ],
+  "findings": [
+    "Unadapted physical hazards impose a compounding 4.80% annual expected GDP drag across high-risk developing economies, stalling real per-capita output at index 108.4 (2010 = 100.0) in 2026 versus 148.5 under proactive resilient convergence; multi-sector defenses cut residual hazard losses 73.3% down to 1.28% of GDP.",
+    "Proactive adaptation generates 4.6x to 6.1x Triple-Dividend capital returns ($460 to $610 present value per $100 invested across avoided physical losses, unlocked private credit and productivity, and ecological/health co-benefits), adding only 2%–4% upfront procurement CapEx.",
+    "Reflective cool roofs paired with vegetated urban tree canopies preserve 94.0%–95.0% of peak-summer outdoor and non-AC manufacturing labor output through 2034 (vs 64.2% under concrete heat-island sprawl), while climate-smart seeds and solar drip irrigation retain 86.0%–95.0% yields in severe drought years.",
+    "Synchronizing 72-to-120 hour AI Doppler early warnings (slashing preventable mortality and livestock loss 83.0%–92.0%) with forecast-triggered mobile safety nets keeps 89.0% of children in school (vs 48.0% ad-hoc relief) and 91.0% household nutrition intact 90 days after disasters.",
+    "Across 62 surveyed high-risk nations, 81.0% cite sovereign debt distress as the sharpest resilience brake; replacing 14.6% reactive emergency borrowing with debt-for-adaptation swaps (6.1% WACC, 4.7x leverage) and blended RST pools (4.9%, 5.8x) raises the Integrated Resilience Index from 100.0 to 185.0 and expands 2050 resilient convergence from 49.2% to 84.6%."
+  ],
+  "keywords": [
+    "Climate-Resilient Development",
+    "Climate Adaptation",
+    "Resilient Infrastructure",
+    "Urban Resilience",
+    "Climate-Smart Agriculture",
+    "Disaster Risk Finance",
+    "Triple Dividend",
+    "Economic Convergence"
+  ],
+  "method": "An integrated climate-macroeconomic and probabilistic resilience modeling framework combining hazard-adjusted capital accumulation accounting (-73.3% GDP drag compression), a 25-cell infrastructure-hazard BCR matrix (2.4x–8.8x), 20-year Triple-Dividend present value decompositions ($460–$610 per $100 CapEx), Wet-Bulb Globe Temperature urban labor elasticity curves, agronomic drought-yield trials, a 62-nation adaptation barrier and sovereign WACC diagnostic, and a 2026–2050 Climate-Resilient Convergence simulation (46.5% to 84.6%). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a mathematical appendix.",
+  "contents": [
+    "Executive Summary: Resilience as a Triple-Dividend Growth Engine",
+    "1. The Compounding Hazard Penalty and Unadapted Development Drag",
+    "2. Designing Climate-Resilient Power, Transport, Water, and Health Infrastructure",
+    "3. Urban Land-Use Zoning, Passive Cooling, and Flood-Safe Housing",
+    "4. Climate-Smart Agriculture, Drought-Tolerant Crops, and Watershed Security",
+    "5. Multi-Hazard Early Warning, Shock-Responsive Safety Nets, and Human Capabilities",
+    "6. Closing the Adaptation Finance Divide Through Sovereign Insurance and Blended Capital",
+    "7. Aligning Climate Adaptation With Poverty Reduction and Green Industrialization",
+    "8. Operationalizing the 2050 Climate-Resilient Development Compact"
+  ],
+  "backmatter": [
+    "9. Hazard-Adjusted Capital Equations, Triple-Dividend Valuation, and Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24234025",
+  "license": "CC BY 4.0"
+}
