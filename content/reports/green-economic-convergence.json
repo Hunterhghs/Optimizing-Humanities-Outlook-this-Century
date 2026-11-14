@@ -1,0 +1,62 @@
+{
+  "slug": "green-economic-convergence",
+  "seriesNumber": 11,
+  "number": "HH-2026-42",
+  "title": "Green Economic Convergence",
+  "subtitle": "Aligning Global Economic Catch-Up With Decarbonization, Clean Technology and Environmental Improvement",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "green-economic-convergence.pdf",
+  "pages": 31,
+  "dek": "How clean energy deflation, green industrial hubs, electric cooking and transit, blended climate finance, and clean technology transfer turn decarbonization from a catch-up penalty into a compounding engine of growth across the Global South.",
+  "topics": [
+    "Green Economic Convergence",
+    "Decarbonization",
+    "Renewable Energy",
+    "Climate Finance"
+  ],
+  "abstract": [
+    "Green Economic Convergence examines how emerging economies can narrow global income, productivity and development disparities while simultaneously improving environmental conditions and transitioning toward low-carbon economic systems. The report explores the intersection of economic convergence, sustainable industrialization, clean technology diffusion, renewable energy deployment and environmental development across the Global South.",
+    "Rather than reproducing the pollution-intensive industrialization patterns of earlier-developing economies—which drove per-capita emissions toward 15.1 tCO2/cap across catch-up income tiers—emerging economies can leverage 2010–2026 clean hardware learning curves (-88.5% utility solar PV, -93.0% LFP battery storage, -84.0% clean process heat, -81.0% electrolyzers) to tunnel underneath the Environmental Kuznets Curve, peaking near 2.6 tCO2/cap before declining toward 1.8 tCO2/cap while cutting full societal power cost by 80.9% ($32/MWh net vs. $168/MWh coal + externality).",
+    "Particular attention is given to the Global South, where rapid urbanization and industrial buildout create opportunities in clean cooking (31% to 84%), low-carbon industrial hubs (green DRI steel, hydro aluminum, LC3 cement, green ammonia at 21%–32% cost advantages), sustainable urban mobility, and domestic green value chains (22% raw extraction up to 86% circular hubs). Evaluating financing spreads across 68 developing markets, deploying 5.8x multilateral FX hedging pools compresses African and Asian clean project WACC into the 5.5%–7.2% corridor and raises developing-world Clean Prosperity Parity from 27.4% in 2026 to 79.4% by 2050."
+  ],
+  "findings": [
+    "Emerging economies can tunnel underneath the historical Environmental Kuznets Curve (15.1 tCO2/cap peak) through 2010–2026 modular hardware deflation—utility solar PV (-88.5%), LFP battery storage (-93.0%), clean process heat (-84.0%), and electrolyzers (-81.0%)—capping middle-income peak emissions at 2.6 tCO2/cap before falling to 1.8 tCO2/cap at $35,000 PPP.",
+    "Accounting for avoided PM2.5 health damages (-$38/MWh), hard-currency fossil import savings (-$24/MWh), and climate-resilience credits (-$12/MWh) alongside the -$62/MWh solar-LFP generation spread trims net societal industrial power cost by 80.9%, from $168/MWh full-cost coal down to $32/MWh.",
+    "Clean-energy-endowed emerging industrial hubs capture structural export advantages as border-carbon pricing expands: green DRI steel (89.0 vs. 118.0 index), hydro aluminum (84.0 vs. 124.0), calcined clay LC3 cement (86.0 vs. 109.0), and green ammonia (92.0 vs. 128.0) outperform carbon-adjusted legacy plants by 21% to 32%.",
+    "Across rapidly growing developing cities, electric BRT corridors (-47% commute burden), sanitary waste bio-methane capture (-71% methane), clean air rules (-64% PM2.5 mortality), and passive building cooling (-44% peak load) cut municipal fossil fuel import bills by 58% while lifting resilient urban flood continuity from 42.0 to 84.0.",
+    "Financing spreads—reported by 76.0% of 68 surveyed EMDEs—rather than hardware costs constrain deployment: unhedged solar project WACC hits 13.8% in Sub-Saharan Africa and 9.2% in South/SE Asia versus 4.2% in OECD markets; multilateral FX hedging pools deliver 5.8x private capital leverage and compress WACC into the 5.5%–7.2% band.",
+    "Pairing clean grids (+18.5 pts), blended FX finance (+16.2), green industrial parks and circular mineral upgrading from 22.0% to 86.0% capture (+14.8), electric transit and cooking (+13.5), and climate resilience (+12.0) elevates the Green Convergence Index from 100.0 to 175.0 and lifts 2050 Clean Prosperity Parity to 79.4% (+42.6 points over fossil lock-in)."
+  ],
+  "keywords": [
+    "Green Economic Convergence",
+    "Decarbonization",
+    "Clean Technology",
+    "Renewable Energy",
+    "Sustainable Industrialization",
+    "Climate Finance",
+    "Global South",
+    "Environmental Improvement"
+  ],
+  "method": "An integrated empirical and structural convergence modeling synthesis combining Environmental Kuznets tunneling panel calibration across $2,000–$35,000 GDP per capita PPP tiers, IRENA/BloombergNEF 2010–2026 clean hardware learning curves, socio-economic externality power accounting ($168 vs. $32/MWh), regional WACC financing spreads across 68 developing markets, border-carbon industrial competitiveness benchmarks (green DRI steel, hydro aluminum, LC3 cement, green ammonia), critical-mineral value-chain accounting (22% to 86%), and a calibrated 2026–2050 Clean Prosperity Parity projection engine. Comprises an executive synthesis, eight analytical sections, 16 data figures, and a technical mathematical appendix.",
+  "contents": [
+    "Executive Summary: Growth and Decarbonization as Mutual Accelerators",
+    "1. Tunneling Under the Environmental Kuznets Curve Through Clean Deflation",
+    "2. Clean Grid Readiness, Electrification, and Universal Clean Cooking",
+    "3. Low-Carbon Manufacturing, Green Steel, and Trade Competitiveness",
+    "4. Sustainable Urban Mobility, Clean Air, and Climate-Resilient Productivity",
+    "5. Closing the Cost-of-Capital Divide and Mapping Sectoral Synergies",
+    "6. Overcoming Subsidy Lock-In and Capturing Clean Value Chains",
+    "7. Blended Finance Multipliers, Technology Transfer, and Domestic Institutions",
+    "8. The Green Economic Convergence Compact: Strategic Sequencing to 2050"
+  ],
+  "backmatter": [
+    "9. Green Convergence Equations, WACC Valuation, and Model Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24232008",
+  "license": "CC BY 4.0"
+}
