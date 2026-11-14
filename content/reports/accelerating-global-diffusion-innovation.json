@@ -1,0 +1,62 @@
+{
+  "slug": "accelerating-global-diffusion-innovation",
+  "seriesNumber": 6,
+  "number": "HH-2026-37",
+  "title": "Accelerating the Global Diffusion of Innovation",
+  "subtitle": "Reducing Technology Adoption Gaps and Expanding Access to Productive Capabilities",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "accelerating-global-diffusion-innovation.pdf",
+  "pages": 30,
+  "dek": "An empirical and policy synthesis proving that closing the global intensive margin divide\u2014pairing open digital rails, zero-duty capital equipment, management upgrading, and sector extension systems\u2014multiplies global productivity and convergence.",
+  "topics": [
+    "Technology Diffusion",
+    "Intensive Margin",
+    "Digital Public Infrastructure",
+    "Absorptive Capacity"
+  ],
+  "abstract": [
+    "Accelerating the Global Diffusion of Innovation examines how the faster and more equitable dissemination of established technologies, operational knowledge, and frontier innovations advances global economic development and narrows productivity disparities. Integrating Comin-Mestieri two-century diffusion panels\u2014showing that diffusion patterns explain 80% of the Great Divergence since 1820 and ~40% of modern per-capita income differences through lagging intensive depth\u2014the monograph demonstrates why early product arrival no longer guarantees automatic economic catch-up.",
+    "Drawing on World Bank Firm-Level Adoption of Technology (FAT) surveys across 300+ technologies and ITU Facts & Figures 2024 telecommunications baselines, the analysis identifies why SMEs in low-income (14.5% intensive depth vs. 48.0% arrival) and lower-middle-income economies (31.5% vs. 69.0%) remain stalled behind the productivity frontier: 64.2% cite ROI-fit uncertainty and 58.6% face managerial capability deficits, compounded by 27% vs. 93% internet access gaps, 4% vs. 84% 5G reach, an 8x mobile data gap, and >18% capital-goods tariffs.",
+    "Across 184 economies modeled in the H Heuristics Global Diffusion Model (v3.7), synchronizing open Digital Public Infrastructure and multilingual AI rails (lifting diffusion velocity from 100.0 to 173.5), zero-duty capital corridors ($410B/yr CapEx; +27.6% TFP spillover), accredited extension and management upgrading (80.0% Year-6 retention vs. 24.5%), sub-25 clean solar/storage microgrids and 94.2% cold-chain preservation, and solar clinic diagnostics (+31.2% reach) raises emerging-economy frontier absorption from 28.5% in 2026 to 74.6% by 2050 versus 38.0% under fragmented inertia."
+  ],
+  "findings": [
+    "Comin and Mestieri demonstrate that international technology diffusion patterns explain 80% of the Great Divergence since 1820; while arrival lags narrowed dramatically, lagging intensive depth accounts for ~40% of modern per-capita income disparities.",
+    "World Bank Firm-Level Adoption of Technology (FAT) surveys across 300+ technologies reveal that 64.2% of developing-world firms cite information and ROI-fit uncertainty and 58.6% cite managerial capability deficits\u2014ahead of financing constraints (52.4%).",
+    "ITU Facts and Figures 2024 documents stark digital infrastructure bifurcation: 93% online and 84% 5G coverage in high-income nations versus 27% online, 4% 5G reach, and an 8x mobile data intensity gap (2.0 vs. 16.2 GB/month) in low-income nations.",
+    "Open Digital Public Infrastructure (digital ID +14.2, fast payments +16.8, local fiber/IXPs +12.5, multilingual AI +18.4, open models +11.6) raises composite diffusion velocity to 173.5 against a 100.0 legacy baseline.",
+    "Clean and social technology cost curves\u2014solar PV down to 22.5 index points (2014 = 100) and battery storage to 18.5 by 2026\u2014unlock distributed health (+31.2% clinic reach with solar diagnostics), structured EdTech (+28.4%), and cold-chain preservation (94.2%).",
+    "In H Heuristics Global Diffusion Model (v3.7) simulations across 184 economies, coordinated diffusion pacts lift emerging-world technology absorption from 28.5% of the frontier in 2026 to 74.6% by 2050 versus 38.0% under restrictive fragmentation."
+  ],
+  "keywords": [
+    "technology diffusion",
+    "innovation adoption",
+    "intensive margin",
+    "productive capabilities",
+    "knowledge transfer",
+    "digital public infrastructure",
+    "absorptive capacity",
+    "economic convergence"
+  ],
+  "method": "An empirical and multi-sector modeling synthesis combining Comin-Mestieri cross-country historical and modern adoption (CHAT) panels, World Bank Firm-Level Adoption of Technology (FAT) surveys covering 300+ technologies and 60+ business functions alongside World Management Survey benchmarks, ITU Facts & Figures 2024 telecommunications data, WIPO Global Innovation Index cluster telemetry, IRENA clean technology cost curves, FAO/WHO/UNESCO sector evaluations, and UNIDO global value chain supplier evidence across 184 economies in the H Heuristics Global Diffusion Model (v3.7). Long-range 2030\u20132050 trajectories represent conditional structural policy pathways rather than unconditional forecasts. The monograph comprises an executive summary, eight analytical chapters, 16 data figures, and a methodological appendix.",
+  "contents": [
+    "Executive Summary & Core Thesis",
+    "1. The Two Margins of Diffusion: Why Access Alone Fails to Close Productivity Gaps",
+    "2. Information Frictions, Management Capability & Absorptive Capacity",
+    "3. Telecommunications, Open Digital Rails & Applied AI Leapfrogging",
+    "4. Cross-Border Knowledge Transfer: Value Chains, Trade & Open Standards",
+    "5. High-Impact Sector Diffusion I: Clean Energy Grids & Climate-Smart Agriculture",
+    "6. High-Impact Sector Diffusion II: Distributed Healthcare & Adaptive Education",
+    "7. Institutional Architecture: Extension Systems, Applied Labs & Balanced IP",
+    "8. 2026\u20132050 Global Diffusion Scenarios & Implementation Playbook"
+  ],
+  "backmatter": [
+    "Methodological Appendix: Two-Margin Diffusion Accounting & Data Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24227609",
+  "license": "CC BY 4.0"
+}
