@@ -1,0 +1,61 @@
+{
+  "slug": "sustainable-industrialization-global-south",
+  "seriesNumber": 13,
+  "number": "HH-2026-44",
+  "title": "Sustainable Industrialization in the Global South",
+  "subtitle": "Clean Energy, Productive Transformation and Low-Carbon Economic Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "sustainable-industrialization-global-south.pdf",
+  "pages": 32,
+  "dek": "How clean power zones, industrial heat electrification, green metallurgy, SME automation, circular resource recovery, and FX-hedged blended capital transform Global South manufacturing into the defining low-carbon growth engine of the mid-twenty-first century.",
+  "topics": [
+    "Sustainable Industrialization",
+    "Global South",
+    "Clean Energy",
+    "Productive Transformation"
+  ],
+  "abstract": [
+    "Sustainable Industrialization in the Global South examines how developing economies can expand industrial capacity, diversify production and increase economic productivity while transitioning toward environmentally sustainable production systems. The report explores the role of renewable energy, electrification, clean manufacturing, technological upgrading, infrastructure investment and industrial innovation in enabling emerging economies to pursue long-term economic transformation without reproducing the pollution-intensive development patterns of earlier industrialization.",
+    "Across the Global South, clean-cluster industrial value-added per worker reached index 188.6 (2010 = 100.0) by 2026, outperforming legacy fossil-grid manufacturers (125.0) by more than 63 points and raw commodity exporters (108.1) by more than 80 points. At the utility meter, co-locating dedicated solar-wind power purchase agreements, 6-hour LFP storage, waste-heat co-generation, and avoided border-carbon levies compresses net delivered factory electricity from $146/MWh down to $32/MWh (-78.1%) at 98.0% continuous uptime.",
+    "Particular attention is given to escaping premature deindustrialization and raw-commodity export traps (21.0% domestic GVC value retention versus 78.0% inside circular green eco-parks), electrifying industrial process heat across food (94.0%), textiles (91.0%), pulp/paper (86.0%), and machinery assembly (82.0%), overcoming sovereign financing spreads (compressing 14.2% Sub-Saharan African WACC down toward 7.4% via 5.9x multilateral FX export pools), and sequencing a 2026–2050 Clean Industrialization Compact that lifts developing-world industrial parity from 29.2% to 76.8%."
+  ],
+  "findings": [
+    "Co-locating solar-wind PPAs (-$58/MWh), 6-hour LFP battery firming (-$26/MWh), waste-heat/biogas co-generation (-$14/MWh), and avoided border-carbon levies (-$16/MWh) slashes delivered industrial power costs 78.1% from $146/MWh down to $32/MWh at 98.0% uptime.",
+    "Clean-energy-endowed Global South hubs capture a 21% to 32% landed export cost advantage into OECD markets across green DRI steel (86.0 vs 122.0 index), hydro aluminum (84.0 vs 126.0), green ammonia (89.0 vs 131.0), and EV cathode precursors (81.0 vs 116.0), while 82.0% to 94.0% of light-to-medium industrial process heat below 400C is directly electrifiable.",
+    "Moving from raw mineral and agricultural exports (21.0% domestic value retention) into domestic refining/CKD assembly (42.0%), co-located green steel and EV component zones (69.0%), and circular recycling eco-parks (78.0%) captures nearly 4x the domestic value-added while cutting freshwater intake 66.0%, landfill waste 78.0%, and Scope 1+2 emissions 82.0%.",
+    "Across 64 surveyed emerging industrial corridors, financing spreads—not hardware feasibility—rank as the top barrier (78.0% of zones), with unhedged WACC reaching 14.2% in Sub-Saharan Africa and 9.4% in South Asia versus 4.3% in OECD hubs; multilateral FX export pools mobilize a 5.9x private capital multiplier and compress WACC into the 5.7%–7.4% range.",
+    "Synchronizing dedicated clean industrial zones, electrified SME clusters, circular recovery, FX-hedged capital, and joint-venture TVET lifts our Sustainable Industrialization Index from 100.0 to 178.0 and raises Global South industrial parity from 29.2% in 2026 to 76.8% by 2050 versus 37.2% under stagnant fossil-grid lock-in."
+  ],
+  "keywords": [
+    "Sustainable Industrialization",
+    "Global South",
+    "Clean Energy",
+    "Green Manufacturing",
+    "Low-Carbon Development",
+    "Productive Transformation",
+    "Value Chains",
+    "Climate Finance"
+  ],
+  "method": "An empirical and structural industrial convergence modeling framework integrating green cluster value-added productivity indices (188.6 vs 108.1), utility-meter industrial power tariff waterfalls ($146/MWh to $32/MWh), sub-400C process heat electrification potentials across four light manufacturing sectors, landed export cost benchmarking for heavy metals and chemicals, a 64-corridor financing spread and evacuation diagnostic, and a 2026–2050 Clean Industrialization Compact simulation (29.2% to 76.8% parity). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a mathematical appendix.",
+  "contents": [
+    "Executive Summary: Clean Energy and Productive Transformation in the Global South",
+    "1. The Clean Industrial Imperative and Power-Tariff Restructuring",
+    "2. Electrifying Industrial Heat and Mapping Global South Positioning",
+    "3. Escaping Raw Extraction Traps Through Clean Export Competitiveness",
+    "4. Domestic Market Demand, SME Upgrading, and Productive Infrastructure",
+    "5. Closing the Industrial Financing Divide and Optimizing Sectoral Portfolios",
+    "6. Overcoming Evacuation Bottlenecks and Decoupling Resource Intensity",
+    "7. International Risk Instruments, Joint Ventures, and Institutional Governance",
+    "8. The 2050 Clean Industrialization Compact: Sequencing Productive Convergence"
+  ],
+  "backmatter": [
+    "9. Industrial Productivity Equations, Renewables Pull Model, and Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24233268",
+  "license": "CC BY 4.0"
+}
