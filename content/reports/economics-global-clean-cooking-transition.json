@@ -1,0 +1,61 @@
+{
+  "slug": "economics-global-clean-cooking-transition",
+  "seriesNumber": 12,
+  "number": "HH-2026-43",
+  "title": "The Economics of the Global Clean Cooking Transition",
+  "subtitle": "Reducing Indoor Air Pollution, Improving Human Development and Accelerating Energy Access",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "economics-global-clean-cooking-transition.pdf",
+  "pages": 30,
+  "dek": "How electric pressure cookers, induction grids, PAYG LPG and bio-ethanol refills, utility on-bill financing, and high-integrity digital carbon credits convert universal clean cooking into one of the highest-return development investments of the twenty-first century.",
+  "topics": [
+    "Clean Cooking",
+    "Household Air Pollution",
+    "Energy Access",
+    "Gender Equity"
+  ],
+  "abstract": [
+    "The Economics of the Global Clean Cooking Transition examines the economic, environmental and human development benefits of transitioning households from traditional polluting cooking fuels and technologies toward cleaner cooking solutions. The report explores how access to electricity, liquefied petroleum gas, biogas, ethanol and other clean cooking technologies can reduce household air pollution, improve health outcomes, increase productivity and support broader socioeconomic development.",
+    "Evaluating societal costs accurately transforms clean cooking from neglected social welfare into flagship infrastructure: once indoor PM2.5 health damages (-$265/HH/yr), forest degradation and black carbon warming (-$172/HH/yr), unpaid fuel-collection and tending time (-$138/HH/yr), and thermal efficiency gains (-$47/HH/yr) are accounted alongside energy outlay, transitioning onto modern clean cooking slashes net annual societal burden by 86.4%, from $720 down to $98 per household annually.",
+    "Particular attention is given to emerging economies in Sub-Saharan Africa (23.8% 2026 clean cooking share) and South Asia (74.2%), analyzing why households remain trapped in $312/yr urban charcoal outlays due to 81.0% upfront appliance barriers rather than operating costs ($108/yr grid electric induction). Coordinated execution across utility on-bill credit (6.4x capital leverage), PAYG smart valves (5.3x), and metered dMRV carbon credits (4.7x) elevates the Clean Cooking Acceleration Index from 100.0 to 182.0 and lifts developing-world access from 54.0% in 2026 to 95.2% by 2050."
+  ],
+  "findings": [
+    "Over 2.1 billion people remain reliant on solid biomass or kerosene, imposing a true societal burden of $720/HH/yr; moving onto electric pressure cookers, induction, clean LPG, biogas, or ethanol cuts net annual societal cost 86.4% down to $98/HH/yr.",
+    "Switching from three-stone open fires (485 ug/m3 kitchen PM2.5) or charcoal braziers (290 ug/m3) onto electric induction & EPCs (18 ug/m3, -96.3%) or clean LPG (34 ug/m3) brings kitchens inside WHO safe interim bounds, lifting childhood pneumonia avoidance from 44.0% to 91.0% and girls' secondary attendance from 56.0% to 86.0%.",
+    "Charcoal persists despite higher operating cost—urban charcoal costs $312/yr ($298 fuel OPEX + $14 brazier) versus $108/yr for grid electric induction ($46 appliance annuity + $62 electricity)—because upfront hardware hurdles (81.0% of 54 markets) and missing consumer micro-credit (59.0%) lock families into micro-purchases.",
+    "Clean cooking reclaims 14.2 weekly hours per household (738 hours annually) across fuel gathering (6.4 hrs), fire tending (4.1 hrs), soot cleanup (2.1 hrs), and illness caregiving (1.6 hrs), boosting female paid work from 38.0% to 79.0% while cutting black carbon warming 89.0% and peri-urban deforestation 82.0%.",
+    "Replacing unbundled hardware giveaways (1.0x reach) with utility on-bill EPC lending (6.4x), PAYG smart-meter leasing (5.3x), and metered dMRV digital carbon credits (4.7x) raises primary clean meal shares from 16.0% to 92.0%, lifts the Clean Cooking Acceleration Index to 182.0, and expands developing-world access from 54.0% in 2026 to 95.2% by 2050."
+  ],
+  "keywords": [
+    "Clean Cooking",
+    "Household Air Pollution",
+    "Energy Access",
+    "Human Development",
+    "Gender Equity",
+    "Electric Cooking",
+    "Sub-Saharan Africa",
+    "South Asia"
+  ],
+  "method": "An empirical and multi-fuel convergence modeling synthesis combining WHO Global Burden of Disease kitchen PM2.5 epidemiology, 3-year liquidity-adjusted household Total Cost of Ownership audits across eight fuel modalities ($312/yr charcoal vs $108/yr eCooking), MECS/CLASP 2014–2026 appliance learning curves, rural time-use diary decompositions (14.2 hrs/wk), a 54-market supply-chain barrier diagnostic, metered dMRV carbon revenue modeling, and a 2026–2050 Clean Access Convergence simulation across 68 developing markets. Comprises an executive synthesis, eight analytical sections, 16 data figures, and a mathematical appendix.",
+  "contents": [
+    "Executive Summary: Clean Cooking as a High-Return Development Engine",
+    "1. The Invisible Energy Crisis and True Social Cost of Traditional Cooking",
+    "2. Household Air Pollution, Morbidity, and the Human-Capital Dividend",
+    "3. Technology Pathways Across eCooking, LPG, Biogas, and Bio-Ethanol",
+    "4. Reclaiming Time Poverty, Advancing Gender Equity, and Country Readiness",
+    "5. Halting Deforestation, Black Carbon Plumes, and Optimizing Fuel Mixes",
+    "6. Dismantling Upfront CapEx Hurdles, Fuel Stacking, and Logistics Bottlenecks",
+    "7. Utility On-Bill Credit, PAYG Refills, and High-Integrity Carbon Markets",
+    "8. Universal Clean Cooking Roadmap: Strategic Sequencing from 2026 to 2050"
+  ],
+  "backmatter": [
+    "9. Clean Cooking TCO Equations, PM2.5 Valuation, and Model Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24232841",
+  "license": "CC BY 4.0"
+}
