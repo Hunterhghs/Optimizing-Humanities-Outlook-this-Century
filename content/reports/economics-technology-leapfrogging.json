@@ -1,0 +1,62 @@
+{
+  "slug": "economics-technology-leapfrogging",
+  "seriesNumber": 10,
+  "number": "HH-2026-41",
+  "title": "The Economics of Technology Leapfrogging",
+  "subtitle": "How Emerging Economies Can Accelerate Development Through Next-Generation Technologies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "economics-technology-leapfrogging.pdf",
+  "pages": 31,
+  "dek": "Bypassing legacy infrastructure bottlenecks through falling clean-energy, mobile broadband, digital public infrastructure, fintech, adaptive learning, and AI-enabled systems across the Global South.",
+  "topics": [
+    "Technology Leapfrogging",
+    "Emerging Economies",
+    "Digital Infrastructure",
+    "Distributed Clean Energy"
+  ],
+  "abstract": [
+    "The Economics of Technology Leapfrogging examines how emerging economies can accelerate development by adopting advanced technologies and infrastructure without necessarily reproducing every stage of technological development experienced by industrialized countries. The report explores how innovations in telecommunications, artificial intelligence, renewable energy, digital finance, transportation, healthcare and education can help overcome traditional development constraints and expand productive capabilities.",
+    "Particular attention is given to opportunities in the Global South, where technological leapfrogging can reduce infrastructure gaps, improve access to essential services and enable more efficient economic systems. Bypassing centralized fossil grids (-$1,620/HH), buried copper loops (-$1,180/HH), branch banking (-$940/HH), and legacy data centers (-$490/HH) compresses foundational household modernization CapEx by 87.2%, from $4,850 down to $620 per household, while historical diffusion lags shrink from 92 years (steam/rail) and 64 years (wired telephony) to 3.5 years for open AI and clean edge deployment.",
+    "The report also considers the enabling conditions for successful leapfrogging, including affordable technology, institutional capacity, digital literacy, infrastructure investment and access to international knowledge and innovation. Evaluating failure modes across 62 emerging markets (68% grid intermittency, 63% monopoly regulatory capture, 59% local maintenance gaps), coordinated execution across open DPI rails (+42% speedup), blended credit guarantees (+36%), sandboxes (+33%), and vocational cohorts lifts domestic value retention from 18% to 84% and elevates developing-world living-standards parity from 26.5% in 2026 to 78.6% by 2050."
+  ],
+  "findings": [
+    "Historical diffusion lags between frontier commercialization and 25% emerging-market adoption compressed by over 95%—from 92 years for steam railways and 64 years for copper telephony to 9 years for mobile broadband and 3.5 years for open AI and clean edge deployments—driven by synchronous 2010–2026 unit-cost drops of 86.5% to 99.2% across solar+LFP, mobile data, sensors, and AI inference.",
+    "Bypassing legacy centralized grids, wired copper loops, bank branches, and enterprise server rooms cuts foundational household modernization capital expenditure by 87.2%—from $4,850 per household down to $620 via modular solar microgrids, 4G/LEO wireless towers, open DPI switches, and quantized edge compute.",
+    "Regional telecom and financial bypass is empirically massive: Sub-Saharan Africa pairs 4.0% fixed-line penetration with 68.0% mobile/digital finance access (17x multiplier), while open public payment rails (UPI/Pix model) expand formal adult transaction accounts to 94.0% by 2026 versus 50.0% under traditional branch banking.",
+    "Decentralized clean energy and mobility cut unit delivery costs sharply across rural productive loads: solar-LFP microgrids supply clinics, cold-chain agro hubs, and micro-mills at $148–$185/MWh eq. (61%–64% below grid extension), medical drones slash blood/vaccine turnaround time by 76%, and battery-swapped 2W/3W EVs trim courier OPEX by 48%.",
+    "Unbundled equipment imports stall across 62 surveyed emerging markets—halted by grid intermittency (68%), legacy monopoly capture (63%), and local maintenance shortages (59%)—holding turnkey buyers to 18.0% domestic value capture versus 84.0% as systems advance through local O&M, open software integration, and regional export.",
+    "Pairing open DPI and consent rails (+42% speedup), blended credit guarantees (+36%), regulatory sandboxes (+33%), zero-duty clean/edge hardware tariffs (+29%), and vocational O&M cohorts lifts the Bundled Leapfrog Acceleration Index from 100.0 to 184.0 and pushes developing-world living-standards parity from 26.5% in 2026 to 78.6% by 2050."
+  ],
+  "keywords": [
+    "Technology Leapfrogging",
+    "Emerging Economies",
+    "Digital Infrastructure",
+    "Distributed Renewable Energy",
+    "Digital Finance",
+    "Artificial Intelligence",
+    "Economic Development",
+    "Global South"
+  ],
+  "method": "An empirical and multi-sector convergence modeling synthesis combining historical GPT diffusion lag ledgers, 2010–2026 synchronous learning-curve indices (IRENA, ITU, Epoch AI), household CapEx bypass engineering audits ($4,850 vs. $620), World Bank Findex and GSMA financial/mobile bypass series, decentralized solar-LFP and drone/EV corridor trials, a 62-country leapfrog barrier survey, lifecycle domestic value-chain accounting (18% to 84%), and a Monte Carlo stress-tested 2026–2050 living-standards convergence engine. Comprises an executive synthesis, eight analytical sections, 16 data figures, and a technical mathematical appendix.",
+  "contents": [
+    "Executive Summary: Compressing Development Time Through Next-Generation Leapfrogging",
+    "1. The Economics of Sequential Bypass and Diffusion Compression",
+    "2. Telecommunications Bypass and National Absorptive Readiness Regimes",
+    "3. Distributed Solar Microgrids and Storage as Industrial Grid Leapfrogs",
+    "4. Digital Payment Rails, E-Mobility, and Drone-Enabled Logistics",
+    "5. AI-Enabled Health, Online Education, and Cross-Sector Viability Ranking",
+    "6. Why Shallow Pilots Stall and How Economies Climb the Value Chain",
+    "7. Institutional Reform, Digital Literacy, and Global Knowledge Transfer",
+    "8. The Strategic Leapfrog Compact: Development Trajectories to 2050"
+  ],
+  "backmatter": [
+    "9. Leapfrogging Mathematical Model, CapEx Decomposition, and Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24231438",
+  "license": "CC BY 4.0"
+}
