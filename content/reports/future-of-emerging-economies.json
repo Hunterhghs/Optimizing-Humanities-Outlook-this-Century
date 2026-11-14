@@ -1,0 +1,62 @@
+{
+  "slug": "future-of-emerging-economies",
+  "seriesNumber": 3,
+  "number": "HH-2026-34",
+  "title": "The Future of Emerging Economies",
+  "subtitle": "Industrialization, Technological Upgrading and the Transformation of the Global South",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "future-of-emerging-economies.pdf",
+  "pages": 30,
+  "dek": "A 2026–2050 structural synthesis arguing that industrialization, digital and AI upgrading, reliable clean energy, multimodal trade corridors and human capital investment can elevate emerging economies into higher-value activity and narrow global development disparities.",
+  "topics": [
+    "Emerging Economies",
+    "Industrialization",
+    "Digital & AI",
+    "Development Finance"
+  ],
+  "abstract": [
+    "The Future of Emerging Economies examines the economic and structural transformations likely to shape developing countries across the twenty-first century. Although emerging market and developing economies (EMDEs) account for 60.9% of global GDP on a purchasing-power-parity (PPP) basis and over 84% of the world population, aggregate size masks sharp asymmetries in productive depth. Weighted per-capita real output across the Global South stands near 24.2% of the advanced-economy frontier, while nearly 70% of countries classified by UNIDO as industrializing together account for just 12.3% of global manufacturing value added (MVA) and Sub-Saharan Africa holds roughly 1.4%.",
+    "The report investigates five reinforcing transformation pillars capable of converting demographic scale into sustained productivity convergence: shifting into medium- and high-technology (MHT) manufacturing and downstream critical-mineral refining; bridging the multi-tier connectivity gap (where 5G reaches 84% of high-income populations versus 4% in low-income countries) through open digital public infrastructure (DPI) and localized enterprise AI; replacing unreliable diesel-backed factory power (up to $174/MWh and 7.6% sales lost to outages) with firm clean solar-plus-storage corridors; pre-planning secondary cities alongside cross-border rail and customs integration such as AfCFTA; and closing foundational learning, STEM/TVET, and female labor-force participation gaps while de-concentrating global FDI (where ten EMDEs capture 74.5% of total inflows and 80.2% of digital greenfield investment).",
+    "In three 2026–2050 scenarios calibrated in the H Heuristics Global South Transformation Model (v3.4), EMDE real per-capita output relative to the advanced-economy frontier moves from 24.2% in 2026 to 31.5% under geoeconomic fragmentation, 42.8% under gradual structural reform, and 56.4% under coordinated upgrading. On the coordinated path, developing economies expand to 71.4% of global PPP GDP, 54.8% of global MHT manufacturing, 78.5% clean grid share, and 64.0% formal workforce absorption by 2050. The projections are scenario paths conditional on policy execution and capital mobilization rather than unconditional forecasts."
+  ],
+  "findings": [
+    "EMDEs already generate 60.9% of world PPP GDP in 2025 (projected toward 69.5% on baseline trends and 71.4% under coordinated upgrading by 2050), yet nearly 70% of industrializing countries hold just 12.3% of global MVA, with Sub-Saharan Africa at ~1.4%.",
+    "Medium- and high-technology (MHT) industries account for more than half of global manufacturing output and separate fast-converging economies from middle-income slowdowns. East Asia's MHT share of domestic MVA sits at 46.8% and ASEAN at 39.4%, compared with 28.6% in Latin America, 27.9% in South Asia and 14.2% in Sub-Saharan Africa.",
+    "Digital public infrastructure (identity, fast payments, data exchange) and applied enterprise AI deliver 11.4%–19.4% sectoral productivity gains across fintech inclusion, digital customs, smart manufacturing, clinical triage and smallholder agronomy, once 5G (84% HIC vs. 4% LIC), internet usage (35% LDCs vs. 94% HIC) and affordability divides are bridged.",
+    "Energy unreliability acts as an acute industrial tax: delivered power tariffs in diesel-backed Sub-Saharan African corridors reach ~$174/MWh alongside 7.6% annual firm sales lost to outages, versus ~$54/MWh and 0.4% loss in clean grid hubs. Developing nations outside China extract 64% of critical minerals yet capture only 16% of midstream refining and 9% of precursor/cathode manufacturing.",
+    "Pre-planning secondary cities and multimodal trade links raises urban output-per-worker from a 100.0 unplanned baseline to 141.0 (+16.5 from transit and land cadastres, +12.8 from reliable power, +9.4 from broadband/DPI and +8.3 from port-rail access), while AfCFTA corridor reforms can expand intra-African trade share from 15.2% toward 40.2% by 2040.",
+    "Because global capital concentrates heavily—the top 10 EMDE recipients capture 74.5% of total developing-world FDI ($867B) and 80.2% of digital greenfield flows—scaling multilateral FX hedging, credit guarantees and digital single windows is essential to lift EMDE per-capita income toward 56.4% of the frontier by 2050."
+  ],
+  "keywords": [
+    "emerging economies",
+    "structural industrialization",
+    "technological upgrading",
+    "Global South transformation",
+    "digital public infrastructure",
+    "artificial intelligence adoption",
+    "demographic dividend",
+    "foreign direct investment"
+  ],
+  "method": "An integrated empirical and scenario synthesis grounded in IMF World Economic Outlook PPP series, UNIDO Industrial Development Report MVA and MHT structural decompositions, UNCTAD World Investment Report (2024–2025) greenfield and digital capital flows, ITU Facts and Figures connectivity indicators, WIPO Global Innovation Index scores, UN DESA 2024 World Population Prospects cohorts, IEA Critical Minerals value-chain shares and World Bank Enterprise Survey power-outage panels. Productivity decomposition follows McMillan-Rodrik between- and within-sector growth accounting, and the three 2026–2050 trajectories derive from the H Heuristics Global South Transformation Model (v3.4) spanning 184 economies. Projections represent structured scenarios conditional on stated reforms rather than forecasts. The volume comprises an executive summary, eight analytical sections, 16 data figures and a methodological appendix.",
+  "contents": [
+    "Executive Summary & Core Thesis",
+    "1. Global Macroeconomic Rebalancing & Demographic Transitions",
+    "2. Next-Generation Industrialization & Value-Chain Upgrading",
+    "3. Digital Infrastructure, Artificial Intelligence & Technological Leapfrogging",
+    "4. Clean Energy Abundance, Power Reliability & Resource Value Capture",
+    "5. Urbanization, Multimodal Corridors & Regional Trade Integration",
+    "6. Human Capital, Workforce Skills & Demographic Absorption",
+    "7. International Investment, Capital Allocation & Institutional Capacity",
+    "8. Integrated 2026–2050 Scenarios & Transformation Roadmap"
+  ],
+  "backmatter": [
+    "Methodological Appendix: Structural Accounting & Data Notes",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24225110",
+  "license": "CC BY 4.0"
+}
