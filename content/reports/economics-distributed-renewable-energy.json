@@ -1,0 +1,61 @@
+{
+  "slug": "economics-distributed-renewable-energy",
+  "seriesNumber": 14,
+  "number": "HH-2026-45",
+  "title": "The Economics of Distributed Renewable Energy",
+  "subtitle": "Expanding Electricity Access, Productive Capacity and Energy Security Through Decentralized Systems",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "economics-distributed-renewable-energy.pdf",
+  "pages": 31,
+  "dek": "How falling solar-plus-LFP storage costs, digital smart metering, productive agro-processing loads, FX-hedged blended finance, and grid-interactive regulatory compacts turn decentralized power into a high-velocity engine of rural prosperity and systemic resilience.",
+  "topics": [
+    "Distributed Renewable Energy",
+    "Electricity Access",
+    "Mini-Grids",
+    "Energy Security"
+  ],
+  "abstract": [
+    "The Economics of Distributed Renewable Energy examines how decentralized energy systems can expand electricity access, strengthen energy security and accelerate economic development, particularly in emerging economies and underserved regions. The report explores the economic and developmental potential of distributed solar generation, mini-grids, battery storage, small-scale wind and other decentralized renewable energy technologies.",
+    "Across operational rural markets, hybrid solar-LFP mini-grid levelized electricity costs compressed 73.8% between 2016 and 2026—falling from $545/MWh to $143/MWh (and trending toward $96/MWh by 2030)—undercutting captive rural diesel generation ($465/MWh) by 69.2% and remote medium-voltage grid extension beyond 15 kilometers ($288/MWh). Meanwhile, turnkey installed mini-grid CapEx declined 54.8% from $4,850/kW to $2,190/kW.",
+    "Particular attention is given to rural communities and fragile weak-grid corridors where decentralized systems unlock productive agricultural value-added (2.7x agro-MSME revenue lift via 500L milk chillers, 7.5 kW solar grain mills, and micro-welding hubs), raise health-clinic vaccine cold-chain uptime from 46.0% to 97.0% and clean eCooking shares from 12.0% to 76.0%, resolve financing bottlenecks across 58 emerging markets (compressing 15.8% unhedged bank WACC down to 5.4%–6.4% via local FX guarantee pools and under-the-grid securitized bonds), and expand Tier 3+ reliable electricity parity from 58.4% in 2026 to 96.4% by 2050."
+  ],
+  "findings": [
+    "Hybrid solar-plus-LFP mini-grid levelized costs fell 73.8% from $545/MWh in 2016 to $143/MWh in 2026 (projected $96/MWh in 2030), undercutting remote rural diesel gensets ($465/MWh) by 69.2% and distant medium-voltage grid extension beyond 15 km ($288/MWh).",
+    "Geospatial least-cost optimization across five settlement densities and five distance corridors shows decentralized architectures win beyond 8 km, with optimal delivered unit costs compressing to $68–$132/MWh when local agricultural processing stabilizes daytime capacity factors.",
+    "Bundling productive-use appliances drives village bankability and incomes: 500L solar milk chillers (+$4,850/yr, 16-month payback), 7.5 kW grain mills (+$4,120/yr), and micro-welding hubs (+$3,480/yr) multiply rural MSME cashflows 2.7x (100.0 to 272.0 by 2032) while lifting clinic vaccine cold-chain uptime from 46.0% to 97.0% and clean electric meal shares to 76.0%.",
+    "Across 58 surveyed emerging DRE markets, 76.0% cite unhedged borrowing spreads (15.8% local bank WACC) and 68.0% cite grid-arrival confiscation uncertainty as binding expansion brakes; deploying FX first-loss pools (6.4% WACC, 5.4x leverage) and under-the-grid securitized bonds (5.4% WACC, 6.3x leverage) cuts delivered tariffs twice as powerfully as further module deflation.",
+    "Stacking enforceable SPD grid-arrival rules (+21.5 pts), RBF & FX risk pools (+19.0 pts), PUE micro-credit (+17.5 pts), local TVET maintenance hubs (+14.0 pts), and grid-interactive mesh standards (+12.0 pts) elevates the Distributed Energy Acceleration Index from 100.0 to 184.0 and lifts Tier 3+ reliable access from 58.4% in 2026 to 96.4% by 2050."
+  ],
+  "keywords": [
+    "Distributed Renewable Energy",
+    "Electricity Access",
+    "Mini-Grids",
+    "Battery Storage",
+    "Productive Use of Energy",
+    "Energy Security",
+    "Rural Electrification",
+    "Blended Finance"
+  ],
+  "method": "A geospatial, techno-economic, and financial-convergence framework synthesizing 2014–2030 rural power LCOE learning curves ($465 vs $143/MWh), a 25-cell distance-density least-cost optimization matrix, enterprise payback telemetry across six productive appliances, Multi-Tier Framework social-facility load growth curves, turnkey CapEx decomposition ($4,850/kW to $2,190/kW), a 58-market regulatory and WACC diagnostic, cyclone/diesel shock continuity curves, and a 2026–2050 Distributed Access Convergence simulation (58.4% to 96.4%). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a mathematical appendix.",
+  "contents": [
+    "Executive Summary: Decentralized Power as Productive Development Infrastructure",
+    "1. The Rural Electrification Gap and Decentralized LCOE Inflection",
+    "2. Least-Cost Geospatial Electrification Across Distance and Demand Density",
+    "3. Productive Use of Energy Across Agriculture, MSMEs, and Local Value Chains",
+    "4. Electrifying Social Infrastructure: Clinics, Schools, Water, and Clean Cooking",
+    "5. LFP Storage, Small Wind Hybrids, and Digital Smart-Metering Operations",
+    "6. Overcoming Capital Cost Barriers, Utility Integration, and Regulatory Bottlenecks",
+    "7. National Grid Harmonization, Under-the-Grid Franchises, and Resilience",
+    "8. The 2050 Decentralized Energy Compact: Strategic Sequencing to Universal Access"
+  ],
+  "backmatter": [
+    "9. Spatial Least-Cost Equations, Storage Sizing, and Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24233580",
+  "license": "CC BY 4.0"
+}
