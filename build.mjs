@@ -999,7 +999,36 @@ function pageAbout(reports) {
       </div>
     </aside>
   </div>
-</section>`;
+</section>
+${
+  (config.companions || []).length
+    ? `
+<section class="band band--alt" id="companions">
+  <div class="wrap">
+    <header class="sechead">
+      ${kicker(1, 'Companion reports')}
+      <h2 class="sechead__h">Related reports on the same question</h2>
+      <p class="sechead__lede">Two earlier H Heuristics reports take on the same question from different angles. They are published on other H Heuristics sites.</p>
+    </header>
+    <ul class="companions">
+      ${config.companions
+        .map(
+          (c) => `<li class="companion">
+        <p class="companion__eyebrow">${esc(c.eyebrow)}</p>
+        <h3 class="companion__title">${esc(c.title)}</h3>
+        <p class="companion__text">${esc(c.text)}</p>
+        <p class="companion__actions">
+          <a class="btn btn--solid" href="${esc(c.url)}" target="_blank" rel="noopener">Read the report ${ICON.open}</a>
+          <span class="companion__host">${esc(c.host)}</span>
+        </p>
+      </li>`
+        )
+        .join('\n      ')}
+    </ul>
+  </div>
+</section>`
+    : ''
+}`;
 
   const description = `About ${config.series}, an open-access research report series by ${config.org}: what it covers, how the reports are written, licensing and how to cite.`;
   return layout({

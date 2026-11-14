@@ -142,6 +142,25 @@ export default {
     { href: '/about/', label: 'About' },
   ],
 
+  // Related reports published elsewhere, shown as buttons on /about/.
+  // Add, remove or reorder entries freely.
+  companions: [
+    {
+      eyebrow: 'H Heuristics Research Reports · HH-2026-65',
+      title: "Optimizing Humanity's Outlook This Century",
+      text: 'Which choices would most improve humanity’s outlook this century? Public-data ledgers, a test of multiple development dividends across 131 economies, a ranking of twelve interventions and a six-dimension Century Outlook Dashboard.',
+      url: 'https://researchreports.hheuristics.com/reports/optimizing-humanitys-outlook/',
+      host: 'researchreports.hheuristics.com',
+    },
+    {
+      eyebrow: 'Polycrisis Resilience Series · No. 56',
+      title: "The Top Ways to Optimize Humanity's Outlook This Century",
+      text: 'Ranks nine high-leverage interventions for the Global South with two scoring systems, and models three scenarios to 2100 under the idea of multidimensional optimization.',
+      url: 'https://polycrisisresilience.hheuristics.com/reports/top-ways-to-optimize-humanitys-outlook/',
+      host: 'polycrisisresilience.hheuristics.com',
+    },
+  ],
+
   // Other places H Heuristics publishes, listed on /about/ and in the footer.
   elsewhere: [
     { name: 'H Heuristics', url: 'https://www.hheuristics.com', note: 'The organisation and its advisory work' },
