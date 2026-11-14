@@ -1,0 +1,62 @@
+{
+  "slug": "digital-infrastructure-economic-convergence",
+  "seriesNumber": 7,
+  "number": "HH-2026-38",
+  "title": "Digital Infrastructure as an Engine of Economic Convergence",
+  "subtitle": "Digital Public Infrastructure, Financial Inclusion and Productivity Growth in Emerging Economies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "digital-infrastructure-economic-convergence.pdf",
+  "pages": 30,
+  "dek": "An empirical and policy synthesis proving that synchronized connectivity networks and open digital public infrastructure slash transaction costs, formalize enterprise productivity, expand financial inclusion, and accelerate income convergence across emerging economies.",
+  "topics": [
+    "Digital Infrastructure",
+    "Digital Public Infrastructure",
+    "Financial Inclusion",
+    "Productivity Convergence"
+  ],
+  "abstract": [
+    "Digital Infrastructure as an Engine of Economic Convergence examines how high-speed telecommunications connectivity and open, interoperable Digital Public Infrastructure (DPI)\u2014verifiable digital identity, instant low-cost payment rails, and consent-based data exchange\u2014unlock productive opportunities, compress economy-wide transaction costs, formalize micro-enterprises, and accelerate long-run income convergence in emerging economies. Synthesizing ITU Facts & Figures 2024 and World Bank Global Findex panels, the study isolates stark structural divides across income tiers: 93% internet access, 84% 5G reach, and 91% digital payment use in high-income nations versus 27%, 4%, and 24% across low-income economies.",
+    "Across cross-country broadband growth regressions and H Heuristics Integrated Digital Convergence Model (v3.8) estimations spanning 184 economies, synchronizing connectivity with open Digital ID (+1.44%) and interoperable fast payments (+1.65%) generates a super-additive +2.45% annual GDP per capita growth lift per +10 percentage-point scaling\u2014nearly double standalone fixed broadband (+1.21%). Open DPI slashes cross-border remittances from 6.35% to 1.45%, merchant MDR from 2.40% to 0.15%, and direct G2P benefit leakage from 18.5% to 1.4%, lifting adult financial inclusion from 51.0% to 88.5% while pushing open fast-payment retail share in emerging pioneers from 4.0% in 2016 to 72.5% in 2026.",
+    "Pairing open-access backhaul and sub-2% GNI mobile affordability with API-linked GovStack architectures yields 38% tax formalization gains, 34% procurement savings, 84% welfare targeting accuracy, and 92% registry speedups while extending portable health IDs to 78% of households and upgrading export value added toward digitally delivered services (38.0% by 2035). Across 2026\u20132050 scenarios in 184 economies, executing a Coordinated Full-Stack DPI & Connectivity Compact lifts weighted emerging-economy per-capita GDP from 24.2% of the OECD frontier in 2026 to 68.4% by 2050 versus 34.8% under fragmented monopolies."
+  ],
+  "findings": [
+    "Empirical regressions show that while a +10 percentage-point rise in fixed (+1.21%) or mobile (+1.38%) broadband lifts per-capita GDP growth meaningfully, synchronizing connectivity with open digital ID (+1.44%) and interoperable fast payments (+1.65%) generates a super-additive +2.45% annual output dividend.",
+    "Open Digital Public Infrastructure compresses core transaction frictions dramatically: cross-border remittance costs drop from a 6.35% legacy average to 1.45%, merchant MDR falls from 2.40% to 0.15%, and direct digital G2P benefit leakage collapses from 18.5% to 1.4%.",
+    "ITU and Global Findex 2024 evidence highlights persistent two-tier structural gaps between high-income and low-income nations: internet usage stands at 93% vs. 27%, 5G coverage at 84% vs. 4%, formal account ownership at 96% vs. 39%, and active digital payments at 91% vs. 24%.",
+    "Deploying open interoperable payment protocols pushes emerging-leader retail fast-payment volumes from 4.0% in 2016 to 72.5% in 2026, while driving formal financial inclusion along the DPI escalation ladder from 51.0% to 88.5%.",
+    "Transitioning paper agencies to API-linked GovStack architectures delivers 38% tax formalization gains, 34% procurement cost savings, 84% targeted welfare accuracy, and 92% business registration speedup while extending portable health IDs to 78% of households.",
+    "In H Heuristics Digital Convergence Model (v3.8) simulations across 184 emerging economies, a Coordinated Full-Stack DPI and Connectivity Compact elevates average per-capita GDP from 24.2% of the OECD frontier in 2026 to 68.4% by 2050 versus 34.8% under fragmented monopolies."
+  ],
+  "keywords": [
+    "digital infrastructure",
+    "digital public infrastructure",
+    "financial inclusion",
+    "economic convergence",
+    "fast payment systems",
+    "digital identity",
+    "productivity growth",
+    "emerging economies"
+  ],
+  "method": "An empirical and multi-sector modeling synthesis combining ITU Facts & Figures 2024 and GSMA Mobile Connectivity benchmarks, World Bank Global Findex and ID4D panels, BIS CPMI fast-payment velocity datasets alongside central bank releases (Pix, UPI, PromptPay), Czernich-Minges-World Bank broadband growth elasticities, World Bank Enterprise Surveys and FAT micro-data, UNCTAD TiVA digitally delivered services panels, IMF Digital Public Finance and World Bank GovTech Maturity Index (GTMI) evaluations, Packet Clearing House IXP transit data, and nested CES convergence simulations (v3.8) across 184 economies. Projections through 2050 track conditional policy pathways rather than unconditional forecasts. The monograph comprises an executive summary, eight analytical chapters, 16 data figures, and a methodological appendix.",
+  "contents": [
+    "Executive Summary & Core Thesis",
+    "1. The Macroeconomics of Digital Infrastructure: Connectivity, Transaction Costs & Scale",
+    "2. The Three-Layer DPI Stack: Verifiable ID, Open Payments & Consent Data Exchange",
+    "3. Instant Payments, Open Finance & Closing the Global Inclusion Gap",
+    "4. MSME Productivity Upgrading, E-Commerce & Cross-Border Digital Trade",
+    "5. GovTech, Tax Formalization & High-Velocity Public Service Delivery",
+    "6. Solving Last-Mile Affordability, Interoperability Rules & Cyber Resilience",
+    "7. Capital Allocation & Sequencing: Bundling Physical Telecom With Open Protocols",
+    "8. 2026\u20132050 Convergence Scenarios & National Digital Compact Playbook"
+  ],
+  "backmatter": [
+    "Methodological Appendix: Two-Tier Digital Convergence Accounting & Sources",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24229696",
+  "license": "CC BY 4.0"
+}
