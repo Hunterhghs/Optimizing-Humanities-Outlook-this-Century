@@ -15,7 +15,7 @@
 // on the next push. Preview builds may use it: they are noindex anyway.
 // ---------------------------------------------------------------------------
 
-const CANONICAL_ORIGIN = 'https://optimizinghumanitysoutlook.hheuristics.com';
+const CANONICAL_ORIGIN = 'https://globaloutlook.hheuristics.com';
 
 export const isProduction =
   process.env.CF_PAGES_BRANCH === undefined ||
