@@ -1,0 +1,62 @@
+{
+  "slug": "economics-of-development-acceleration",
+  "seriesNumber": 5,
+  "number": "HH-2026-36",
+  "title": "The Economics of Development Acceleration",
+  "subtitle": "Identifying the Structural Conditions That Accelerate Economic and Human Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "economics-of-development-acceleration.pdf",
+  "pages": 31,
+  "dek": "An empirical and policy synthesis explaining how developing economies break out of middle-income plateaus by resolving binding structural constraints, diffusing frontier technology, deepening human capabilities, and synchronizing complementary investments.",
+  "topics": [
+    "Development Acceleration",
+    "Middle-Income Trap",
+    "Technology Diffusion",
+    "Institutional Contestability"
+  ],
+  "abstract": [
+    "The Economics of Development Acceleration examines the economic, technological, institutional, and social conditions that enable developing countries to achieve faster, broader, and more sustained economic and human development. Drawing on World Bank World Development Report 2024 evidence covering 108 middle-income countries—accounting for 75.0% of global population, 65.8% of extreme poverty, and 40.0% of global GDP—only 34 economies have successfully graduated to high-income status since 1990 while median middle-income per-capita output remains stalled near 9.8% of the US frontier.",
+    "Integrating Hausmann-Pritchett-Rodrik Penn World Table growth-acceleration analyses with a nested CES cross-sector framework across 184 economies (H Heuristics Integrated Development Acceleration Model v3.6), the monograph contrasts transient commodity windfalls (collapsing to 14.0% growth survival at Year 12) against coordinated structural reform takeoffs sustaining 69.0% survival above 3.5% annual growth. Ascending the 1i–2i–3i policy escalator requires pairing FDI supplier value-chain linkages (+28.4% 5-year firm TFP) and open Digital Public Infrastructure (+24.6%) with synchronous physical corridors raising composite output to 148.5 versus a 100.0 siloed baseline.",
+    "Across human capabilities, institutional contestability, and project finance, co-deploying early childhood nutrition and clean WASH (+29.5% adult wage return), structured pedagogy (+26.8%), STEM/TVET pipelines (+24.2%), and MDB/FX-hedged blended facilities (compressing project WACC from 13.8% to 5.4% and unlocking $840B/yr in EMDE CapEx) transforms demographic youth bulges from informal stagnation (39.8%) toward 68.4% formal employment absorption by 2045. On this coordinated 3i pathway, weighted emerging-economy GDP per capita advances from 24.2% of the US/OECD frontier in 2026 to 59.4% by 2050 versus 30.8% under persistent middle-income inertia."
+  ],
+  "findings": [
+    "World Bank WDR 2024 baseline evidence shows 108 middle-income economies—home to 75.0% of world population and 65.8% of global extreme poverty—stagnating near 9.8% of US GDP per capita, with only 34 nations graduating to high-income status since 1990.",
+    "Penn World Table takeoff analyses reveal ~80+ growth-acceleration episodes (>= +2.0 percentage-point jump sustained >= 8 years), yet commodity windfalls rapidly fizzle to 14.0% Year-12 survival while coordinated reform accelerations sustain 69.0% survival and reach 204.5 index points by t+12.",
+    "Sustaining catch-up requires progressing deliberately across the 3i escalator—scaling capital Investment (1i), infusing global technologies and management (2i), and shifting into contested domestic Innovation (3i) where TFP reaches 40.0% of total output growth.",
+    "Resolving physical, digital, and human bottlenecks simultaneously multiplies returns: clean firm industrial power (+12.4), corridors (+10.8), fiber/DPI (+8.6), industrial WASH (+6.4), and customs/O&M governance (+10.3) lift composite corridor output to 148.5 vs. 100.0 siloed.",
+    "Co-deploying early childhood nutrition and WASH (+29.5% long-run labor gain), structured pedagogy (+26.8%), STEM/TVET pipelines (+24.2%), and open digital/AI rails lifts formal youth employment absorption from 31.0% to 68.4% by 2045 while FX/PIMA blended pooling cuts project WACC to 5.4% ($840B/yr CapEx).",
+    "In H Heuristics Development Acceleration Model (v3.6) simulations across 184 economies, coordinated structural execution lifts emerging-economy GDP per capita from 24.2% of the US/OECD frontier in 2026 to 59.4% by 2050 versus 30.8% under persistent middle-income inertia."
+  ],
+  "keywords": [
+    "development acceleration",
+    "middle-income trap",
+    "structural constraints",
+    "technology diffusion",
+    "total factor productivity",
+    "human capital formation",
+    "institutional contestability",
+    "economic convergence"
+  ],
+  "method": "An empirical and multi-sector modeling synthesis combining World Bank World Development Report 2024 panels, Hausmann-Pritchett-Rodrik Penn World Table Version 10.01 growth-acceleration filters, IMF World Economic Outlook and Public Investment Management Assessment (PIMA) series, UNIDO firm TFP surveys, World Bank Enterprise Surveys and Logistics Performance Index, ITU connectivity baselines, UNESCO/World Bank Human Capital and Lancet cohort evaluations, UNCTAD SDG investment series, and UN DESA demographic projections. Cross-sector elasticities follow a nested constant-elasticity-of-substitution (CES) framework (sigma ~ 0.48) calibrated across 184 economies in the H Heuristics Integrated Development Acceleration Model (v3.6). Projections through 2045 and 2050 represent conditional structural policy pathways rather than unconditional forecasts. The monograph comprises an executive summary, eight analytical chapters, 16 data figures, and a technical methodological appendix.",
+  "contents": [
+    "Executive Summary & Core Thesis",
+    "1. Structural Turning Points: How Rapid Growth Accelerations Begin and Endure",
+    "2. From Factor Accumulation to Infusion and Innovation: Scaling the 3i Escalator",
+    "3. Breaking Physical Bottlenecks: Firm Power, Corridors & Productive Logistics",
+    "4. Human Capabilities & Demographic Dividends: Health, Learning & Formalization",
+    "5. Digital Infrastructure, AI Adoption & Cross-Border Technology Leapfrogging",
+    "6. Institutional Contestability: Disciplining Incumbents & Upgrading State Capability",
+    "7. Mobilizing Patient Capital: Compressing Borrowing Spreads & Domestic Pooling",
+    "8. 2026–2050 Convergence Scenarios & National Acceleration Playbook"
+  ],
+  "backmatter": [
+    "Methodological Appendix: Structural Growth Accounting & Data Sources",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24226803",
+  "license": "CC BY 4.0"
+}
