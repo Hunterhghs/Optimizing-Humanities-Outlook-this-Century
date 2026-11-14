@@ -1,0 +1,63 @@
+{
+  "slug": "sustainable-global-economic-convergence",
+  "seriesNumber": 2,
+  "number": "HH-2026-33",
+  "title": "Sustainable Global Economic Convergence",
+  "subtitle": "Integrating Economic Catch-Up, Environmental Sustainability and Long-Term Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "sustainable-global-economic-convergence.pdf",
+  "pages": 32,
+  "dek": "An integrated macroeconomic and environmental synthesis arguing that economic catch-up and ecological sustainability reinforce one another, so the Global South can narrow income gaps without carbon lock-in or rising climate vulnerability.",
+  "topics": [
+    "Sustainable Convergence",
+    "Emerging Economies",
+    "Clean Energy",
+    "Climate Adaptation"
+  ],
+  "abstract": [
+    "This report investigates how emerging and developing economies can narrow income, productivity and capability gaps with advanced economies while building cleaner, more resource-efficient and climate-resilient economic systems. Its central proposition is that global economic convergence and environmental sustainability should be pursued as complementary development objectives, not competing ones. Through technology diffusion, clean industrialization, resilient infrastructure, circular resource use and investment in human capabilities, it argues, emerging economies can bypass carbon-intensive growth and lower their long-run environmental vulnerability.",
+    "The report sets out the cost of pollution-heavy pathways. Fine particulate matter (PM2.5) imposes about $8.1 trillion a year in premature deaths, illness and lost labour productivity, roughly 6.1% of global GDP and 9–10% of GDP in heavily burdened parts of South Asia. Around 90% of urban growth to 2050 is still to be built, in Asia and Africa, so planning and grid choices made now shape energy and climate outcomes for generations. High-income countries use more than 20 tonnes of materials per person a year against 3–4 tonnes in low-income countries. Developing countries need $305–365 billion a year for climate adaptation, against about $30 billion in international public finance, a gap of 12 to 14 times.",
+    "The report models three scenarios through 2060 on an Integrated Sustainable Convergence Index, which weights income catch-up and clean-energy, air-quality, resource-productivity and climate-resilience performance equally against an advancing frontier (frontier = 100). The Global South starts at 28.0 in 2026 and reaches 36.8 by 2060 under carbon-locked fragmentation, 57.5 under a gradual transition baseline and 82.1 under sustainable accelerated convergence. It sets milestones for the 2026–2035 action window and a ten-point playbook. The projections are scenarios under stated assumptions, not forecasts."
+  ],
+  "findings": [
+    "Catch-up and sustainability work as complements. Clean power, lower pollution, resource efficiency and climate adaptation raise labour productivity, cut exposure to fossil-fuel imports and expand human capabilities, so the report argues for treating growth and ecology as one balance sheet.",
+    "About 90% of urban growth to 2050 will occur in Asia (around 1.2 billion new urban residents) and Africa, where urbanization rises from roughly 43% to 63%. Because most of that built environment does not exist yet, transport and clean-grid decisions over the next 15 to 20 years lock in energy and flood-risk outcomes for generations.",
+    "Pollution is already a macroeconomic drag. PM2.5 costs about $8.1 trillion a year, around 6.1% of global GDP and 9–10% in the most burdened South Asian regions, and about 95% of premature deaths from it fall in developing countries. The report estimates that unplanned sprawl adds about 3.8% of GDP to transport and flood costs, and that heat and flood shocks reduce output by about 4.9% of GDP in exposed economies.",
+    "Closing material-use gaps calls for circular convergence, not austerity. High-income material footprints (21.6 tonnes per person) would contract through circular manufacturing, leaving physical room for low-income countries (3.7 tonnes) to build infrastructure. The report sets this against a linear trend of about 160 gigatonnes of extraction in 2060 and a circular corridor of 88.",
+    "Clean hardware now beats fossil incumbents on cost, which moves the constraint to finance. Utility solar (about $44 per MWh) and firm solar-plus-storage ($54–68 per MWh) undercut new coal and imported LNG in major emerging corridors, leaving the cost of capital and fragmented guarantees as the binding limit.",
+    "Adaptation pays back well and is badly underfunded. Developing countries need $305–365 billion a year (about $420 billion by 2035, inflation-adjusted) against $28–32 billion in international public flows, a 12 to 14 times gap, while the report cites benefit-cost returns of 4.8 to 9.2 times.",
+    "On the report's Integrated Sustainable Convergence Index, the Global South rises from 28.0 in 2026 to 82.1 by 2060 under sustainable accelerated convergence, against 57.5 on the gradual baseline and 36.8 under carbon-locked fragmentation. By 2050 the accelerated path adds about $18.6 trillion a year in output and avoids cumulative losses of $24.8 trillion in PM2.5 health costs, $19.4 trillion in climate damages and $14.2 trillion in fossil and raw-material imports."
+  ],
+  "keywords": [
+    "sustainable economic convergence",
+    "urbanization infrastructure lock-in",
+    "clean industrialization",
+    "material footprint circularity",
+    "PM2.5 health productivity drag",
+    "climate adaptation finance",
+    "human capabilities",
+    "technology diffusion"
+  ],
+  "method": "An integrated macroeconomic and environmental synthesis. Empirical figures draw on World Bank PM2.5 health-cost accounting, UN-Habitat and UN DESA urbanization projections to 2050, the UNEP International Resource Panel's Global Resources Outlook 2024, the UNEP Adaptation Gap Report (2024–2025) and Global Commission on Adaptation benefit-cost multiples, and IRENA and IEA cost and investment series. The report extends conventional GDP accounting to an inclusive-wealth balance sheet of produced, human and natural capital, following the World Bank's Changing Wealth of Nations and Dasgupta (2021), and links particulate concentration and climate hazards to worker productivity through damage elasticities calibrated to observed PM2.5 welfare losses of 2.1–9.5% of GDP. The three scenarios to 2060 come from the H Heuristics Integrated Convergence Model, which weights PPP income catch-up and a composite of clean-energy, air-quality, material-productivity and climate-resilience performance at 50% each. The report notes that valuation estimates vary with income and discount rates (1.5–4.5%), that consumption-based material footprints attribute extraction to final consumers, that national urbanization averages hide wide differences between cities, and that its projections are scenarios, not forecasts. It contains 16 figures across eight numbered sections and a methodological appendix.",
+  "contents": [
+    "Executive Summary & Core Thesis",
+    "1. The Complementarity Framework: Bypassing Carbon-Intensive Growth",
+    "2. Rapid Global South Urbanization & Avoiding Infrastructure Lock-In",
+    "3. Clean Energy Diffusion, Productive Power & Grid Transformation",
+    "4. Resource Productivity, Circular Industrialization & Development Space",
+    "5. Pollution Drag, Human Capabilities & Green Workforce Readiness",
+    "6. Climate Adaptation, Systemic Resilience & Vulnerability Reduction",
+    "7. Clean Industrial Policy, Digital Integration & Transition Finance",
+    "8. Integrated 2026–2060 Pathways & Operational Policy Architecture"
+  ],
+  "backmatter": [
+    "Methodological Appendix: Inclusive Wealth Accounting & Data Notes",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24224733",
+  "license": "CC BY 4.0"
+}
