@@ -1,0 +1,61 @@
+{
+  "slug": "resilience-oriented-urbanization",
+  "seriesNumber": 22,
+  "number": "HH-2026-53",
+  "title": "Resilience-Oriented Urbanization",
+  "subtitle": "Building Climate-Adapted Cities for Rapidly Growing Populations",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "resilience-oriented-urbanization.pdf",
+  "pages": 30,
+  "dek": "How rapidly expanding metropolitan corridors across climate-exposed regions can transform fragile, unserviced sprawl into sponge-buffered, passively cooled, transit-linked engines of convergence.",
+  "topics": [
+    "Resilience-Oriented Urbanization",
+    "Climate-Adapted Cities",
+    "Sponge Infrastructure",
+    "Municipal Resilience Finance"
+  ],
+  "abstract": [
+    "Resilience-Oriented Urbanization examines why rapidly growing cities across climate-exposed regions cannot separate urban expansion from hazard resilience. Treating flood drainage, passive cooling, potable water loops, and clean transit as optional overlays guarantees that 43°C+ heat islands and intense cloudbursts repeatedly erode urban capital (-39.0% annual output loss) and trap 2050 per-capita metropolitan output near 102.0 versus 274.0 under compact, resilience-oriented planning.",
+    "Evaluating infrastructure bundles across 12 rising metropolitan corridors (~237 million residents across Asia, Africa, MENA, and Latin America) over a 25-year horizon demonstrates an 11.6x composite social benefit-cost ratio (6.4x avoided damage plus 5.2x direct agglomeration growth) compared against 2.0x for emergency culvert dredging and 1.2x for uninsured concrete sprawl. Investing a +11.0% integrated adaptive design margin eliminates 82.0% of annual urban hazard loss and lifts shock continuity from 35 to 94 out of 100.",
+    "Pairing shaded mixed-use corridors with clean electric mass transit preserves 88.0%–95.0% of daily commute and workplace hours under extreme weather, while expanding compact transit-sponge density (24% to 89% node share) lifts annual metro growth from 1.8% to 7.6% and shifts 2045 safe formal housing from 25.0% to 89.0% (shrinking flood-prone slums from 34.0% to 3.0%). Backed by Land-Value Capture and 3.9% WACC Pooled Urban Resilience Banks (8.1x leverage vs 14.8% overdrafts), composite 2050 CAURI urban parity rises from 42.0 in 2026 to 89.0."
+  ],
+  "findings": [
+    "Unplanned metropolitan sprawl under rapid population growth and rising flood-heat extremes forfeits -39.0% of frontier urban output annually (-10.5 pts urban heat-island penalty, -9.5 pts flood shutdowns, -7.5 pts sprawl/grid loss, -6.5 pts slum morbidity, -5.0 pts crisis debt), leaving 2050 per-capita GDP stagnant at 102.0 vs 274.0 under Resilience-Oriented Urbanization.",
+    "Bundling sponge-city hydrology, passive cooling, clean electric transit, and in-situ informal settlement utilities generates an 11.6x 25-year social BCR (6.4x avoided disaster losses + 5.2x agglomeration compounding), outperforming emergency dredging (2.0x) and concrete sprawl (1.2x) nearly six- to tenfold.",
+    "Adding an upfront +11.0% integrated adaptive CapEx margin avoids 82.0% of annual flood-and-heat damage, lifts shock continuity from 35 to 94 out of 100, and retains 88.0%–95.0% of daily transit, market, utility, clinic, and school hours during 43°C+ and monsoon extremes.",
+    "Transitioning expansion from unserviced periphery sprawl (24% compact nodes, 1.8%/yr growth) to polycentric sponge-transit districts (89% compact nodes, 7.6%/yr growth) expands 2045 formal climate-safe housing from 25.0% to 89.0% while compressing hazardous flood slums from 34.0% to 3.0%.",
+    "Replacing retroactive disaster zoning (cited by 86.0% of 58 metro authorities) with utility occupancy deeds, Land-Value Capture, and 3.9% WACC Pooled Urban Resilience Banks (8.1x leverage) expands metro output +111.5% (61.0 to 129.0) and elevates 2050 Climate-Adapted Urban Resilience Index parity from 42.0 to 89.0."
+  ],
+  "keywords": [
+    "Resilience-Oriented Urbanization",
+    "Climate-Adapted Cities",
+    "Sponge City Infrastructure",
+    "Urban Heat Islands",
+    "Transit-Oriented Density",
+    "Slum Utility Upgrading",
+    "Municipal Resilience Bonds",
+    "Economic Convergence"
+  ],
+  "method": "A metropolitan climate-growth general equilibrium and flood-heat elasticity framework integrating 2020–2050 urban output trajectories (102.0 vs 274.0), a -39.0% urban drag decomposition, 25-year social BCR valuations (1.2x–11.6x at 3% discount), a 12-city growth-exposure scatter panel, +0% to +11% marginal adaptive CapEx curves, compact density agglomeration regressions (1.8% to 7.6%/yr), a 58-authority governance diagnostic, and 2026–2050 CAURI convergence indices (42.0 to 89.0). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a calibration appendix.",
+  "contents": [
+    "Executive Summary: Resilience as the Foundation of Twenty-First-Century Urbanization",
+    "1. Rapid Urban Expansion Meets Rising Thermal, Pluvial, and Hydrological Ceilings",
+    "2. Sponge-City Hydrology, Blue-Green Corridors, and Passive Urban Cooling at 43°C+",
+    "3. Clean Electric Mass Transit, Compact Mixed-Use Form, and Commute Resilience",
+    "4. In-Situ Informal Settlement Upgrading, Utility Tenure, and Essential Services",
+    "5. Agglomeration Compounding: Turning Climate-Adapted Cities Into Productive Engines",
+    "6. Zoning Reform, Land-Value Capture, and Pooled Municipal Resilience Banks",
+    "7. Metropolitan Convergence Paths Across Deltaic, Arid, Andean, and Sub-Saharan Belts",
+    "8. The 2050 Climate-Adapted Urban Compact: Delivering Habitable Density at Scale"
+  ],
+  "backmatter": [
+    "9. Urban Flood-Heat Elasticities, Agglomeration Equations, and Calibration Matrix",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24237027",
+  "license": "CC BY 4.0"
+}
