@@ -1,0 +1,61 @@
+{
+  "slug": "economics-of-preventive-development",
+  "seriesNumber": 18,
+  "number": "HH-2026-49",
+  "title": "The Economics of Preventive Development",
+  "subtitle": "Reducing Future Vulnerability Through Early Investment in Human and Infrastructural Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-14",
+  "language": "en",
+  "pdf": "economics-of-preventive-development.pdf",
+  "pages": 30,
+  "dek": "How upstream investments in early human capital, pre-hazard infrastructure, 72-hour anticipatory digital safety nets, watershed zoning, and ring-fenced O&M reserves generate 6.6x–11.2x returns while preventing compounding crisis losses and fiscal drag.",
+  "topics": [
+    "Preventive Development",
+    "Human Capabilities",
+    "Resilient Infrastructure",
+    "Anticipatory Fiscal Policy"
+  ],
+  "abstract": [
+    "The Economics of Preventive Development examines how early, coordinated investment in human capabilities, essential services, infrastructure, and institutional capacity can reduce future socioeconomic and systemic vulnerabilities. Rather than relying primarily on reactive interventions after crises emerge, preventive development emphasizes addressing underlying constraints before they compound into larger economic, environmental, and social costs.",
+    "Evaluating policy sequencing through hysteresis-adjusted optimal-control modeling demonstrates why reactive crisis management drains 36.5% of emerging-economy output and caps 2045 net wealth at 108.5–148.2 compared with 268.0 under preventive capital accumulation. Ex-ante interventions deliver benefit-cost ratios of 6.6x to 11.2x—led by early nutrition and primary preventive care (11.2x), 72-hour forecast-linked cash transfers (9.4x), and pre-hardened utilities (8.3x)—versus just 1.5x for post-crisis reconstruction.",
+    "Across lifecycles, upstream health investment compresses cumulative age 0–45 morbidity outlays by 10.3x ($1,690 vs $17,400), pre-hazard engineering slashes 20-year corridor outlays by 47.3% ($116B vs $220B) while maintaining 94.5% post-storm grid uptime, anticipatory DPI shields 91.0% school retention, basin zoning ($68/cap) cuts flood damage by 79.0%, and escrowed maintenance trusts compress financing WACC from 13.8% to 4.1% while lifting Preventive Readiness from 47.0 in 2026 to 91.0 by 2050."
+  ],
+  "findings": [
+    "Reactive crisis management strips emerging economies of 36.5% of potential output—driven by stalled growth compounding (-9.5 pts), post-shock rebuild debt service (-8.5 pts), child stunting and human scarring (-7.5 pts), forced distress asset sales (-6.0 pts), and deferred asset collapse (-5.0 pts).",
+    "Ex-ante preventive interventions deliver 6.6x–11.2x benefit-cost ratios (11.2x maternal nutrition & primary immunization, 9.4x 72-hour forecast-triggered mobile cash, 8.3x pre-hardened utility & flood corridors, 7.4x watershed buffers & clean cookstoves, 6.6x ring-fenced O&M escrows) versus 1.5x for reactive reconstruction.",
+    "Preventive human capability investment compresses cumulative age 0–45 lifecycle healthcare outlays 10.3x ($1,690 vs $17,400 chronic palliative costs), while pre-hazard engineering cuts 20-year corridor outlays 47.3% ($116B vs $220B) and keeps post-storm power uptime at 94.5% vs 52.0%.",
+    "Pairing satellite early warning telemetry with interoperable Digital Public Infrastructure raises 90-day post-shock school retention from 46.0% to 91.0%, distress-free smallholder survival from 34.0% to 86.5%, and maternal nutrition continuity to 92.0%, while full basin zoning ($68/cap) cuts flood/crop damage by 79.0%.",
+    "Replacing political short-termism (84.0% of 60 surveyed treasuries) and reactive grant moral hazard (77.0%) with pooled preventive resilience trusts cuts financing WACC from 13.8% to 4.1% (7.6x yield), lifts polycrisis stability to 494/500, and raises Preventive Readiness from 47.0 to 91.0 by 2050."
+  ],
+  "keywords": [
+    "Preventive Development",
+    "Development Economics",
+    "Disaster Risk Reduction",
+    "Human Capital",
+    "Resilient Infrastructure",
+    "Anticipatory Action",
+    "Fiscal Policy",
+    "H Heuristics"
+  ],
+  "method": "A hysteresis-adjusted macroeconomic optimal-control and institutional risk-governance framework integrating 2015–2045 net wealth trajectories (108.5–268.0 index), 20-year ex-ante vs post-crisis BCR audits (1.5x–11.2x), a 12-market vulnerability-readiness diagnostic, age 0–45 health cost cohorts ($1,690 vs $17,400), 20-year utility engineering outlays ($116B vs $220B), 90-day anticipatory DPI panels, watershed zoning cost-damage curves (-79.0%), a 60-treasury political-economy survey, and a 2026–2050 Preventive Compact simulation (47.0 to 91.0). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a calibration appendix.",
+  "contents": [
+    "Executive Summary: Investing Upstream to Eliminate Compounding Crisis Costs",
+    "1. Why Reactive Policy Multiplies Economic, Fiscal, and Human Costs",
+    "2. Early-Life Nutrition, Vaccination, and Preventive Healthcare as Economic Defense",
+    "3. Pre-Hazard Engineering: Shared-Trench Utilities, Flood Basins, and Heat Resilience",
+    "4. Early Warning Systems, Forecast-Based Safety Nets, and Digital Readiness",
+    "5. Urban Land-Use Discipline, Watershed Buffers, and Preventive Industrial Policy",
+    "6. Breaking Political Short-Termism With Escrowed Reserves and Preventive Bonds",
+    "7. How Preventive Development Unlocks Sustainable Industrialization and Technology Diffusion",
+    "8. The 2050 Preventive Development Compact: Operationalizing Upstream Resilience"
+  ],
+  "backmatter": [
+    "9. Preventive Capital Equations, Hysteresis Discounting, and Model Calibration",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24235985",
+  "license": "CC BY 4.0"
+}
