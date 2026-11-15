@@ -1,0 +1,61 @@
+{
+  "slug": "century-of-sustainable-convergence",
+  "seriesNumber": 25,
+  "number": "HH-2026-56",
+  "title": "The Century of Sustainable Convergence",
+  "subtitle": "The Economic and Technological Transformation of the Developing World",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-15",
+  "language": "en",
+  "pdf": "century-of-sustainable-convergence.pdf",
+  "pages": 31,
+  "dek": "How developing economies can close structural income, productivity, infrastructure, and technology gaps with the global frontier while leaping directly into clean energy, resilient cities, and broad-based human prosperity through 2050 and beyond.",
+  "topics": [
+    "Sustainable Convergence",
+    "Technology Diffusion",
+    "Clean Energy Leapfrogging",
+    "Global Catch-Up Growth"
+  ],
+  "abstract": [
+    "The Century of Sustainable Convergence examines how the 21st century creates an unprecedented historic window for developing economies to narrow income, productivity, infrastructure, and technological gaps with advanced economies while leaping directly into low-carbon, resilient development pathways. Uniting six interdependent domains—economic, technological, human development, core infrastructure, environmental, and climate resilience convergence—the monograph charts an actionable transformation blueprint through 2050 and beyond.",
+    "Empirical modeling across 12 developing corridors and 72 audited emerging economies shows that overcoming the -42.5% structural catch-up drag (-11.0 pts IP/tech exclusion, -10.0 pts energy-infra deficit, -9.0 pts human capital gap, -7.0 pts fossil lock-in, -5.5 pts sovereign spreads) unlocks a 15.6x 25-year composite social BCR (5.4x direct catch-up output plus 10.2x green-resilience dividend) and compresses developing-to-frontier GDP per capita parity from 18.0% in 2020 to 82.0% by 2050 versus stalling at 25.0% under divergent traps.",
+    "Allocating +4.2% of GDP annually to clean-digital leapfrog corridors hits the Pareto inflection knee that decouples 93.0% of carbon intensity, scaling 95.0% frontier technology-DPI adoption accelerates catch-up TFP growth from 1.4% to 8.7%/yr, shifting 92.0% of 2045 developing populations into emerging-middle or frontier tiers (cutting extreme poverty 28% to 2%), and scaling 3.4% WACC Global Convergence Pools (9.8x leverage) lifts the Global Sustainable Convergence Index (GSCI) from 39.5 in 2026 to 91.0 by 2050."
+  ],
+  "findings": [
+    "Coordinating technology diffusion, clean-digital infrastructure, human capital, and climate resilience closes developing-to-frontier GDP per capita gaps from 18.0% in 2020 to 82.0% by 2050—versus stalling at 25.0% under divergent traps or 49.0% under carbon-heavy growth.",
+    "Tech/IP exclusion (-11.0 pts), energy-infrastructure deficits (-10.0 pts), human capital gaps (-9.0 pts), fossil lock-in (-7.0 pts), and sovereign spreads (-5.5 pts) currently forfeit -42.5% of catch-up potential, whereas six-pillar convergence yields a 15.6x 25-year BCR (5.4x direct + 10.2x green-resilience dividend).",
+    "Investing +4.2% of GDP annually into clean-digital leapfrogging reaches the Pareto knee decoupling 93.0% of carbon intensity while boosting 2045 developing parity across productivity, technology, human capital, clean infrastructure, clean air, and resilience to 84%–93%.",
+    "Expanding frontier tech and open DPI penetration from 15.0% to 95.0% accelerates catch-up TFP growth from 1.4% to 8.7%/yr, drives 6.4%–9.8%/yr clean sectoral expansion, and places 92.0% of 2045 developing-world citizens into emerging-middle (37%) or frontier convergence (55%) tiers.",
+    "Eliminating 87.0% sovereign debt-cost bottlenecks across 72 audited economies via 3.4% WACC Global Convergence Pools (9.8x leverage) boosts catch-up output +140.0% (57.5 to 138.0) and lifts the 2050 Global Sustainable Convergence Index (GSCI) from 39.5 to 91.0."
+  ],
+  "keywords": [
+    "Sustainable Convergence",
+    "Developing World",
+    "Technology Diffusion",
+    "Clean Energy Leapfrogging",
+    "Human Capital",
+    "Infrastructure Expansion",
+    "Climate Resilience",
+    "Global Catch-Up Growth"
+  ],
+  "method": "A Schumpeterian distance-to-frontier catch-up and six-domain cross-channel transmission equilibrium model integrating 2020–2050 frontier-income parity trajectories (18.0% to 82.0%), a -42.5% structural drag waterfall, 25-year social BCR valuations (1.8x–15.6x at 3% discount), a 12-corridor technology-velocity scatter, +0% to +6.8% GDP clean leapfrog decoupling curves (+4.2% Pareto knee yielding 93.0% abatement), a 72-economy barrier audit, and 2026–2050 GSCI simulations (39.5 to 91.0). Comprises an executive synthesis, eight analytical sections, 16 data figures, and a technical appendix.",
+  "contents": [
+    "Executive Summary: Achieving Simultaneous Economic, Technological, and Sustainable Catch-Up",
+    "1. Beyond Smokestack Catch-Up: Why 21st-Century Convergence Must Be Multidimensional",
+    "2. Quantifying the Six Central Convergence Outcomes and Cross-Domain Pull",
+    "3. Frontier Technology Diffusion, Open DPI, and Clean-Energy Leapfrogging",
+    "4. Human Capital, Universal Infrastructure, and Middle-Class Transformation",
+    "5. Industrial Transformation Without Carbon Lock-In or Climate Fragility",
+    "6. Global Financial Architecture, Debt Relief, and Global Convergence Pools",
+    "7. Regional Catch-Up Trajectories Across Five Developing Macro-Corridors",
+    "8. The 2050 Sustainable Convergence Compact: Lifting Billions to Frontier Parity"
+  ],
+  "backmatter": [
+    "9. Frontier Catch-Up Equations, Decoupling Elasticities, and GSCI Technical Appendix",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24248254",
+  "license": "CC BY 4.0"
+}
