@@ -1,0 +1,61 @@
+{
+  "slug": "sustainable-convergence-in-the-global-south-this-century",
+  "seriesNumber": 26,
+  "number": "HH-2026-57",
+  "title": "Sustainable Convergence in the Global South This Century",
+  "subtitle": "Pathways and Real-World Context for Sustainable Economic and Technological Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-15",
+  "language": "en",
+  "pdf": "sustainable-convergence-in-the-global-south-this-century.pdf",
+  "pages": 30,
+  "dek": "How countries across Africa, Asia, Latin America, MENA, and Central Asia can integrate rising productivity, clean energy systems, technological diffusion, human development, and climate resilience—achieving prosperous frontier catch-up across four century phases through 2100.",
+  "topics": [
+    "Sustainable Convergence",
+    "Global South",
+    "Clean Energy Transition",
+    "Climate Resilience"
+  ],
+  "abstract": [
+    "Sustainable Convergence in the Global South This Century establishes Sustainable Convergence as a practical 21st-century development pathway through which developing economies across Africa, Asia, Latin America, MENA, and Central Asia can close structural economic and technological gaps while advancing environmental sustainability, climate resilience, and human development. Across 30 pages and 16 empirical visuals, the report demonstrates that economic convergence and ecological sustainability are mutually reinforcing rather than competing objectives.",
+    "Drawing on World Bank and IEA baselines (more than 666 million people lacking electricity and 2.1 billion lacking clean cooking access in 2023), OECD 2026 regional power benchmarks (Latin America generating 64.3% of regional electricity from renewables in 2024), and UNCTAD annual transition financing needs ($1.1–$1.8 trillion per year for 2025–2030), the analysis examines eight interconnected pathways—clean energy, sustainable industrialization, digital public infrastructure, resilient urbanization, precision agriculture, human capital, climate adaptation, and institutional finance—alongside country trajectories in Vietnam, India, Chile, Brazil, Indonesia, Rwanda, Kenya, Uganda, Tanzania, Mozambique, and Ethiopia.",
+    "Evaluating absolute domestic gains alongside relative frontier parity across eight dimensions prevents misleading progress metrics. Under a disciplined four-phase century roadmap (2025–2035, 2035–2050, 2050–2075, and 2075–2100), bundled clean-digital compacts compress WACC from 12.1% to 3.3% (10.1x private leverage), unlock a 15.8x 25-year composite social benefit-cost ratio, shift 95.0% of 2075 Global South populations into secure middle or frontier tiers, lift the Century Sustainable Convergence Index (CSCI) from 38.0 to 96.5, and close Global South per-capita GDP parity from 17.5% in 2025 to 91.0% of frontier parity by 2100."
+  ],
+  "findings": [
+    "Coordinating clean power, digital rails, human capital, and climate shielding raises Global South per-capita GDP parity from 17.5% in 2025 to 45.0% in 2050, 77.5% in 2075, and 91.0% by 2100—versus stalling at 29.0% under fragmented drift.",
+    "Five structural constraints—capital costs (-11.5 pts), energy-grid deficits (-10.5 pts, including 666M without electricity and 2.1B without clean cooking), tech exclusion (-8.5 pts), climate losses (-7.0 pts), and commodity volatility (-5.5 pts)—erode -43.0% of catch-up potential today.",
+    "Eight mutually reinforcing pathways generate a 15.8x 25-year social BCR (5.3x direct catch-up plus 10.5x sustainable-resilience dividend), expanding enterprise productivity nearly threefold (100 to 284) as clean power-cooking coverage reaches 100% and industrial growth hits 6.5%–9.9%/yr.",
+    "Mobilizing UNCTAD's $1.1T–$1.8T annual 2025–2030 developing-country climate-transition requirement accelerates catch-up growth from 2.1%/yr to 7.4%/yr, while slashing borrowing spreads from 12.1% to 3.3% WACC via Converged Green Facilities (10.1x private leverage).",
+    "Distinguishing absolute gains from relative frontier parity across all six Global South regions lifts 2075 parity scores to 81–97/100, places 95.0% of populations in middle or frontier tiers, and elevates the 2100 Century Sustainable Convergence Index (CSCI) from 38.0 to 96.5."
+  ],
+  "keywords": [
+    "Sustainable Convergence",
+    "Global South",
+    "Clean Energy Transition",
+    "Sustainable Industrialization",
+    "Digital Public Infrastructure",
+    "Climate Resilience",
+    "UNCTAD Financing Gap",
+    "Century Horizon 2100"
+  ],
+  "method": "Empirical century-scale synthesis integrating World Bank/IEA 2025 SDG7 baselines (666M electricity and 2.1B clean-cooking gaps), OECD 2026 clean-grid shares (64.3% Latin America), and UNCTAD 2025 financing needs ($1.1T–$1.8T/yr) into a 2025–2100 frontier catch-up trajectory, -43.0% constraint waterfall, 25-year pathway BCR valuation (1.7x–15.8x at 3% discount), 12-economy scatter (India, Vietnam, Chile, Brazil, Indonesia, Rwanda, Kenya, Morocco, Kazakhstan, Bangladesh, Ethiopia, Nigeria), blended WACC leverage calibration, and eight-dimension CSCI simulation. Comprises an executive synthesis, eight analytical sections, 16 data figures, and a technical appendix.",
+  "contents": [
+    "Executive Summary: Sustainable Convergence Across the Global South to 2100",
+    "1. Real-World Context: Uneven Foundations in Energy, Industry, and Adaptation",
+    "2. The Eight Principal Pathways and the Endogenous Reinforcement Cycle",
+    "3. Universal Clean Energy, Clean Cooking, and Sustainable Industrialization",
+    "4. Digital Infrastructure, Precision Agriculture, and Urban Resilience",
+    "5. Human Capital, Education, Healthcare, and Absolute-vs-Relative Parity",
+    "6. Breaking the $1.1T–$1.8T Financing Constraint and Debt Bottlenecks",
+    "7. Geographic Trajectories Across Six Global South Regions and Country Leaders",
+    "8. The Four-Phase Century Roadmap (2025–2100) for a Converged Global South"
+  ],
+  "backmatter": [
+    "9. Four-Phase Convergence Equations, UNCTAD Elasticities, and CSCI Appendix",
+    "References & Primary Sources"
+  ],
+  "doi": "10.5281/zenodo.24265206",
+  "license": "CC BY 4.0"
+}
