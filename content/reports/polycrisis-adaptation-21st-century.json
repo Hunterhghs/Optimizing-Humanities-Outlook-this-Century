@@ -1,0 +1,67 @@
+{
+  "slug": "polycrisis-adaptation-21st-century",
+  "seriesNumber": 28,
+  "number": "HH-2026-104",
+  "title": "Polycrisis Adaptation in the 21st Century",
+  "subtitle": "Managing Interconnected Global Risks Through Development, Technological Transformation, and Systemic Adaptation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-22",
+  "language": "en",
+  "pdf": "polycrisis-adaptation-21st-century.pdf",
+  "pages": 31,
+  "dek": "Develops Polycrisis Adaptation as an integrated H Heuristics discipline—shifting societies from reactive, siloed crisis management toward proactive, development-oriented adaptation across eight mutually reinforcing transformations through 2035, 2050, and 2100.",
+  "topics": [
+    "Polycrisis Resilience",
+    "Development Multiplier",
+    "Sustainable Convergence",
+    "Humanity Outlook Optimization"
+  ],
+  "abstract": [
+    "Polycrisis adaptation describes the ongoing, coordinated processes through which societies, economies, institutions, and human populations adjust to an increasingly interconnected landscape of global risks during the twenty-first century. Unlike conventional adaptation addressing individual challenges in isolation, polycrisis adaptation recognizes that climate change, environmental degradation, demographic transitions, geopolitical instability, technological disruption, resource constraints, economic inequality, and public health risks interact, compound, and reinforce one another.",
+    "Across 31 pages and 11 empirical data visuals, this monograph operationalizes six core adaptive capacities (Anticipate, Adjust, Transform, Diversify, Converge, Sustain) and eight mutually reinforcing transformations (economic convergence, clean development, technological diffusion, infrastructure development, human capital development, climate adaptation, institutional adaptation, and demographic adaptation). Dynamic cascade modeling demonstrates that reactive, siloed adaptation allows compound vulnerability to rise from 100.0 in 2025 to 136.5 by 2050, whereas integrated Polycrisis Adaptation cuts vulnerability by 62% (to 38.0).",
+    "By screening transition investments through H Heuristics' Cross-System Spillover Coefficient, polycrisis-integrated design slashes second-order maladaptation risk from 55.0–68.0 to 19.0–24.5, achieves 3.1x–4.5x higher adaptive resilience elasticity (0.27–0.45), shifts 82% of crisis outlays from emergency relief into preventive infrastructure and adaptive Digital Public Infrastructure (DPI), and sustains 82.1–87.2 continuity under simultaneous multi-shock clusters."
+  ],
+  "findings": [
+    "Siloed crisis responses fail under compound shocks: reactive adaptation allows aggregate vulnerability to climb from 100.0 to 136.5 by 2050, whereas integrated Polycrisis Adaptation reduces vulnerability by 62% (100.0 to 38.0).",
+    "Cross-domain engineering slashes second-order maladaptation risk from 55.0–68.0 to 19.0–24.5 across energy transitions, urban zoning, water transfers, supply chains, and AI-labor transitions.",
+    "Integrating physical infrastructure, clean energy, and interoperable governance yields 3.1x–4.5x higher adaptive resilience elasticity (0.27–0.45) than reactive relief spending alone (0.06–0.14).",
+    "Proactive Polycrisis Adaptation shifts 82% of outlays from emergency relief and maladaptation rework into preventive resilient infrastructure (52%) and adaptive institutions/DPI (30%), sustaining 82.1–87.2 continuity under compound shocks."
+  ],
+  "keywords": [
+    "Polycrisis Adaptation",
+    "Polycrisis Resilience",
+    "Systemic Risk",
+    "Development Multiplier",
+    "Sustainable Convergence",
+    "Humanity Outlook Optimization",
+    "Maladaptation",
+    "H Heuristics"
+  ],
+  "method": "Cross-system cascade modeling and counterfactual simulation integrating H Heuristics' Polycrisis Adaptation Model (HH-PAM v1.8), Spillover & Maladaptation Audit, Cross-Country Elasticity Estimates, Polycrisis Stress-Testing Suite, Preventive Economics Accounting, and 2025–2050 Dynamic Portfolio Optimization.",
+  "contents": [
+    "1. Overview: The Imperative of Polycrisis Adaptation in the 21st Century",
+    "2. Core Thesis: Proactive, Development-Oriented Systemic Adaptation",
+    "3. Why Siloed Adaptation Fails: Cascades, Spillovers, and Equity Trade-Offs",
+    "4. The Eight Mutually Reinforcing Adaptation Transformations",
+    "5. Economic Convergence and Clean Development as Adaptive Foundations",
+    "6. Technological Diffusion and Resilient Infrastructure Systems",
+    "7. Human Capital, Knowledge Access, and Workforce Adaptive Capacity",
+    "8. Climate Adaptation, Combined Urban Planning, and Equity",
+    "9. Adaptive Governance, Cross-Boundary Collaboration, and DPI",
+    "10. Demographic Adaptation: Aging Societies and Youth-Bulge Regions",
+    "11. Engineering Around Second-Order Maladaptation Traps",
+    "12. Compound Shock Absorption and Polycrisis Resilience Stress-Testing",
+    "13. Supply-Chain Diversification and Antifragile Regional Manufacturing",
+    "14. Financing the Shift From Reactive Relief to Preventive Adaptation",
+    "15. Regional Adaptation Archetypes Across the Global South and OECD",
+    "16. 2025–2050 Capital Prioritization and Dynamic Portfolio Sequencing",
+    "17. Polycrisis Adaptation Within Humanity Outlook Optimization Through 2100"
+  ],
+  "backmatter": [
+    "18. Technical Appendix, Counterfactual Regimes, and Synthesis Matrix"
+  ],
+  "doi": "10.6084/m9.figshare.35085349",
+  "license": "CC BY 4.0"
+}
