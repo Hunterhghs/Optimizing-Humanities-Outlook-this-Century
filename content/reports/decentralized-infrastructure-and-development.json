@@ -1,0 +1,67 @@
+{
+  "slug": "decentralized-infrastructure-and-development",
+  "seriesNumber": 36,
+  "number": "HH-2026-114",
+  "title": "Decentralized Infrastructure and Development",
+  "subtitle": "Distributed Energy, Digital Connectivity, and Localized Economic Transformation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "decentralized-infrastructure-and-development.pdf",
+  "pages": 42,
+  "dek": "Examines how distributed energy, digital connectivity, mobile payments, and localized water and logistics assets function as an integrated access stack to accelerate economic convergence and localized structural transformation.",
+  "topics": [
+    "Clean Development",
+    "Convergent Diffusion",
+    "Structural Transformation",
+    "Development Economics"
+  ],
+  "abstract": [
+    "This report examines how distributed infrastructure systems—distributed solar and storage, mini-grids, clean-cooking and productive-use energy, mobile and satellite broadband, digital payments, and localized water and logistics assets—can accelerate economic development, widen service access and transform local economies, particularly in developing nations and emerging markets.",
+    "Applying the H Heuristics Development Multiplier and the four-layer access stack, it frames decentralization as a design choice with conditions of fit rather than a universal ideology, demonstrating that bundled access with productive use, affordable finance, and credible institutions produces compounding gains over 10- to 75-year horizons."
+  ],
+  "findings": [
+    "Cost curves have moved the economic frontier: steep declines in solar PV and lithium-ion storage make distributed options the least-cost route to service for a large share of unserved households and enterprises.",
+    "Connection alone is not transformation: randomized and quasi-experimental evidence shows impacts concentrate where access is paired with productive use, finance, and local skills.",
+    "The highest-leverage unit of analysis is the integrated access stack (energy, connectivity, payments, and localized water/logistics), because benefits multiply across interfaces rather than add.",
+    "Institutions, tariffs, spectrum, quality standards, and consumer protection decide whether decentralization scales or fragments; even 0.5% to 2% closure of the ~143 billion person-year Century Pathways gap equals roughly 0.7 billion to 2.9 billion person-years."
+  ],
+  "keywords": [
+    "decentralized infrastructure",
+    "distributed energy",
+    "mini-grids",
+    "digital connectivity",
+    "digital finance",
+    "economic convergence",
+    "structural transformation",
+    "Development Multiplier",
+    "Global South",
+    "resilience"
+  ],
+  "method": "Hybrid policy research report and academic synthesis integrating empirical economics and energy-systems literature, the four-layer access stack, conditions-of-fit screening, and conditional Century Pathways scenario arithmetic.",
+  "contents": [
+    "1. Introduction: The Infrastructure Question in Development",
+    "2. Conceptual Framework: Decentralization and the Development Multiplier",
+    "3. Historical Context: The Centralized Model and Its Limits at the Margin",
+    "4. Technology Foundations: Cost Curves, Modularity and Learning",
+    "5. Distributed Energy: Solar, Storage, Mini-Grids and Clean Cooking",
+    "6. Digital Connectivity: Mobile Broadband, Satellite and Platforms",
+    "7. Digital Finance and Payments as Infrastructure",
+    "8. Localized Water, Agriculture and Logistics Infrastructure",
+    "9. Integration: The Access Stack and Conditions of Fit",
+    "10. Localized Economic Transformation and Convergence",
+    "11. Financing and Business Models",
+    "12. Institutions, Regulation and Governance",
+    "13. Risks, Limits and Counterarguments",
+    "14. Scenarios and Quantification: 2026 to 2100",
+    "15. Policy and Investment Agenda",
+    "16. Research Agenda, Adoption and Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098381",
+  "license": "CC BY 4.0"
+}
