@@ -1,0 +1,66 @@
+{
+  "slug": "digital-trade-and-development-economics",
+  "seriesNumber": 40,
+  "number": "HH-2026-118",
+  "title": "Digital Trade and Development Economics",
+  "subtitle": "E-Commerce, Cross-Border Services, and the Expansion of Emerging Markets",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "digital-trade-and-development-economics.pdf",
+  "pages": 35,
+  "dek": "Examines whether digital trade—e-commerce, cross-border services, digital payments, logistics, and data governance—can serve as a mechanism of economic convergence for emerging and developing economies.",
+  "topics": [
+    "Development Economics",
+    "Digital Trade",
+    "Digital Infrastructure",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "For two centuries, countries developed by moving workers from farms to factories and selling manufactured goods to the world. As automation and premature deindustrialization narrow that path, digital trade offers a second route by lowering the fixed costs of international market participation, enabling smaller firms to reach global customers, and widening the range of services that developing economies can export.",
+    "Treating e-commerce, digitally delivered services, payments, digital identity, logistics, customs, and data rules as one connected system within the H Heuristics Development Multiplier framework, this report evaluates the six cost channels of digital trade, platform-led marketplaces, AI exposure in services exports, post-Yaounde trade rules, and a three-scenario framework to 2050 alongside a proposed Digital Trade Readiness Index."
+  ],
+  "findings": [
+    "Digital trade lowers six fixed and per-transaction costs—search, matching, trust, payment, delivery, and compliance—with online platforms cutting the distance penalty by roughly 65% in cross-country evidence.",
+    "Global exports of digitally deliverable services reached about $4.5 trillion in 2024 (~56% of services exports), yet developing economies supply only roughly a quarter (~$1.2 trillion) and least developed countries remain marginal.",
+    "Foundations—affordable connectivity, interoperable public payment rails (such as UPI and Pix), digital identity, and electronic customs—come before platforms; inclusion is a design choice requiring capability, working capital, and safeguards.",
+    "Under a stylized three-scenario model to 2050, an integrated acceleration pathway lifts developing economies from ~25% to ~46% of digitally deliverable services exports, compared with ~28% if rules and foundations remain stalled and fragmented."
+  ],
+  "keywords": [
+    "digital trade",
+    "development economics",
+    "e-commerce",
+    "cross-border services",
+    "digital public infrastructure",
+    "de minimis",
+    "WTO",
+    "Development Multiplier",
+    "Digital Trade Readiness Index"
+  ],
+  "method": "Hybrid research report and economic synthesis using a four-level evidence grading scale, six-channel cost decomposition, archetype readiness heat map, Development Multiplier order-of-effect mapping, and stylized 2050 scenarios.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. The Digital Trade Proposition",
+    "2. How Digital Trade Changes the Economics of Trade",
+    "3. The State of Digital Trade Today",
+    "4. Digital Foundations: Connectivity, Payments and Identity",
+    "5. E-Commerce and Marketplace Development",
+    "6. Cross-Border Services and Digitally Delivered Exports",
+    "7. Logistics, Customs and Trade Facilitation",
+    "8. Regulation, Data Governance and Trade Agreements",
+    "9. Firms, Jobs and Inclusion",
+    "10. The Development Multiplier of Digital Trade",
+    "11. Risks, Trade-offs and Criticism",
+    "12. Scenarios to 2050",
+    "13. Strategy, Measurement and the Research Agenda"
+  ],
+  "backmatter": [
+    "Glossary",
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098522",
+  "license": "CC BY 4.0"
+}
