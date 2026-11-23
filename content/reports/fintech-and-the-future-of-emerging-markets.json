@@ -1,0 +1,65 @@
+{
+  "slug": "fintech-and-the-future-of-emerging-markets",
+  "seriesNumber": 37,
+  "number": "HH-2026-115",
+  "title": "Fintech and the Future of Emerging Markets",
+  "subtitle": "Digital Financial Infrastructure, Market Access, and Economic Participation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "fintech-and-the-future-of-emerging-markets.pdf",
+  "pages": 40,
+  "dek": "Examines whether, and under what conditions, digital financial infrastructure—mobile money, instant payment rails, digital identity, and SME credit—can accelerate economic participation and structural transformation in emerging markets.",
+  "topics": [
+    "Development Economics",
+    "Digital Infrastructure",
+    "Structural Transformation",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "Financial technology (fintech) is changing how households, firms and governments in emerging markets pay, save, borrow, insure and invest. This report examines whether, and under what conditions, digital financial infrastructure can function as an accelerator of economic participation and structural transformation, rather than a convenience layer on top of unchanged economic structures.",
+    "Reviewing evidence on mobile money, instant payment systems (such as UPI and Pix), digital identity, alternative-data credit, small-business finance, savings, insurance, and remittances, it situates these findings in the H Heuristics Development Multiplier framework and evaluates regional pathways, institutional safeguards, and long-term scenarios to 2050 and beyond."
+  ],
+  "findings": [
+    "Account ownership in developing economies rose from roughly 42% of adults in 2011 to 71% in 2021 (Global Findex), driven mainly by mobile phones, government digital transfers, and national payment platforms.",
+    "Access is not yet use, and use is not yet productive use: dormant accounts, persistent gender and rural gaps, and thin productive credit mean the largest remaining gains lie in active and productive use.",
+    "Public digital payment infrastructure (India's UPI, Brazil's Pix) demonstrates that interoperable, low-cost, open-access rails can scale to hundreds of millions of users within a few years and shift market structure toward new entrants.",
+    "Concentration, digital exclusion, over-indebtedness, fraud and cyber-risk, and data misuse scale with adoption—making supervisory capacity, credit-reporting mandates, and interoperable rails core inputs to development."
+  ],
+  "keywords": [
+    "fintech",
+    "financial inclusion",
+    "mobile money",
+    "digital public infrastructure",
+    "instant payments",
+    "digital credit",
+    "SME finance",
+    "economic convergence",
+    "structural transformation",
+    "Development Multiplier"
+  ],
+  "method": "Hybrid research review and analytical paper synthesizing randomized and quasi-experimental studies, cross-country datasets, and institutional reports within the Development Multiplier framework and qualitative long-term scenario analysis.",
+  "contents": [
+    "Abstract and Key Findings",
+    "1. Introduction and Research Question",
+    "2. Conceptual Framework: Digital Financial Infrastructure and the Development Multiplier",
+    "3. The State of Financial Access in Emerging Markets",
+    "4. Digital Payments and Mobile Money",
+    "5. Digital Identity, Data and Connectivity: The Enabling Foundations",
+    "6. Digital Credit and Small-Business Finance",
+    "7. Savings, Insurance, Remittances and Investment: The Wider Product Set",
+    "8. Productive Capacity and Structural Transformation",
+    "9. Institutions, Regulation and Risk",
+    "10. Regional Pathways",
+    "11. Multiplier Analysis and Scenarios to 2050 and Beyond",
+    "12. Policy and Investment Recommendations",
+    "13. Research Agenda, Limitations and Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098396",
+  "license": "CC BY 4.0"
+}
