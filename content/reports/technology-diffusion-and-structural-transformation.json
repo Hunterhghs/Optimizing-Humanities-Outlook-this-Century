@@ -1,0 +1,66 @@
+{
+  "slug": "technology-diffusion-and-structural-transformation",
+  "seriesNumber": 32,
+  "number": "HH-2026-110",
+  "title": "Technology Diffusion and Structural Transformation",
+  "subtitle": "How Innovation Adoption Reshapes Productivity and Economic Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "technology-diffusion-and-structural-transformation.pdf",
+  "pages": 46,
+  "dek": "Examines how technology diffusion drives within-sector productivity, between-sector reallocation, and capability formation across digital infrastructure, AI, automation, fintech, and clean energy through the Development Multiplier.",
+  "topics": [
+    "Technology Diffusion",
+    "Structural Transformation",
+    "Development Multiplier",
+    "Humanity Outlook Optimization"
+  ],
+  "abstract": [
+    "Technology diffusion is a fundamental driver of long-term economic development, influencing how economies produce goods and services, allocate resources, organize industries, and generate productivity growth. While technological innovation creates new possibilities for economic activity, its broader developmental impact depends on the extent to which innovations are adopted, adapted, and integrated across firms, industries, institutions, and societies.",
+    "Across 46 pages, this paper examines the relationship between technology diffusion and structural transformation—distinguishing carefully between the extensive margin of adoption (presence) and the intensive margin (depth of use)—and applies the diffusion-transformation chain across five frontier technology families: digital infrastructure, artificial intelligence, automation and advanced manufacturing, financial technology, and clean energy.",
+    "Linking the analysis to the H Heuristics Development Multiplier across economic, social, environmental, institutional, technological, and geographic dimensions over 10, 25, 50, and 75 years, it outlines a sequenced policy framework, seven testable hypotheses, and a research agenda anchored in the Century Pathways benchmark."
+  ],
+  "findings": [
+    "Adoption, not invention, is the binding margin for most economies: cross-country income gaps largely reflect differences in how intensively available technologies are used rather than whether they exist.",
+    "Structural transformation operates through three interacting channels—within-sector productivity gains, between-sector reallocation, and new capability emergence—shaped by S-shaped diffusion curves and complementary assets.",
+    "Fintech and clean energy act as diffusion platforms that lower adoption thresholds across the economy, while automation and AI reshape the manufacturing ladder and require proactive adjustment and skills policies.",
+    "Sequencing policies to target binding constraints and evaluating investments via the six-dimensional Development Multiplier reveals compounding returns across 10–75 year horizons."
+  ],
+  "keywords": [
+    "technology diffusion",
+    "structural transformation",
+    "economic convergence",
+    "leapfrogging",
+    "general-purpose technologies",
+    "Development Multiplier",
+    "Convergent Diffusion"
+  ],
+  "method": "Hybrid research paper and academic synthesis integrating growth accounting, Bass/S-curve diffusion dynamics, structural-change decomposition, five-sector technology-family analysis, six-dimensional Development Multiplier valuation, and seven testable hypotheses (H1–H7).",
+  "contents": [
+    "Abstract and Summary of Findings",
+    "1. Introduction",
+    "2. Conceptual Foundations",
+    "3. Theoretical Perspectives",
+    "4. The Dynamics of Technology Diffusion",
+    "5. Determinants of Adoption: Capabilities and Constraints",
+    "6. Channels of Structural Transformation",
+    "7. Digital Infrastructure and Artificial Intelligence",
+    "8. Automation, Advanced Manufacturing and Labor Markets",
+    "9. Financial Technology and Clean Energy as Diffusion Platforms",
+    "10. Developing Economies: Leapfrogging, Convergence and Constraints",
+    "11. Empirical Evidence and Case Studies",
+    "12. The Development Multiplier: Valuing Diffusion Across Dimensions and Time",
+    "13. Policy Framework: Accelerating Diffusion and Managing Transformation",
+    "14. Risks, Trade-offs and Limits of the Argument",
+    "15. Research Agenda and Methodological Notes",
+    "16. Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098270",
+  "license": "CC BY 4.0"
+}
