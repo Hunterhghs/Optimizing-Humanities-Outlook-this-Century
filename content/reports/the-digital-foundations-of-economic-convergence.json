@@ -1,0 +1,64 @@
+{
+  "slug": "the-digital-foundations-of-economic-convergence",
+  "seriesNumber": 31,
+  "number": "HH-2026-109",
+  "title": "The Digital Foundations of Economic Convergence",
+  "subtitle": "How Technology Infrastructure Can Narrow Global Development Gaps",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "the-digital-foundations-of-economic-convergence.pdf",
+  "pages": 35,
+  "dek": "Develops a five-layer model of digital foundations—enabling base, connectivity, compute and data, digital public infrastructure, and applications—and evaluates how coordinated digital investment narrows global development gaps through the Development Multiplier.",
+  "topics": [
+    "Digital Infrastructure",
+    "Development Multiplier",
+    "Sustainable Convergence",
+    "Humanity Outlook Optimization"
+  ],
+  "abstract": [
+    "The digital transformation of the global economy is creating new opportunities to accelerate economic development, improve productivity, and narrow longstanding disparities between advanced and developing economies. However, access remains unevenly distributed across broadband connectivity, mobile coverage, data infrastructure, digital financial services, skills, and institutional readiness.",
+    "Across 35 pages, this report examines how investments in digital foundations—broadband networks, mobile connectivity, data centers, cloud computing, digital payment systems, digital public infrastructure, and affordable computing—can accelerate economic convergence between countries. It develops a five-layer analytical model and applies the H Heuristics Development Multiplier across economic, social, environmental, institutional, technological, and geographic dimensions over 10, 25, 50, and 75 years.",
+    "The report demonstrates that digital infrastructure should be treated as productive development infrastructure rather than a consumer service, details the complementary conditions required for broad-based gains (electricity, skills, competition, trust, inclusion), and anchors illustrative diffusion scenarios in the 143-billion person-year Century Pathways benchmark."
+  ],
+  "findings": [
+    "Digital foundations act as general-purpose productive development infrastructure with network effects and positive externalities across transaction-cost reduction, technology diffusion, and factor reallocation.",
+    "Returns across the five-layer digital stack depend on complements: reliable electricity (~670–690 million people still lack access), foundational skills, competitive regulation, cybersecurity, and gender/rural inclusion.",
+    "Shared, open Digital Public Infrastructure (identity, instant payments, consent-based data exchange) lowers the marginal cost of public and private services while strengthening crisis resilience.",
+    "Coordinated, complement-backed diffusion accelerates closing the ~143-billion person-year Century Pathways basic-service gap across 2026–2100."
+  ],
+  "keywords": [
+    "digital infrastructure",
+    "economic convergence",
+    "digital leapfrogging",
+    "digital public infrastructure",
+    "broadband connectivity",
+    "Development Multiplier",
+    "Polycrisis Resilience"
+  ],
+  "method": "Hybrid research report and academic synthesis combining convergence theory, a five-layer digital foundations model, empirical microeconomic evidence, a risk register, falsification tests, and stylized diffusion scenarios (2025–2075) anchored in Century Pathways (HH-2026-61).",
+  "contents": [
+    "Research Report Overview",
+    "1. Introduction: Convergence in a Digital Century",
+    "2. Conceptual and Analytical Framework",
+    "3. The State of the Digital Divide",
+    "4. Connectivity Infrastructure: Broadband, Mobile and Satellite",
+    "5. Compute, Data and Devices",
+    "6. Digital Finance and Payments",
+    "7. Digital Public Infrastructure and Governance",
+    "8. Sectoral Channels: How Digital Gains Reach People",
+    "9. Leapfrogging, Structural Transformation and Digital Trade",
+    "10. Complementary Conditions for Broad-Based Gains",
+    "11. Risks, Limits and Counterarguments",
+    "12. Multiplier Analysis and Scenarios to 2100",
+    "13. Policy and Investment Agenda",
+    "14. Conclusion and Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098252",
+  "license": "CC BY 4.0"
+}
