@@ -1,0 +1,66 @@
+{
+  "slug": "the-economics-of-clean-cooking-transitions",
+  "seriesNumber": 35,
+  "number": "HH-2026-113",
+  "title": "The Economics of Clean Cooking Transitions",
+  "subtitle": "Household Energy Modernization, Public Health, and Sustainable Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "the-economics-of-clean-cooking-transitions.pdf",
+  "pages": 45,
+  "dek": "Argues that clean cooking transitions are an integrated economic development strategy—evaluating fuel stacking, health economics, liquidity constraints, LPG and electric cooking pathways, and a stylized household cost-benefit model.",
+  "topics": [
+    "Clean Development",
+    "Development Economics",
+    "Public Health",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "Roughly 2.1 billion people still cook with wood, charcoal, dung, crop residue, coal or kerosene. The resulting household air pollution is associated with on the order of three million premature deaths a year, consumes billions of hours of mostly women's and children's time, drains household budgets, degrades forests and contributes to climate change. This paper argues that the transition to clean cooking is best understood as an integrated economic development strategy rather than a narrow energy-access intervention.",
+    "Drawing on the economics, public-health and energy literatures, the paper maps the access gap, develops a framework moving from the energy ladder to fuel stacking and the Development Multiplier, compares LPG, electric cooking, biogas, ethanol, pellets and improved biomass, and presents a stylized household cost-benefit model showing that central-case LPG transitions return roughly two dollars per dollar of cost while highlighting sustained, near-exclusive use as the central policy target."
+  ],
+  "findings": [
+    "About 2.1 billion people lack clean cooking, concentrated in sub-Saharan Africa and South Asia, with the burden falling disproportionately on women, infants, and low-income households.",
+    "Under central assumptions in a stylized household model, an LPG transition returns roughly $2 of benefit per $1 of cost (~$600 benefit vs. ~$280 cost) and is approximately break-even on private terms alone, so most of the welfare gain is social.",
+    "Adoption without sustained use is the dominant empirical failure mode: partial adoption and fuel stacking erode health and climate gains, meaning programmes must be designed and financed around sustained, near-exclusive use.",
+    "The binding constraints are economic and institutional—upfront liquidity, supply chains, refill affordability, quality standards, and cross-ministerial ownership—and accelerated action avoids on the order of 22 billion person-years of cooking with smoke between 2025 and 2050."
+  ],
+  "keywords": [
+    "clean cooking",
+    "household energy",
+    "household air pollution",
+    "energy poverty",
+    "development economics",
+    "LPG",
+    "electric cooking",
+    "fuel stacking",
+    "Development Multiplier"
+  ],
+  "method": "Hybrid research report and academic review synthesizing household energy economics, public health, climate, and public-finance literature alongside a transparent stylized household cost-benefit model, sensitivity analysis, and country-experience synthesis.",
+  "contents": [
+    "Abstract",
+    "1. Introduction and Core Thesis",
+    "2. The Global Landscape of Cooking Energy",
+    "3. Conceptual Framework: Fuel Choice, Fuel Stacking and the Development Multiplier",
+    "4. Public Health and the Economics of Household Air Pollution",
+    "5. Household Economics: Costs, Time Use and Gender",
+    "6. Technology Pathways and Their Economics",
+    "7. Macroeconomic and Structural Transformation Effects",
+    "8. Environmental and Climate Dimensions",
+    "9. Infrastructure, Markets and Finance",
+    "10. Institutions and Policy Design: Evidence from Country Experience",
+    "11. An Illustrative Cost-Benefit Model",
+    "12. Risks, Limits and Open Questions",
+    "13. Strategic Agenda and Roadmap to 2050",
+    "14. Conclusion"
+  ],
+  "backmatter": [
+    "References",
+    "Appendix: Data Notes, Method and Glossary"
+  ],
+  "doi": "10.6084/m9.figshare.35098369",
+  "license": "CC BY 4.0"
+}
