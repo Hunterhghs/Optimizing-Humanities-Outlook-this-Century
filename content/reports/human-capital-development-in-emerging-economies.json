@@ -1,0 +1,67 @@
+{
+  "slug": "human-capital-development-in-emerging-economies",
+  "seriesNumber": 38,
+  "number": "HH-2026-116",
+  "title": "Human Capital Development in Emerging Economies",
+  "subtitle": "Education, skills formation, and the foundations of long-term productivity",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "human-capital-development-in-emerging-economies.pdf",
+  "pages": 47,
+  "dek": "Examines how the 93 middle-income economies and low-income countries behind them can close the learning gap, build absorptive capacity, and strengthen human capital foundations for long-term productivity and technology adoption.",
+  "topics": [
+    "Development Economics",
+    "Human Capital",
+    "Absorptive Capacity",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "Human capital—the knowledge, skills and health that people carry into economic life—is the least visible and slowest-moving input to development, and one of the most decisive. This report examines how the 93 middle-income economies that hold 5.9 billion people, and the low-income countries behind them, can strengthen the human capital foundations of long-term productivity as digital infrastructure, automation and artificial intelligence reshape what employers need.",
+    "Built from public data on 172 countries covering 8.0 billion people (World Bank Human Capital Index 2020 and World Development Indicators) and situated within the H Heuristics Development Multiplier framework, it analyzes the learning crisis, early childhood foundations, secondary and TVET pathways, tertiary research, digital competencies, technology absorption, and ten sequenced priorities for 2026 to 2035."
+  ],
+  "findings": [
+    "The gap is in learning, not only in access: a child in a low-income country expects 7.2 years of schooling by age 18 but only 4.0 learning-adjusted years (56% conversion), and seven in ten ten-year-olds in low- and middle-income countries could not read a simple text in 2022.",
+    "Income explains 77% of cross-country variation in the Human Capital Index (population-weighted average 0.56), yet countries such as Viet Nam, Kenya, and Uzbekistan achieve two or more learning-adjusted years above income predictions while public spending (% of GDP) correlates at only 0.11.",
+    "Early childhood health and stimulation before age five and foundational literacy and numeracy by age ten carry the highest returns, with structured pedagogy and teaching at the right level delivering the strongest cost-effectiveness.",
+    "Skills determine how much of the world's technology a country can absorb: raising learning efficiency in low-income countries to the high-income level would lift expected future worker productivity by about 13%, and adding two years of schooling at that efficiency would lift it by about 28%."
+  ],
+  "keywords": [
+    "human capital",
+    "emerging economies",
+    "learning crisis",
+    "education",
+    "skills formation",
+    "absorptive capacity",
+    "Human Capital Index",
+    "economic convergence",
+    "Development Multiplier"
+  ],
+  "method": "Cross-country empirical synthesis and Development Multiplier analysis using the World Bank Human Capital Index (2020) and World Development Indicators for 172 countries, paired with illustrative HCI scenario mechanics and a four-level measurement framework.",
+  "contents": [
+    "Executive Summary",
+    "1. Why Human Capital Is the Binding Constraint",
+    "2. Concepts and Measurement",
+    "3. Where Emerging Economies Stand",
+    "4. The Learning Crisis",
+    "5. Early Childhood, Health and Foundational Skills",
+    "6. Secondary, Technical and Vocational Skills",
+    "7. Tertiary Education, Research and Talent",
+    "8. Digital Competencies and the Technology Transition",
+    "9. Human Capital and Technology Absorption",
+    "10. Financing, Teachers and the Institutions of Delivery",
+    "11. Demography, Gender, Informality and Skills Mismatch",
+    "12. Policy, Private Investment and International Partnerships",
+    "13. The Development Multiplier of Human Capital",
+    "14. Scenarios and Priorities for 2026 to 2035",
+    "15. Measurement, Evidence and Limitations",
+    "16. Conclusion and Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098456",
+  "license": "CC BY 4.0"
+}
