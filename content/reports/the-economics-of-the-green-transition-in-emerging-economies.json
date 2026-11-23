@@ -1,0 +1,64 @@
+{
+  "slug": "the-economics-of-the-green-transition-in-emerging-economies",
+  "seriesNumber": 33,
+  "number": "HH-2026-111",
+  "title": "The Economics of the Green Transition in Emerging Economies",
+  "subtitle": "Decarbonization, Industrial Competitiveness, and Sustainable Economic Growth",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "the-economics-of-the-green-transition-in-emerging-economies.pdf",
+  "pages": 50,
+  "dek": "An economic analysis of how decarbonization, falling clean technology costs, cost-of-capital gaps, and green industrial policy reshape structural transformation and sustainable convergence across emerging economies.",
+  "topics": [
+    "Clean Development",
+    "Structural Transformation",
+    "Development Economics",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "This report examines the economics of the green transition in emerging economies, analyzing how rapid cost declines in solar, wind, batteries, and electrification interact with high costs of capital, fossil fuel fiscal dependencies, critical mineral value chains, and industrial policy.",
+    "Applying the H Heuristics Development Multiplier framework, it evaluates how clean energy deployment, grid modernization, and green industrial competitiveness can accelerate productivity growth, reduce external vulnerability, and support Sustainable Convergence while managing distributional and institutional transition risks."
+  ],
+  "findings": [
+    "Clean energy and storage technologies have reached cost parity or advantage against fossil generation in many emerging markets, shifting the primary binding constraint from technology cost to the cost of capital and grid infrastructure.",
+    "High sovereign and project financing spreads penalize capital-intensive clean energy systems relative to fuel-intensive fossil plants, making de-risking, blended finance, and domestic capital market depth central to transition economics.",
+    "Green industrialization offers emerging economies pathways to capture higher-value manufacturing, critical mineral processing, and clean-energy export competitiveness rather than remaining locked into raw commodity extraction.",
+    "Evaluating green transition investments through the Development Multiplier reveals compounding spillovers across energy security, balance-of-payments resilience, air quality, fiscal sustainability, and long-run productivity growth."
+  ],
+  "keywords": [
+    "green transition",
+    "emerging economies",
+    "decarbonization",
+    "cost of capital",
+    "industrial competitiveness",
+    "clean energy",
+    "Development Multiplier",
+    "Sustainable Convergence"
+  ],
+  "method": "Cross-system economic and policy synthesis integrating technology cost curves, capital-cost and fiscal transition analysis, structural transformation modeling, and country archetype assessment within the H Heuristics Development Multiplier framework.",
+  "contents": [
+    "Research Report Overview and Core Thesis",
+    "1. Introduction: Development and Decarbonization at a Crossroads",
+    "2. Analytical Framework: The Development Multiplier Applied to the Green Transition",
+    "3. Technology Costs and the New Energy Economics",
+    "4. The Cost of Capital and the Financing Challenge",
+    "5. Electrification, Power Systems and Energy Infrastructure",
+    "6. Industrial Competitiveness and Structural Transformation",
+    "7. Critical Minerals, Value Chains and Trade",
+    "8. Fossil Fuel Dependence, Subsidies and the Fiscal Transition",
+    "9. Labor Markets, Distribution and the Just Transition",
+    "10. Institutions, Governance and Policy Capacity",
+    "11. Growth, Productivity and Economic Convergence",
+    "12. Country Archetypes and Regional Pathways",
+    "13. Risks, Uncertainties and Counterarguments",
+    "14. Policy Agenda, Investment Priorities and Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098300",
+  "license": "CC BY 4.0"
+}
