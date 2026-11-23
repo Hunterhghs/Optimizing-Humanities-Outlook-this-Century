@@ -1,0 +1,62 @@
+{
+  "slug": "financing-the-green-transition-in-developing-nations",
+  "seriesNumber": 34,
+  "number": "HH-2026-112",
+  "title": "Financing the Green Transition in Developing Nations",
+  "subtitle": "Investment Requirements, Capital Mobilization, and Climate-Compatible Growth",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "financing-the-green-transition-in-developing-nations.pdf",
+  "pages": 41,
+  "dek": "Examines the financing architecture required to accelerate the green transition across developing nations—analyzing investment requirements, the cost-of-capital gap, domestic resource mobilization, MDBs, blended finance, green bonds, and debt sustainability.",
+  "topics": [
+    "Climate Finance",
+    "Development Economics",
+    "Clean Development",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "This report examines the financing architecture required to accelerate the green transition across developing nations, with particular attention to the scale of investment required, the mobilization of domestic and international capital, and the development of financial mechanisms capable of supporting climate-compatible economic growth.",
+    "Applying the H Heuristics Development Multiplier framework across six principal findings—from the cost-of-capital bottleneck and domestic resource mobilization to MDB balance-sheet reform, programmatic blended finance, labelled debt, and debt sustainability—it evaluates how coordinated financing systems can enable developing nations to pursue economic convergence without carbon lock-in or unsustainable debt burdens."
+  ],
+  "findings": [
+    "The binding constraint for clean energy in developing nations is the cost and tenor of capital rather than technology availability: moving WACC for utility-scale solar from 4% to 12% roughly doubles the annual capital charge per $1,000.",
+    "The aggregate climate and development investment gap in EMDEs outside China (~$2.4 trillion/year by 2030, ~$1 trillion/year external) is tractable when disaggregated into price gaps, revenue gaps, and capacity gaps.",
+    "Domestic resource mobilization—fiscal reform, fossil-fuel subsidy reallocation, national development banks, and local-currency capital markets—is the largest long-run foundation and eliminates currency mismatch.",
+    "Multilateral development banks, blended finance platforms, and labelled debt instruments deliver the highest Development Multiplier when designed as standardized risk-sharing platforms paired with debt-sustainability safeguards."
+  ],
+  "keywords": [
+    "green transition",
+    "developing nations",
+    "climate finance",
+    "cost of capital",
+    "blended finance",
+    "green bonds",
+    "debt sustainability",
+    "Development Multiplier"
+  ],
+  "method": "Structured synthesis of published estimates from international organizations, MDBs, climate-finance trackers, and academic literature paired with illustrative capital-charge sensitivity analysis, stylized financing-stack scenarios, and the H Heuristics Development Multiplier framework.",
+  "contents": [
+    "1. Executive Summary",
+    "2. Introduction and Analytical Framework",
+    "3. Investment Requirements of the Green Transition",
+    "4. The Financing Gap and the Cost-of-Capital Problem",
+    "5. Domestic Resource Mobilization and Capital Markets",
+    "6. Multilateral Development Banks and Development Finance Institutions",
+    "7. Climate Funds, Concessional Finance and Adaptation",
+    "8. Private Capital, Blended Finance and Risk Allocation",
+    "9. Green Bonds, Sustainable Debt and Innovative Instruments",
+    "10. Debt Sustainability and Fiscal Space",
+    "11. Sectoral Financing Pathways and Country Archetypes",
+    "12. Climate-Compatible Growth: Multiplier Analysis and Scenarios",
+    "13. Policy Recommendations, Limitations and Conclusion"
+  ],
+  "backmatter": [
+    "References and Data Note"
+  ],
+  "doi": "10.6084/m9.figshare.35098342",
+  "license": "CC BY 4.0"
+}
