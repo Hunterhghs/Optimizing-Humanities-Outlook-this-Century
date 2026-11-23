@@ -1,0 +1,62 @@
+{
+  "slug": "the-digital-transformation-of-emerging-economies",
+  "seriesNumber": 30,
+  "number": "HH-2026-108",
+  "title": "The Digital Transformation of Emerging Economies",
+  "subtitle": "Expanding Connectivity, Digital Services, and Technology-Enabled Productivity",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "the-digital-transformation-of-emerging-economies.pdf",
+  "pages": 46,
+  "dek": "Examines how connectivity, digital public infrastructure, digital financial services, and technology-enabled productivity accelerate economic convergence across emerging economies through the six-dimensional Development Multiplier.",
+  "topics": [
+    "Digital Infrastructure",
+    "Development Multiplier",
+    "Sustainable Convergence",
+    "Humanity Outlook Optimization"
+  ],
+  "abstract": [
+    "Digital technologies are reshaping how emerging economies produce, trade, finance, learn and govern. This report examines how connectivity, digital services and technology-enabled productivity can accelerate economic convergence, and under what conditions they do so. It synthesizes evidence from development economics, technology-diffusion research and the experience of early movers, including India, Kenya, Brazil, China and Rwanda.",
+    "Across 46 pages, the report applies a multidimensional lens—the Development Multiplier—tracing first-, second- and third-order effects across economic, social, environmental, institutional, technological and geographic dimensions.",
+    "It advances four core propositions: digital transformation lowers transaction, information and infrastructure costs at scale; gains depend on complements (electricity, skills, institutions, competition and trust); shared digital public infrastructure (identity, payments and data exchange) acts as a force multiplier; and returns are large but contingent on sequencing and complementary investment."
+  ],
+  "findings": [
+    "Digital transformation lowers transaction, information and infrastructure costs, making connectivity and digital services among the most scalable levers available to low- and middle-income countries.",
+    "Digital gains are strictly contingent on physical and institutional complements: reliable electricity, foundational skills, competitive markets, data governance and public trust.",
+    "Shared Digital Public Infrastructure (DPI)—interoperable identity, instant payments and consent-based data exchange—acts as a force multiplier by letting public and private services scale at near-zero marginal cost.",
+    "Evaluating digital investments through the six-dimensional Development Multiplier reveals compounding returns across productivity, financial inclusion, tax capacity and crisis resilience through 2050."
+  ],
+  "keywords": [
+    "digital transformation",
+    "emerging economies",
+    "digital public infrastructure",
+    "leapfrogging",
+    "economic convergence",
+    "Development Multiplier",
+    "H Heuristics"
+  ],
+  "method": "Hybrid research report and academic synthesis combining development economics, technology-diffusion empirics, comparative country case studies (India, Kenya, Brazil, China, Rwanda), six-dimensional Development Multiplier accounting, and illustrative scenario analysis to 2050.",
+  "contents": [
+    "1. Research Report Overview",
+    "2. Conceptual Foundations",
+    "3. The Connectivity Foundation",
+    "4. Digital Financial Services and Payments",
+    "5. Digital Public Infrastructure and Digital Government",
+    "6. Technology-Enabled Productivity",
+    "7. Artificial Intelligence, Cloud and Frontier Technologies",
+    "8. Human Capital, Digital Skills and Labor Markets",
+    "9. Institutions, Markets and Governance",
+    "10. Risks, Inclusion and Sustainability",
+    "11. The Development Multiplier of Digital Transformation",
+    "12. Strategic Framework and Policy Priorities",
+    "13. Limitations, Research Agenda and Conclusion"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098225",
+  "license": "CC BY 4.0"
+}
