@@ -1,0 +1,67 @@
+{
+  "slug": "digital-infrastructure-and-green-growth",
+  "seriesNumber": 39,
+  "number": "HH-2026-117",
+  "title": "Digital Infrastructure and Green Growth",
+  "subtitle": "Aligning Connectivity, Energy Systems, and Sustainable Economic Transformation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "digital-infrastructure-and-green-growth.pdf",
+  "pages": 42,
+  "dek": "Argues that digital infrastructure and the clean energy transition should be planned, financed, and measured as one integrated development system—evaluating six layers, green compute, grid digitalization, and the Digital-Energy Dividend.",
+  "topics": [
+    "Clean Development",
+    "Digital Infrastructure",
+    "Green Growth",
+    "Development Multiplier"
+  ],
+  "abstract": [
+    "Digitalization and the clean energy transition are usually planned by different ministries, financed through different channels, and measured by different indicators—yet their access gaps overlap geographically and depend on each other at every layer. This report argues that treating connectivity, clean electricity, compute, and digital platforms as one development system lowers unit costs, raises returns, and accelerates sustainable economic transformation.",
+    "Applying the H Heuristics Development Multiplier framework across a six-layer digital-energy stack, it synthesizes evidence on mobile connectivity, clean power cost curves, data-centre siting, smart grids and forecasting, green industrialization, cost-of-capital barriers, and regulatory coordination, closing with a ten-priority agenda for 2026 to 2035 and a proposed Digital-Energy Dividend metric."
+  ],
+  "findings": [
+    "Overlapping gaps in internet non-use (~2.6 billion people in 2024), electricity access (~666 million in 2023), and clean cooking (~2.1 billion) share the same bottlenecks: reliable power, affordable capital, skilled workers, and capable institutions.",
+    "Solar, wind, and battery cost declines (~90% drop in utility solar LCOE and battery pack prices since 2010) allow distributed, digitally managed energy to compete with central-grid extension across many off-grid and weak-grid settings.",
+    "Global data-centre electricity use (~415 TWh in 2024, projected ~945 TWh in 2030) is locally concentrated; emerging economies with firm clean power can host compute on negotiated development-bargain terms requiring additionality and grid readiness.",
+    "Finance is the binding constraint: emerging economies face 2 to 3 times higher clean-energy costs of capital, making risk-sharing, blended finance, bundled procurement, and joint planning central to unlocking the Development Multiplier."
+  ],
+  "keywords": [
+    "digital infrastructure",
+    "green growth",
+    "clean energy",
+    "connectivity",
+    "data centres",
+    "smart grids",
+    "green industrialization",
+    "Development Multiplier",
+    "Digital-Energy Dividend"
+  ],
+  "method": "Hybrid research report and academic paper synthesizing energy economics, telecommunications, development economics, and industrial policy with a four-level evidence grading scale, six-layer stack analysis, and illustrative Development Multiplier scenarios.",
+  "contents": [
+    "About This Report",
+    "Executive Summary",
+    "1. Two Transitions, One System",
+    "2. The Central Proposition and the H Heuristics Framework",
+    "3. Anatomy of the Digital-Energy System",
+    "4. Connectivity Infrastructure and Its Development Returns",
+    "5. Clean Power for a Digital Economy",
+    "6. Data Centres, Cloud and the Energy Footprint",
+    "7. Digital Tools for Cleaner and More Efficient Energy Systems",
+    "8. Digital-Energy Platforms for Green Industrialization",
+    "9. The Development Multiplier of Digital-Energy Alignment",
+    "10. Regional Priorities and Leapfrogging Pathways",
+    "11. Financing, Cost of Capital and Business Models",
+    "12. Policy, Regulation and Governance",
+    "13. Risks, Trade-offs and Limits",
+    "14. A 2026 to 2035 Agenda, Measures and Conclusions"
+  ],
+  "backmatter": [
+    "Glossary",
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35098489",
+  "license": "CC BY 4.0"
+}
