@@ -1,0 +1,63 @@
+{
+  "slug": "sustainable-convergence-in-the-developing-world",
+  "seriesNumber": 29,
+  "number": "HH-2026-107",
+  "title": "Sustainable Convergence in the Developing World",
+  "subtitle": "Accelerating Economic Development While Reducing Environmental and Systemic Vulnerabilities",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-23",
+  "language": "en",
+  "pdf": "sustainable-convergence-in-the-developing-world.pdf",
+  "pages": 33,
+  "dek": "Proposes sustainable convergence—the simultaneous pursuit of economic, environmental and resilience convergence—and develops the Development Multiplier across 10, 25, 50 and 75 years alongside stylized scenarios, a risk register, falsification tests and a prototype convergence dashboard.",
+  "topics": [
+    "Sustainable Convergence",
+    "Development Multiplier",
+    "Polycrisis Resilience",
+    "Humanity Outlook Optimization"
+  ],
+  "abstract": [
+    "Developing and emerging economies face a central question of the twenty-first century: can they achieve faster economic convergence with advanced economies without reproducing the environmental degradation, resource inefficiencies and structural vulnerabilities associated with earlier industrialization?",
+    "Across 33 pages, this paper proposes sustainable convergence—the simultaneous pursuit of economic, environmental and resilience convergence—as an integrated development strategy, and argues that environmental sustainability and systemic risk reduction can be treated as productive components of development rather than constraints upon it. Drawing on growth, energy-transition, adaptation and political-economy literatures, it reviews the historical record of catch-up, assesses the opportunity set created by falling clean-technology costs, digital public infrastructure and distributed systems, and develops the Development Multiplier as a way of tracing cross-dimensional effects and compounding over 10, 25, 50 and 75 years.",
+    "The evidence is strongest for energy, air quality and resilient infrastructure, weaker for materials and land use, and constrained everywhere by the cost of capital, debt burdens, institutional capacity and a narrowing manufacturing ladder. Stylized scenarios, a risk register, falsification tests and a prototype convergence dashboard are offered so that the proposition can be tested."
+  ],
+  "findings": [
+    "Three objectives, one strategy: economic, environmental and resilience convergence should be pursued together, treating sustainability and risk reduction as productive components of development.",
+    "Solar electricity and lithium-ion battery costs fell roughly 90 percent from 2010 to 2023–24, and digital public infrastructure has cut the cost of finance and services, shifting the binding constraint from state capacity toward access and finance.",
+    "Capital costs for clean assets in developing economies remain two to three times higher than in advanced economies, and ~3.3 billion people live in countries spending more on debt interest than on health or education.",
+    "Benefit-cost ratios of ~2:1 to 10:1 for adaptation and ~4:1 for resilient infrastructure imply large unexploited returns; closing even 1 percent of the ~143-billion person-year Century Pathways gap represents ~1.4 billion person-years of basic services."
+  ],
+  "keywords": [
+    "sustainable convergence",
+    "economic development",
+    "leapfrogging",
+    "decoupling",
+    "climate resilience",
+    "development finance",
+    "structural transformation",
+    "Development Multiplier"
+  ],
+  "method": "Hybrid research report and academic synthesis classifying claims into established evidence [E], plausible hypotheses [H], conditional scenarios [S], and original H Heuristics concepts [O], paired with stylized arithmetic convergence scenarios (2026–2101), a risk register, falsification tests, and a prototype convergence dashboard.",
+  "contents": [
+    "1. Introduction: The Convergence Question",
+    "2. Conceptual Framework: Defining Sustainable Convergence",
+    "3. Historical Evidence: Convergence and the Traditional Pathway",
+    "4. Technological Leapfrogging: The Twenty-First-Century Opportunity Set",
+    "5. Environmental Convergence: Decoupling, Pollution and Resource Efficiency",
+    "6. Structural Transformation, Industrial Strategy and Human Capital",
+    "7. Resilience Convergence and Systemic Vulnerability",
+    "8. The Development Multiplier: Cross-Dimensional Effects and Compounding",
+    "9. Institutions, Finance and the International Architecture",
+    "10. Risks, Constraints and Counter-Arguments",
+    "11. Scenarios and Measurement",
+    "12. Policy Priorities, Research Agenda and Conclusion"
+  ],
+  "backmatter": [
+    "References",
+    "Appendix: Glossary and Notes on Method"
+  ],
+  "doi": "10.6084/m9.figshare.35098198",
+  "license": "CC BY 4.0"
+}
