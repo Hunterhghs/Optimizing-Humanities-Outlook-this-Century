@@ -1,0 +1,65 @@
+{
+  "slug": "global-value-chains-and-economic-convergence",
+  "seriesNumber": 43,
+  "number": "HH-2026-121",
+  "title": "Global Value Chains and Economic Convergence",
+  "subtitle": "Trade Integration, Industrial Upgrading, and Productivity Growth",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "global-value-chains-and-economic-convergence.pdf",
+  "pages": 35,
+  "dek": "Evaluates how global value chain participation drives or stalls productivity convergence across developing economies—synthesizing live trade, logistics, upgrading, and services data with smile-curve economics, geopolitical rewiring, and green industrial policy through 2050.",
+  "topics": [
+    "Global Value Chains",
+    "Economic Convergence",
+    "Industrial Upgrading",
+    "Trade Integration"
+  ],
+  "abstract": [
+    "Over the past three decades, the unbundling of global production into cross-border Global Value Chains (GVCs) transformed how developing economies industrialize, allowing latecomers to specialize in discrete production tasks rather than building vertically integrated industries from scratch. Yet live empirical evidence from twelve World Bank World Development Indicators (2000–2024) reveals sharply divergent productivity outcomes. While East Asian and emerging European integrators—led by China ($11,399 to $43,342 PPP output per worker), Vietnam ($10,993 to $24,493), India ($10,354 to $22,582), Poland ($57,192 to $89,295), and Morocco (container throughput more than tripling to 9.96 million TEUs)—achieved rapid upgrading, other open economies such as Mexico stagnated in labor productivity ($51,482 to $48,507) under shallow assembly traps, and Sub-Saharan Africa remained largely sidelined in raw commodity exports.",
+    "Anchored within the H Heuristics Sustainable Convergence, Development Multiplier, and Polycrisis Resilience framework, this monograph develops an operational Value-Chain Upgrading and Resilience Architecture connecting backward domestic supplier linkages, deepened smile-curve dynamics, logistics and intermediate-tariff reform, digitally delivered services GVCs, green powershoring, and geopolitical \"Great Reallocation\" friendshoring corridors. It evaluates second- through fourth-order Cross-System Spillover Coefficients, audits maladaptation traps including enclaved assembly dependency and premature deindustrialization, and models three developing-economy productivity convergence scenarios to 2050 alongside an empirical research operationalization matrix."
+  ],
+  "findings": [
+    "Empirical baseline from 12 live World Bank WDI datasets (2000–2024) showing Vietnam (39.4%), Morocco (36.5%), Turkey (37.3%), and India (45.4%) climbing in medium- and high-tech manufacturing value added while container port throughput tripled in Morocco (9.96M TEU) and Vietnam (21.07M TEU).",
+    "Operationalizable Smile-Curve & Backward-Linkage Upgrading Framework explaining why high trade openness without domestic supplier ecosystems and national innovation systems produces shallow assembly stagnation (exemplified by Mexico's productivity plateau).",
+    "Cross-System Spillover & Services-GVC synthesis documenting how ICT and business services exports (73.5% in the Philippines, 56.6% in India, 39.1% in Morocco, 38.6% in South Africa) provide a vital second convergence engine alongside green manufacturing.",
+    "Quantitative 2024–2050 labor-productivity convergence scenarios showing ex-China EMDEs closing from 22% to 49% of the OECD frontier under Upgraded Green-GVC Convergence versus stalling at 22.6% under geopolitical decoupling and polycrisis shocks."
+  ],
+  "keywords": [
+    "global value chains",
+    "economic convergence",
+    "industrial upgrading",
+    "productivity growth",
+    "trade facilitation",
+    "smile curve",
+    "premature deindustrialization",
+    "nearshoring",
+    "supply chain resilience",
+    "digital services trade",
+    "Sustainable Convergence",
+    "Polycrisis Resilience"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis and Analytical Architecture",
+    "2 Global Empirical Baseline: Trade Integration, Ports, and Labor Productivity",
+    "3 Industrial Upgrading and the Challenge of Premature Deindustrialization",
+    "4 The Deepening Smile Curve and Backward-Linkage Upgrading Mechanics",
+    "5 Logistics Performance, Intermediate Tariffs, and Trade Facilitation",
+    "6 Foreign Direct Investment Spillovers and National Innovation Systems",
+    "7 Digital Services Global Value Chains and the Second Convergence Engine",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Geopolitical \"Great Reallocation,\" Nearshoring, and Green Value Chains",
+    "10 Second-Order Maladaptation Traps, Sovereign Vulnerability, and Governance Guardrails",
+    "11 Quantitative Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Operationalization Roadmap, Policy Sequencing, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35111851",
+  "license": "CC BY 4.0"
+}
