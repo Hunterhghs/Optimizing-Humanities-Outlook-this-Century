@@ -1,0 +1,65 @@
+{
+  "slug": "financing-sustainable-development-in-emerging-markets",
+  "seriesNumber": 41,
+  "number": "HH-2026-119",
+  "title": "Financing Sustainable Development in Emerging Markets",
+  "subtitle": "Capital Mobilization, Green Investment, and Long-Term Economic Transformation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "financing-sustainable-development-in-emerging-markets.pdf",
+  "pages": 41,
+  "dek": "Examines how emerging and developing economies can close the multi-trillion-dollar sustainable investment gap by lowering sovereign and project capital costs, deepening domestic financial markets, deploying blended risk-mitigation architectures, and aligning green capital allocation with long-term structural transformation and polycrisis resilience.",
+  "topics": [
+    "Development Economics",
+    "Green Transition",
+    "Sustainable Finance",
+    "Emerging Economies"
+  ],
+  "abstract": [
+    "Emerging and developing economies account for the vast majority of twenty-first-century demographic growth, infrastructure demand, and future energy consumption, yet they face a structural financing paradox. Although solar photovoltaic, battery storage, electric cooking, and digital public infrastructure technologies have achieved historic cost declines, sovereign risk premiums, currency mismatches, shallow domestic credit markets, and rising external debt service—exceeding 20 to 30 percent of exports in multiple benchmark economies—block viable green projects from reaching financial close. Drawing on verified World Bank World Development Indicators (2000–2024) across twenty-seven benchmark countries and regional aggregates alongside forty peer-reviewed empirical studies, this monograph demonstrates that sustainable development finance is fundamentally an institutional and financial-engineering problem rather than an engineering feasibility constraint.",
+    "Anchored within the H Heuristics Sustainable Convergence, Development Multiplier, and Polycrisis Resilience architecture, the report formalizes a Cross-System Capital Mobilization Framework connecting macroeconomic sovereign buffers, multilateral de-risking guarantees, local-currency hedging facilities, sovereign green and sustainability-linked debt, digital financial inclusion, and household clean-cooking bio-economies. It quantifies second- through fourth-order Cross-System Spillover Coefficients across ecology, gender time-poverty, public health, grid stability, informal labor productivity, and sovereign fiscal balance, audits second-order maladaptation traps including unhedged foreign-exchange exposure and premature fossil lock-in, and models three capital-mobilization trajectories for emerging markets through 2050 alongside an operationalization agenda for independent empirical scholarship."
+  ],
+  "findings": [
+    "Empirical baseline from 12 live World Bank WDI datasets (2000–2024) contrasting East Asian capital formation (34.7% of GDP) against Sub-Saharan Africa (21.7%) and Latin America (19.2%), alongside surging sovereign debt-service ratios in Kenya (21.3%), Egypt (30.4%), and Brazil (32.9%).",
+    "Operationalizable WACC Decomposition and Blended De-Risking Framework demonstrating how multilateral guarantees and local-currency FX facilities compress nominal emerging-market project capital costs from ~12.8% toward ~6.7%.",
+    "Intersectional Engineering audit mapping 2nd-, 3rd-, and 4th-order Cross-System Spillovers across clean cooking, decentralized microgrids, digital public infrastructure, and regional clean manufacturing hubs—paired with explicit maladaptation guardrails.",
+    "Three quantitative capital-mobilization scenarios (2024–2050) projecting annual ex-China EMDE sustainable investment from $320B toward $2.68T under Accelerated Blended Convergence versus $560B under an Unmitigated Polycrisis Spiral."
+  ],
+  "keywords": [
+    "sustainable development finance",
+    "emerging markets",
+    "capital mobilization",
+    "blended finance",
+    "cost of capital",
+    "WACC",
+    "green investment",
+    "sovereign debt sustainability",
+    "multilateral development banks",
+    "Polycrisis Resilience",
+    "Sustainable Convergence",
+    "Development Multiplier"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis and Analytical Architecture",
+    "2 Global Empirical Baseline and Structural Trends",
+    "3 The Sovereign Debt–Climate Vulnerability Nexus",
+    "4 Cost of Capital (WACC) Compression and Blended De-Risking Architecture",
+    "5 Deepening Domestic Financial Markets and Local-Currency Mobilization",
+    "6 Multilateral Development Bank Balance-Sheet Reform and External Private Capital",
+    "7 Sectoral Green Investment Pathways: Power Grids, Clean Cooking Bio-Economies, and Industrial Decarbonization",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Digital Public Infrastructure, Fintech Intermediation, and Telemetry-Backed Climate Finance",
+    "10 Second-Order Maladaptation Traps, Sovereign Fragility, and Governance Guardrails",
+    "11 Quantitative Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Operationalization Roadmap, Policy Sequencing, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35111770",
+  "license": "CC BY 4.0"
+}
