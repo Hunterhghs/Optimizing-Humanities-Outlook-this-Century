@@ -1,0 +1,65 @@
+{
+  "slug": "green-technology-diffusion-in-developing-nations",
+  "seriesNumber": 42,
+  "number": "HH-2026-120",
+  "title": "Green Technology Diffusion in Developing Nations",
+  "subtitle": "Technology Transfer, Investment Barriers, and the Economics of Decarbonization",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "green-technology-diffusion-in-developing-nations.pdf",
+  "pages": 40,
+  "dek": "Examines why steep global cost declines in solar, batteries, electric mobility, and industrial decarbonization have translated into highly uneven adoption across developing nations—mapping the roles of absorptive capacity, intellectual property regimes, capital barriers, and cross-system spillovers through 2050.",
+  "topics": [
+    "Green Technology Diffusion",
+    "Technology Transfer",
+    "Development Economics",
+    "Decarbonization"
+  ],
+  "abstract": [
+    "Over the past half-century, solar photovoltaic module prices collapsed by 99.9 percent—from $132.38 per watt in 1975 to $0.12 per watt in 2025—accompanied by rapid learning-curve declines across lithium-iron-phosphate batteries, power electronics, electric two- and three-wheelers, and efficient electric cooking appliances. Yet live empirical records from Our World in Data and the World Bank World Development Indicators (2000–2025) reveal starkly uneven diffusion across developing nations. While Chile (66.4%), Vietnam (45.4%), China (37.0%), and Kenya (90.0%) accelerated renewable electricity shares and Vietnam expanded high-technology manufactured exports to 44.3 percent, many lower-income economies remain constrained by shallow technical absorptive capacity, high financing barriers, intellectual-property licensing bottlenecks, and grid curtailment.",
+    "Situated within the H Heuristics Sustainable Convergence, Development Multiplier, and Polycrisis Resilience framework, this monograph develops an integrated Diffusion and Absorptive Capacity Architecture linking global hardware learning curves, TRIPS and open-source patent governance, blended WACC compression, localized assembly protocols, and hard-to-abate industrial decarbonization. It maps second- through fourth-order Cross-System Spillover Coefficients across six green technology pathways, audits maladaptation traps including border-carbon exclusion (CBAM), e-waste dumping, and extractive critical-mineral dependency, and models developing-world decarbonization trajectories to 2050 alongside an empirical operationalization matrix for cross-regional scholarship."
+  ],
+  "findings": [
+    "Live empirical synthesis across 12 World Bank WDI indicators and 3 OWID datasets (1975–2025) tracking the 99.9% solar PV price collapse, diverging renewable electricity shares, energy-intensity compression, tertiary STEM enrollment, and cross-border IP licensing flows ($42.7B in China and $14.3B in India vs. $2.7B across all of Sub-Saharan Africa).",
+    "Operationalizable Absorptive Capacity & Technology Transfer Typology distinguishing passive equipment importation from transformative leapfrogging, domestic O&M localization, and regional dual-use clean-tech manufacturing.",
+    "Intersectional Engineering evaluation of 2nd–4th order Cross-System Spillovers across utility solar+BESS, DC microgrid e-cooking, electric two/three-wheelers with second-life batteries, green industrial heat, vernacular passive cooling, and agri-solar biochar loops.",
+    "Explicit audit of EU CBAM \"carbon-ladder\" trade risks, critical-mineral value-capture traps, and three 2025–2050 clean-technology diffusion scenarios (85% clean share under Transformative Leapfrog vs. 35% under Carbon-Ladder Exclusion)."
+  ],
+  "keywords": [
+    "green technology diffusion",
+    "technology transfer",
+    "developing nations",
+    "decarbonization economics",
+    "absorptive capacity",
+    "intellectual property rights",
+    "renewable energy learning curves",
+    "industrial leapfrogging",
+    "carbon border adjustment mechanism",
+    "Sustainable Convergence",
+    "Polycrisis Resilience",
+    "Development Multiplier"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis and Conceptual Architecture",
+    "2 Technology Learning Curves and the Economics of Clean Diffusion",
+    "3 Cross-Regional Empirical Baselines: Electricity Decarbonization and Carbon Intensity",
+    "4 Energy-Intensity Compression and the Economics of Transformative Leapfrogging",
+    "5 Absorptive Capacity, Human Capital, and Domestic Innovation Ecosystems",
+    "6 Intellectual Property Regimes, Technology Transfer, and Investment Barriers",
+    "7 High-Velocity Decentralized Diffusion: Mini-Grids, Electric Mobility, and Clean Thermal Systems",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Hard-to-Abate Industrial Decarbonization and Border Carbon Adjustments (CBAM)",
+    "10 Second-Order Maladaptation Traps and Institutional Guardrails",
+    "11 Quantitative Diffusion Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Operationalization Roadmap, Policy Sequencing, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35111797",
+  "license": "CC BY 4.0"
+}
