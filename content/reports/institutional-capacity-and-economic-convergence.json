@@ -1,0 +1,63 @@
+{
+  "slug": "institutional-capacity-and-economic-convergence",
+  "seriesNumber": 44,
+  "number": "HH-2026-122",
+  "title": "Institutional Capacity and Economic Convergence",
+  "subtitle": "Governance, Regulatory Development, and Long-Term Productivity Growth",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "institutional-capacity-and-economic-convergence.pdf",
+  "pages": 38,
+  "dek": "Why capital accumulation and trade openness stall without fiscal, bureaucratic, regulatory, and digital state capability—and how emerging economies can sequence high-multiplier institutional reforms for resilient productivity convergence to 2050.",
+  "topics": [
+    "Institutional Economics",
+    "State Capacity & Governance",
+    "Economic Convergence",
+    "Polycrisis Resilience"
+  ],
+  "abstract": [
+    "Capital deepening, technology transfer, and value-chain integration routinely fail to produce sustained income convergence when domestic public institutions cannot mobilize revenue, enforce contracts impartially, or regulate complex infrastructure networks. Drawing on live empirical datasets across twenty-five emerging and converged economies—combining Hanson-Sigman state capacity indices, Varieties of Democracy (V-Dem) rule-of-law and public-sector integrity scores, Transparency International benchmarks, and World Bank fiscal, statistical, and labor-productivity series—this monograph establishes why institutional capability operates as the binding structural multiplier of long-term total factor productivity (TFP). Across our benchmark panel, public administration integrity correlates strongly with PPP labor productivity (semi-log r = 0.62 across 23 benchmark economies), while economies below the 15 percent tax-to-GDP fiscal inflection threshold remain systematically vulnerable to sovereign debt distress, pro-cyclical austerity, and chronic infrastructure under-maintenance.",
+    "Moving beyond static governance scorecards and donor-driven isomorphic mimicry, the study operationalizes institutional reform through the H Heuristics Polycrisis Resilience and Intersectional Engineering framework. It traces second-, third-, and fourth-order Cross-System Spillover Coefficients across six core institutional levers—automated tax administration, meritocratic civil service reform, independent utility regulators, interoperable digital public infrastructure (DPI), municipal fiscal devolution, and open statistical telemetry—evaluating how each lowers sovereign risk premia, unlocks decentralized Water-Energy-Food (WEF) and clean-cooking markets, compresses informal-sector compliance friction, and buffers households against compounding climate-fiscal shocks. Scenario modeling to 2050 indicates that sequenced institutional leapfrogging can lift emerging-market labor productivity from 24.5 percent to 46.8 percent of the OECD frontier, compared with 31.4 percent under incremental reform and 21.8 percent under unmitigated governance erosion."
+  ],
+  "findings": [
+    "Demonstrates a strong empirical link between impartial bureaucratic integrity and output per worker (semi-log r = 0.62 across 23 benchmark economies) alongside stark 2005–2025 rule-of-law divergence across emerging markets.",
+    "Quantifies the 15 percent tax-to-GDP fiscal inflection threshold separating resilient public investment states from sovereigns trapped in pro-cyclical debt and austerity cycles.",
+    "Maps Cross-System Spillover Coefficients (2nd–4th order effects) across six institutional reforms and audits four maladaptation traps—isomorphic mimicry, regulatory capture, premature decentralization, and extractive digital surveillance.",
+    "Models three convergence trajectories to 2050 and provides a sequenced institutional reform roadmap and Cross-Regional Scholarly Operationalization Matrix for Global South policymakers and researchers."
+  ],
+  "keywords": [
+    "institutional capacity",
+    "economic convergence",
+    "state capacity",
+    "fiscal capacity",
+    "rule of law",
+    "regulatory quality",
+    "digital public infrastructure",
+    "polycrisis resilience",
+    "total factor productivity",
+    "Development Multiplier"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis and Institutional Convergence Architecture",
+    "2 Empirical Baseline: State Capacity, Rule of Law, and Productivity Divergence",
+    "3 Fiscal Capacity and Domestic Resource Mobilization: The 15% Inflection",
+    "4 Bureaucratic Capability, Meritocratic Civil Service, and Implementation Traps",
+    "5 Regulatory Quality, Independent Agencies, and Infrastructure Credibility",
+    "6 Rule of Law, Property Rights, Contract Enforcement, and Private Investment",
+    "7 Digital Public Infrastructure, e-Governance, and Algorithmic Anti-Corruption",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Decentralization, Municipal Capacity, and Statistical Governance",
+    "10 Second-Order Maladaptation Traps: Isomorphic Mimicry, Capture, and Digital Surveillance",
+    "11 Quantitative Institutional Convergence Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Sequenced Reform Roadmap, Cross-Regional Scholarly Operationalization Matrix, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35111926",
+  "license": "CC BY 4.0"
+}
