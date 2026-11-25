@@ -1,0 +1,62 @@
+{
+  "slug": "artificial-intelligence-energy-infrastructure-and-economic-development",
+  "seriesNumber": 48,
+  "title": "Artificial Intelligence, Energy Infrastructure, and Economic Development",
+  "subtitle": "Computing Capacity, Electricity Systems, and Technological Catch-Up",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "artificial-intelligence-energy-infrastructure-and-economic-development.pdf",
+  "pages": 33,
+  "dek": "Why artificial intelligence is no longer a weightless software revolution—and how emerging economies can overcome a 164-to-1 electricity divide by pairing clean-power compute sanctuaries, closed-loop cooling, AI grid optimization, and frugal offline-first edge AI to drive resilient catch-up to 2050.",
+  "topics": [
+    "Artificial Intelligence & Compute",
+    "Energy & Grid Infrastructure",
+    "Technological Catch-Up",
+    "Frugal Edge AI"
+  ],
+  "abstract": [
+    "Artificial intelligence is rapidly shifting from a weightless software layer into an intensely physical, capital- and energy-bound general-purpose technology. Drawing on twelve live empirical datasets spanning twenty-four economies (2000–2025)—including World Bank WDI electricity access, fixed broadband, R&D expenditure, high-tech exports, tertiary enrollment, and freshwater stress alongside Ember/Our World in Data per-capita electricity generation and grid carbon intensity—this monograph exposes a stark 164-to-1 Power Divide underlying global AI catch-up. While frontier compute cores generate 5,953–16,075 kWh per capita (United States 13,015, South Korea 12,090, China 7,474, UAE 16,075), power-constrained emerging economies generate just 79 kWh/capita in Rwanda, 175 kWh in Nigeria, 244 kWh in Kenya, 246 kWh in Ethiopia, and 589 kWh in Bangladesh. Simultaneously, freshwater stress threatens evaporative data-center cooling across high-growth hubs—reaching 1,510% of renewable internal resources in the UAE, 85.2% in South Korea, 67.6% in South Africa, and 66.5% in India—while Brazil (88.7% low-carbon grid, 1.5% water stress), Chile (66.4%, 9.0%), and Colombia (77.0%, 3.6%) emerge as under-leveraged clean-power compute sanctuaries.",
+    "Operationalizing H Heuristics' Polycrisis Resilience and Intersectional Engineering framework, this study demonstrates why developing nations cannot simply mimic brute-force frontier hyperscaling—and need not accept permanent compute dependency. It evaluates a stratified, energy-aligned catch-up architecture uniting four pillars: (1) frugal offline-first edge AI (<1B quantized models running on 5W solar microgrid NPUs at up to 810× lower energy per query than frontier cloud LLMs), (2) geothermal- and hydro-co-located regional sovereign inference hubs with closed-loop liquid and passive vernacular cooling, (3) grid-interactive AI demand response and renewable forecasting that convert compute loads into net grid-flexibility assets, and (4) open-weight local-language AI public goods paired with R&D and talent upgrading. Auditing Jevons-paradox energy rebound, hydrological conflict, compute colonialism, and labor-displacement traps, scenario modeling to 2050 indicates that synchronized clean compute and frugal edge catch-up lifts the EMDE AI & Energy Resilience Index to 294 (2024=100), versus 156 under fragmented cloud dependency and 82 under unmanaged hyperscale drain and polycrisis erosion."
+  ],
+  "findings": [
+    "Quantifies the 164-to-1 per-capita electricity divide (79 kWh in Rwanda to 13,015 kWh in the US) and dual power-fiber bottlenecks constraining AI catch-up across 24 economies.",
+    "Maps the Clean-Power & Water-Security Siting Quadrant, contrasting clean low-water sanctuaries (Brazil, Chile, Colombia) and geothermal frontiers (Kenya, Ethiopia) against acute carbon-water collision zones (India, South Africa, UAE).",
+    "Decomposes an 810× inference energy compression curve from frontier cloud LLMs (3,400 kWh/1M queries) down to frugal offline-first solar-edge AI (4.2 kWh/1M queries) for last-mile clinical triage, agriculture, and e-cooking microgrids.",
+    "Stress-tests AI-energy convergence to 2050 across semiconductor/transformer crunches and extreme wet-bulb cooling crises, delivering a Cross-Regional Scholarly Operationalization Matrix."
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "energy infrastructure",
+    "computing capacity",
+    "electricity systems",
+    "technological catch-up",
+    "frugal edge AI",
+    "data center water footprint",
+    "grid flexibility",
+    "green compute sovereignty",
+    "polycrisis resilience"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Physical Economics of AI Catch-Up",
+    "2 Global Empirical Baseline: The 164-to-1 Power Divide and AI Readiness",
+    "3 Twin Physical Bottlenecks: Electricity Systems and Broadband Backhaul",
+    "4 Sustainable Compute Siting: Clean Grids, Water Stress, and Cooling Innovation",
+    "5 Frugal AI and Offline-First Edge Architectures for Technological Leapfrogging",
+    "6 Absorptive Capacity, R&D Ecosystems, and Technological Catch-Up",
+    "7 AI-Enabled Smart Grids, Demand Response, and Clean-Power Coupling",
+    "8 Intersectional Engineering: Cross-System Spillovers (2nd–4th Order Effects)",
+    "9 Sovereign Cloud Strategy, Compute Governance, and Dual-Use Manufacturing",
+    "10 Second-Order Maladaptation Traps: Jevons Rebound, Water Conflict, and Automation Bias",
+    "11 Quantitative Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Implementation Roadmap, Cross-Regional Operationalization, and Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35112655",
+  "license": "CC BY 4.0"
+}
