@@ -110,7 +110,7 @@ function jpegSize(file) {
 
 /* ------------------------------------------------------------------- data */
 
-const REQUIRED = ['slug', 'seriesNumber', 'number', 'title', 'authors', 'published', 'pdf', 'pages', 'dek', 'abstract', 'keywords'];
+const REQUIRED = ['slug', 'seriesNumber', 'title', 'authors', 'published', 'pdf', 'pages', 'dek', 'abstract', 'keywords'];
 const isPlaceholder = (v) => typeof v === 'string' && /\bTODO\b/.test(v);
 
 function validate(r, file) {
@@ -183,7 +183,7 @@ function loadReports() {
   for (const key of ['slug', 'seriesNumber', 'number']) {
     const seen = new Map();
     for (const r of reports) {
-      if (isPlaceholder(r[key])) continue;
+      if (!r[key] || isPlaceholder(r[key])) continue;
       if (seen.has(r[key])) errors.push(`${r.slug}.json: "${key}" ${r[key]} is already used by ${seen.get(r[key])}.json`);
       seen.set(r[key], r.slug);
     }
@@ -246,15 +246,19 @@ function citations(r) {
   const key = `${surname(r.authors[0])}${y}${r.slug.split('-')[0]}`;
   const locator = doiUrl(r) || r.absUrl;   // a DOI is the stabler citation target
   return {
-    APA: `${authorsApa} (${y}). ${r.title} (${config.citationSeries} No. ${r.number}). ${config.publisher}. ${locator}`,
-    Chicago: `${authorsChi}. "${r.title}." ${config.citationSeries} ${r.number}. ${config.publisher}, ${y}. ${locator}.`,
+    APA: r.number
+      ? `${authorsApa} (${y}). ${r.title} (${config.citationSeries} No. ${r.number}). ${config.publisher}. ${locator}`
+      : `${authorsApa} (${y}). ${r.title} (${config.series}, ${seriesNo(r)}). ${config.publisher}. ${locator}`,
+    Chicago: r.number
+      ? `${authorsChi}. "${r.title}." ${config.citationSeries} ${r.number}. ${config.publisher}, ${y}. ${locator}.`
+      : `${authorsChi}. "${r.title}." ${config.series}, ${seriesNo(r)}. ${config.publisher}, ${y}. ${locator}.`,
     BibTeX: [
       `@techreport{${key},`,
       `  title       = {${r.title}},`,
       `  author      = {${r.authors.join(' and ')}},`,
       `  institution = {${config.publisher}},`,
       `  type        = {${config.citationSeries}},`,
-      `  number      = {${r.number}},`,
+      ...(r.number ? [`  number      = {${r.number}},`] : []),
       `  year        = {${y}},`,
       `  month       = {${MONTHS[Number(r.published.slice(5, 7)) - 1].toLowerCase().slice(0, 3)}},`,
       ...(r.doi ? [`  doi         = {${bareDoi(r.doi)}},`] : []),
@@ -394,7 +398,7 @@ const kicker = (n, label) => `<p class="kicker"><span class="kicker__n">${pad2(n
 
 function card(r) {
   return `<article class="card" data-entry data-topics="${esc(r.topics.join('|'))}" data-search="${esc(
-    [r.title, r.subtitle || '', r.dek, r.number, r.keywords.join(' '), r.topics.join(' ')].join(' ').toLowerCase()
+    [r.title, r.subtitle || '', r.dek, r.number || '', r.keywords.join(' '), r.topics.join(' ')].join(' ').toLowerCase()
   )}">
   <a class="card__cover" href="${r.url}" tabindex="-1" aria-hidden="true">${coverArt(r)}</a>
   <div class="card__body">
@@ -515,7 +519,7 @@ ${centuryBlock()}
     <article class="feature">
       <a class="feature__cover" href="${lead.url}" tabindex="-1" aria-hidden="true">${coverArt(lead, { lazy: false })}</a>
       <div class="feature__body">
-        <p class="feature__meta"><span>${seriesNo(lead)}</span><span>${esc(lead.number)}</span><time datetime="${lead.published}">${fmtDate(lead.published)}</time><span>${lead.pages} pages</span></p>
+        <p class="feature__meta"><span>${seriesNo(lead)}</span>${lead.number ? `<span>${esc(lead.number)}</span>` : ''}<time datetime="${lead.published}">${fmtDate(lead.published)}</time><span>${lead.pages} pages</span></p>
         <h3 class="feature__title"><a href="${lead.url}">${esc(lead.title)}</a>${draftFlag(lead)}</h3>
         ${lead.subtitle ? `<p class="feature__sub">${esc(lead.subtitle)}</p>` : ''}
         <p class="feature__dek">${esc(lead.dek)}</p>
@@ -691,8 +695,7 @@ ${r.authors.map((a) => `<meta name="citation_author" content="${esc(surnameFirst
 <meta name="citation_publication_date" content="${scholarDate(r.published)}">
 <meta name="citation_online_date" content="${scholarDate(r.published)}">
 <meta name="citation_technical_report_institution" content="${esc(config.publisher)}">
-<meta name="citation_technical_report_number" content="${esc(r.number)}">
-<meta name="citation_publisher" content="${esc(config.publisher)}">
+${r.number ? `<meta name="citation_technical_report_number" content="${esc(r.number)}">\n` : ''}<meta name="citation_publisher" content="${esc(config.publisher)}">
 <meta name="citation_language" content="${r.language}">
 <meta name="citation_keywords" content="${esc(r.keywords.join('; '))}">
 <meta name="citation_abstract_html_url" content="${r.absUrl}">
@@ -732,7 +735,7 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
     ...(r.subtitle ? { alternativeHeadline: r.subtitle } : {}),
     abstract: abstractText,
     description: r.dek,
-    reportNumber: r.number,
+    ...(r.number ? { reportNumber: r.number } : {}),
     position: r.seriesNumber,
     datePublished: r.published,
     dateModified: r.updated,
@@ -780,7 +783,7 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
   const record = [
     ['Series', `<a href="/">${esc(config.series)}</a>`],
     ['Series number', seriesNo(r)],
-    ['Report ID', esc(r.number)],
+    ...(r.number ? [['Report ID', esc(r.number)]] : []),
     ['Published', `<time datetime="${r.published}">${fmtDate(r.published)}</time>`],
     ...(r.updated !== r.published ? [['Updated', `<time datetime="${r.updated}">${fmtDate(r.updated)}</time>`]] : []),
     [r.authors.length > 1 ? 'Authors' : 'Author', r.authors.map(esc).join(', ')],
@@ -795,7 +798,7 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
   const facts = [
     ['Published', `<time datetime="${r.published}">${fmtDate(r.published)}</time>`],
     ['Length', `${r.pages} pages`],
-    ['Report ID', esc(r.number)],
+    ...(r.number ? [['Report ID', esc(r.number)]] : []),
     ...(doi ? [['DOI', `<a href="${doi}" rel="noopener" target="_blank">${esc(bareDoi(r.doi))}</a>`]] : []),
     ['Licence', `<a href="${lic.url}" rel="license noopener" target="_blank">${esc(lic.name)}</a>`],
   ];
@@ -1102,7 +1105,7 @@ ${reports
     <dc:creator>${esc(r.authors.join(', '))}</dc:creator>
 ${r.topics.map((t) => `    <category>${esc(t)}</category>`).join('\n')}
     <description>${esc(r.dek)}</description>
-    <content:encoded><![CDATA[<p><strong>${seriesNo(r)} · ${esc(r.number)}</strong> · ${r.pages} pages</p>${r.abstract
+    <content:encoded><![CDATA[<p><strong>${seriesNo(r)}${r.number ? ` · ${esc(r.number)}` : ''}</strong> · ${r.pages} pages</p>${r.abstract
       .map((p) => `<p>${esc(plain(p))}</p>`)
       .join('')}<p><a href="${r.pdfAbsUrl}">Open the PDF</a></p>]]></content:encoded>
     <enclosure url="${r.pdfAbsUrl}" length="${r.bytes}" type="application/pdf"/>
@@ -1125,7 +1128,7 @@ function metadataJson(reports) {
       count: reports.length,
       reports: reports.map((r) => ({
         seriesNumber: r.seriesNumber,
-        number: r.number,
+        number: r.number || null,
         slug: r.slug,
         title: r.title,
         subtitle: r.subtitle || null,

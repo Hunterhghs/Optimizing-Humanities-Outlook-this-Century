@@ -1,0 +1,62 @@
+{
+  "slug": "the-digital-green-development-nexus",
+  "seriesNumber": 46,
+  "title": "The Digital-Green Development Nexus",
+  "subtitle": "Integrating Technological Transformation, Clean Energy, and Sustainable Industrialization",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "the-digital-green-development-nexus.pdf",
+  "pages": 37,
+  "dek": "Why emerging economies can no longer sequence carbon-intensive industrialization before digital and clean-energy upgrading—and how synchronizing AI smart grids, industrial digital twins, green-electron industrial parks, and digital carbon telemetry drives resilient convergence to 2050.",
+  "topics": [
+    "Digital-Green Twin Transition",
+    "Sustainable Industrialization",
+    "Clean Energy & Smart Grids",
+    "Polycrisis Resilience"
+  ],
+  "abstract": [
+    "Twentieth-century catch-up industrialization relied on cheap fossil electricity, high energy intensity, and delayed environmental cleanup. That sequential pathway is now structurally foreclosed by tightening carbon border regimes, falling renewable and storage costs, and AI-driven global manufacturing standards. Drawing on eleven live empirical datasets across twenty-four economies (2000–2025)—spanning World Bank WDI manufacturing, high-tech export, R&D, and energy-intensity series alongside Ember/OWID grid carbon-intensity and low-carbon electricity data—this monograph exposes a stark Twin-Transition Asymmetry. Clean-grid developing economies (Ethiopia at 100% low-carbon power, Kenya at 90%, Brazil at 89%, Chile at 66%) remain under-industrialized, while fast-growing manufacturing hubs (China, Vietnam, Malaysia, India, Indonesia, Bangladesh) remain heavily exposed to coal-and-gas grids (461–696 gCO2/kWh) and imminent carbon-border trade barriers.",
+    "Operationalizing a Polycrisis Resilience and Intersectional Engineering framework, this study synthesizes how digital intelligence and clean energy co-evolve to drive sustainable industrialization. It evaluates AI-enabled smart grids, factory digital twins, Digital Product Passports, green-electron eco-industrial parks, circular bio-economy IoT, and dual-use regional clean-tech manufacturing—while auditing digital energy rebound, unmanaged AI data-center loads, and green-protectionist exclusion. Scenario modeling to 2050 indicates that synchronized digital-green leapfrogging lifts emerging-market carbon-adjusted manufacturing productivity to 268 (2024=100), compared with 158 under fragmented efficiency and 89 under carbon lock-in and polycrisis erosion."
+  ],
+  "findings": [
+    "Maps the global Twin-Transition Asymmetry across 24 economies, contrasting clean-grid under-industrialized states (KEN 95, BRA 110 gCO2/kWh) with coal-exposed export hubs (IND 670, IDN 680, BGD 696, ZAF 699 gCO2/kWh).",
+    "Quantifies R&D, fixed broadband, and energy-intensity convergence pathways (2010–2025) connecting Industry 4.0/5.0 smart manufacturing with industrial decarbonization.",
+    "Decomposes digital-green efficiency gains versus direct/indirect energy rebound and data-center grid stress across five industrial deployment pathways.",
+    "Models carbon-adjusted manufacturing productivity to 2050 under compound CBAM-energy-climate stress tests and delivers a Cross-Regional Scholarly Operationalization Matrix."
+  ],
+  "keywords": [
+    "digital-green nexus",
+    "twin transition",
+    "sustainable industrialization",
+    "smart manufacturing",
+    "digital twins",
+    "carbon border adjustment mechanism",
+    "green industrial policy",
+    "AI smart grids",
+    "energy rebound effect",
+    "polycrisis resilience"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Digital–Green Development Nexus",
+    "2 Global Empirical Baseline: Grid Decarbonization, Industrialization, and Digital Divergence",
+    "3 The Twin-Transition Asymmetry and the Green-Electron Industrial Advantage",
+    "4 Smart Manufacturing, Digital Twins, and Industrial Energy-Intensity Compression",
+    "5 Innovation Ecosystems, Digital Twins, and the Built Environment Twin Transition",
+    "6 Carbon Border Adjustments, Green Trade Competitiveness, and Digital Product Passports",
+    "7 AI-Enabled Smart Grids, Energy Rebound, and the Compute–Carbon Trade-Off",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Modern Green Industrial Policy and Antifragile Dual-Use Regional Manufacturing",
+    "10 Second-Order Maladaptation Traps: Digital Rebound, Greenwashing, and Just-Transition Exclusion",
+    "11 Quantitative Twin-Transition Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Sequenced Implementation Roadmap, Cross-Regional Operationalization Matrix, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35112262",
+  "license": "CC BY 4.0"
+}
