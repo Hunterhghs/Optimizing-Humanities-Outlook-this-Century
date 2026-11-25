@@ -1,0 +1,63 @@
+{
+  "slug": "digital-infrastructure-energy-access-and-economic-convergence",
+  "seriesNumber": 45,
+  "number": "HH-2026-123",
+  "title": "Digital Infrastructure, Energy Access, and Economic Convergence",
+  "subtitle": "The Interdependence of Connectivity, Electrification, and Productivity Growth",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "digital-infrastructure-energy-access-and-economic-convergence.pdf",
+  "pages": 39,
+  "dek": "Why broadband connectivity and electrification cannot deliver sustained productivity convergence in isolation—and how coupling solar-battery microgrids, telecom anchor tenants, clean e-cooking, and offline-first digital infrastructure unlocks compounding development multipliers to 2050.",
+  "topics": [
+    "Digital Infrastructure",
+    "Energy Access & Electrification",
+    "Sustainable Convergence",
+    "Polycrisis Resilience"
+  ],
+  "abstract": [
+    "Digital connectivity and modern energy access are routinely financed and regulated as separate silos across developing economies. Yet empirical evidence across twenty-six economies (2005–2025)—combining World Bank WDI, ITU, and Ember/OWID series—shows neither network delivers sustained TFP convergence alone. While Sub-Saharan Africa reached 89.2 mobile subscriptions/100 and 55.1 percent electricity access by 2024, active internet adoption stalled at 33.6 percent, fixed broadband at 0.84/100, and clean cooking at 22.9 percent. Per-capita electricity generation correlates tightly with PPP labor productivity (log-log r = 0.93, elasticity = 0.52), while diesel-dependent telecom towers and blackouts impose heavy operating penalties.",
+    "Operationalizing a Polycrisis Resilience and Intersectional Engineering framework, this monograph models coupled digital-energy leapfrogging. It demonstrates how anchor-tenant solar-battery telecom mini-grids, DC electric cooking with PAYGO telemetry, Water-Energy-Food (WEF) cold chains, and frugal offline-first edge AI eliminate rural diesel OPEX while triggering 2nd–4th order Cross-System Spillovers across health, gender time poverty, SME credit, grid peak decoupling, and FX stability. Scenario modeling to 2050 indicates coupled leapfrogging lifts target EMDE productivity from 21.2 percent to 44.6 percent of the OECD frontier, versus 28.9 percent under siloed rollouts and 18.4 percent under grid fragility."
+  ],
+  "findings": [
+    "Quantifies the 1,000 kWh/capita Productive-Power Inflection (log-log r = 0.93, n = 26) and the 25–46 pp Electrification–Internet Usage Gap from live 2005–2025 World Bank and OWID/Ember series.",
+    "Demonstrates why mobile-first connectivity stalls without Tier-3+ power, dig-once fiber backhaul, and solarized telecom anchor-tenant microgrids.",
+    "Maps Cross-System Spillover Coefficients (2nd–4th order) across DC solar e-cooking, WEF cold chains, and offline-first edge AI alongside four maladaptation guardrails.",
+    "Models 2024–2050 convergence trajectories under climate–fuel polycrisis stress tests and delivers a Cross-Regional Scholarly Operationalization Matrix."
+  ],
+  "keywords": [
+    "digital infrastructure",
+    "energy access",
+    "electrification",
+    "economic convergence",
+    "broadband connectivity",
+    "solar microgrids",
+    "clean cooking",
+    "mobile money",
+    "labor productivity",
+    "polycrisis resilience"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Digital–Energy Convergence Architecture",
+    "2 Global Empirical Baseline: Two Decades of Electrification and Connectivity Divergence",
+    "3 Power Intensity, Grid Reliability, and the Micro-Economics of Firm Productivity",
+    "4 Digital Connectivity, Broadband Deepening, and the Usage Gap",
+    "5 Decentralized Solar Microgrids and Renewable Energy Leapfrogging",
+    "6 Clean Cooking, DC Electric Cooking Economics, and Circular Bio-Economy Loops",
+    "7 Coupled Nexus Economics: Telecom Anchor Tenants, Mobile Money, and Microgrid Finance",
+    "8 Intersectional Engineering: Cross-System Spillover Dynamics (2nd–4th Order Effects)",
+    "9 Decentralized Water–Energy–Food Meshes and Frugal Offline-First Edge AI",
+    "10 Second-Order Maladaptation Traps and Systemic Governance Guardrails",
+    "11 Quantitative Convergence Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Sequenced Deployment Roadmap, Cross-Regional Operationalization Matrix, and Methodological Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35112166",
+  "license": "CC BY 4.0"
+}
