@@ -1,0 +1,62 @@
+{
+  "slug": "climate-adaptation-and-economic-convergence",
+  "seriesNumber": 49,
+  "title": "Climate Adaptation and Economic Convergence",
+  "subtitle": "Infrastructure Resilience, Development Investment, and the Reduction of Systemic Vulnerabilities",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "climate-adaptation-and-economic-convergence.pdf",
+  "pages": 37,
+  "dek": "Why the twenty-first century can become physically more hazardous while human development and economic convergence still accelerate—provided emerging markets deploy triple-dividend resilient infrastructure, vernacular cooling, nature-based defenses, and sovereign debt-adaptation architecture faster than climate shocks intensify.",
+  "topics": [
+    "Climate Adaptation",
+    "Infrastructure Resilience",
+    "Economic Convergence",
+    "Polycrisis Resilience"
+  ],
+  "abstract": [
+    "As global near-surface warming breached +1.53°C in 2024 and sustained +1.41°C through 2025–2026, climate adaptation has ceased to be a peripheral humanitarian concern and become a decisive determinant of macroeconomic convergence. Drawing on thirteen live empirical datasets spanning twenty-four economies (2000–2025) alongside century-scale disaster-mortality and warming series (1920–2025), this monograph establishes the core empirical law of Preventive Development Economics: although physical hazards are rising, proactive infrastructure and institutional development already slashed global decadal climate-disaster mortality by 97.9% over the past century (falling from 24.4 deaths per 100,000 in the 1920s to a 2010s trough of 0.26 and 0.52 in the 2020s). Yet across emerging and developing economies (EMDEs), a severe Climate–Debt–Water Trap threatens to reverse catch-up. Agrarian labor exposure remains acute in Mozambique (73.0% of employment), Ethiopia (60.1%), Kenya (45.8%), Bangladesh (44.3%), and India (41.6%); freshwater stress exceeds 50%–141% of renewable internal resources across Egypt, Pakistan, South Africa, India, and Morocco; and sovereign debt service absorbs 22%–47% of export earnings across Mozambique, Colombia, Brazil, Senegal, Pakistan, Egypt, and Kenya.",
+    "Operationalizing H Heuristics' Polycrisis Resilience and Intersectional Engineering framework, this study engineers an investment-grade adaptation stack that reduces systemic vulnerability faster than hazards escalate. It quantifies Triple-Dividend benefit–cost ratios across five infrastructure archetypes—from early-warning and frugal edge-AI triage (9.0× median BCR) and coastal mangrove defenses (6.2×) to climate-adaptive vernacular passive cooling (5.1×) and decentralized solar Water-Energy-Food and clean-cooking meshes (4.6×)—while detailing a layered $310B/year financing architecture to close the EMDE adaptation gap and auditing structural maladaptation traps. Stress-testing economic convergence to 2050 across multi-breadbasket droughts and Category-5 coastal/wet-bulb shocks, scenario modeling shows Proactive Triple-Dividend Adaptation lifts the EMDE Climate-Adjusted Convergence Index to 278 (2024=100), versus 152 under reactive post-disaster reconstruction and 79 under maladaptation and debt-climate divergence."
+  ],
+  "findings": [
+    "Demonstrates quantitatively from 1920–2025 EM-DAT/HadCRUT5 series how infrastructure development cut global climate-disaster mortality by 97.9% (24.4 to 0.52 per 100k) even as warming breached +1.53°C.",
+    "Diagnoses the Climate–Debt–Water Trap across 24 economies, mapping sovereign debt service (up to 47.4% of exports), freshwater stress (up to 141.2%), and outdoor heat exposure.",
+    "Quantifies Triple-Dividend Benefit–Cost Ratios (3.8× to 9.0× median) across nature-based coastal buffers, vernacular passive cooling, solar WEF meshes, urban drainage, and early warning.",
+    "Models a $310B/yr layered adaptation finance stack, maps 2nd–4th order Cross-System Spillovers, audits maladaptation traps, and stress-tests convergence scenarios to 2050."
+  ],
+  "keywords": [
+    "climate adaptation",
+    "economic convergence",
+    "infrastructure resilience",
+    "systemic vulnerability",
+    "polycrisis resilience",
+    "nature-based solutions",
+    "passive cooling",
+    "sovereign climate risk",
+    "water-energy-food nexus",
+    "maladaptation guardrails"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Climate Adaptation as a Convergence Engine",
+    "2 Global Empirical Baseline: Hazard Escalation vs. Vulnerability Collapse",
+    "3 Infrastructure Deficits and the Systemic Exposure Divide",
+    "4 The Sovereign Climate–Debt–Water Trap",
+    "5 The Triple Dividend of Resilient Infrastructure and Nature-Based Defenses",
+    "6 Extreme Wet-Bulb Heat, Labor Productivity, and Vernacular Passive Cooling",
+    "7 Adaptation Finance Architecture: Closing the $310 Billion Investment Gap",
+    "8 Intersectional Engineering: Cross-System Spillovers of Adaptation Infrastructure",
+    "9 Urban Informal Settlements and Decentralized Water-Energy-Food Meshes",
+    "10 Polycrisis Maladaptation Traps and Antifragile Engineering Guardrails",
+    "11 Polycrisis Stress Testing: Climate Adaptation and Economic Convergence to 2050",
+    "12 Strategic Roadmap and Cross-Regional Operationalization (2026–2050)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35113261",
+  "license": "CC BY 4.0"
+}
