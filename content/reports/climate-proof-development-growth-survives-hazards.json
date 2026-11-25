@@ -1,0 +1,56 @@
+{
+  "slug": "climate-proof-development-growth-survives-hazards",
+  "seriesNumber": 54,
+  "title": "Climate-Proof Development: Building Growth That Survives Its Hazards",
+  "subtitle": "Which infrastructure, agriculture and urban choices cut vulnerability while raising living standards",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-25",
+  "language": "en",
+  "pdf": "climate-proof-development-growth-survives-hazards.pdf",
+  "pages": 30,
+  "dek": "Evaluates which infrastructure, agricultural, and urban investments simultaneously shield developing economies from intensifying physical hazards and accelerate durable gains in global living standards.",
+  "topics": [
+    "Climate Adaptation",
+    "Development Economics",
+    "Resilient Infrastructure",
+    "Urban Sustainability"
+  ],
+  "abstract": [
+    "Economic growth in the twenty-first century faces a defining structural test: whether rapid capital accumulation in emerging and developing economies can survive intensifying physical climate hazards without sacrificing poverty reduction or fiscal stability. Drawing on thirteen live World Bank and Our World in Data empirical series across twenty-four benchmark economies (2000–2025), this standalone monograph investigates which concrete infrastructure, agricultural, and urban design choices simultaneously reduce hazard vulnerability and raise human living standards. As global near-surface warming reached +1.53°C in 2024 and extreme-temperature disaster mortality jumped to 0.59–0.83 deaths per 100,000 people during 2022–2024, cross-country evidence confirms that foundational infrastructure—universal electricity, basic sanitation, and clean cooking—acts as the primary determinant of whether climate shocks translate into mortality and income reversal. Economies crossing 85%–95% basic sanitation and near-universal electrification achieve life expectancies of 74.7–83.3 years, whereas sanitation and power deficits in lagging corridors hold longevity to 54.6–68.0 years.",
+    "Disaggregating sectoral pathways reveals three high-return levers for climate-proof convergence. First, structural transformation out of rainfed agricultural labor (where employment shares remain 35%–60% across Ethiopia, Kenya, Bangladesh, and India) paired with climate-smart agronomy, metered solar micro-irrigation, and bioinoculants stabilizes yields while protecting overdrawn aquifers in hotspots such as Egypt (141.2% freshwater stress) and Pakistan (110.0%). Second, proactive urban engineering—combining sponge-city wetlands, passive radiative and vernacular cooling, clean-cooking transitions, and informal-settlement upgrading—shields rapidly growing cities from flash floods and wet-bulb heat stress while cutting ambient PM2.5 burdens as high as 54–69 µg/m³. Third, blended adaptation finance and sovereign climate bonds compress project WACC by 350–500 basis points to unlock Triple-Dividend investments delivering median benefit–cost ratios of 4.5x to 9.8x. Scenario modeling to 2050 indicates that an Integrated Climate-Proof Development portfolio lifts a hazard-adjusted emerging-market living standards index to 182.5 (from 100 in 2025), outperforming fragmented adaptation (139.8) and reactive post-disaster growth (114.2) by +68.3 index points."
+  ],
+  "findings": [
+    "Benchmarks twenty-four economies across thirteen live World Bank and OWID datasets (2000–2025) linking sanitation, electrification, clean cooking, water stress, and agricultural transition to hazard-resilient longevity.",
+    "Quantifies Triple-Dividend benefit–cost ratios (4.5x–9.8x) and multi-order spillovers across early warning, mangrove coastal buffers, solar WEF meshes, sponge cities, passive cooling, and climate-smart agriculture.",
+    "Identifies concrete governance guardrails against solar groundwater depletion, imported LPG traps, and urban heat-island lock-in.",
+    "Models hazard-adjusted living standards to 2050, showing Integrated Climate-Proof Development delivers a +68.3-point resilience dividend over reactive growth."
+  ],
+  "keywords": [
+    "climate-proof development",
+    "resilient infrastructure",
+    "climate-smart agriculture",
+    "urban adaptation",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Growth That Survives Its Hazards",
+    "2 Global Empirical Baseline: Hazards, Infrastructure, and Living Standards",
+    "3 Theoretical Bridge: The Triple-Dividend Economics of Climate-Proof Growth",
+    "4 Resilient Infrastructure and Clean-Energy Leapfrogging",
+    "5 Climate-Smart Agriculture, Water Productivity, and Structural Transformation",
+    "6 Resilient Urbanization, Nature-Based Flood Defense, and Blended Finance",
+    "7 Regional Comparative Evidence: What Works Across Contexts",
+    "8 Cross-System Spillovers: How Physical Choices Multiply Living Standards",
+    "9 Maladaptation Traps, Governance Guardrails, and Methodological Limitations",
+    "10 Scenarios to 2050: Hazard-Adjusted Living Standards Under Three Pathways",
+    "11 Policy and Research Agenda: Operationalizing Climate-Proof Growth"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35117008",
+  "license": "CC BY 4.0"
+}
