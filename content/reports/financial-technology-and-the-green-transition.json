@@ -1,0 +1,62 @@
+{
+  "slug": "financial-technology-and-the-green-transition",
+  "seriesNumber": 47,
+  "title": "Financial Technology and the Green Transition",
+  "subtitle": "Digital Capital Mobilization, Sustainable Investment, and Emerging-Market Development",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-24",
+  "language": "en",
+  "pdf": "financial-technology-and-the-green-transition.pdf",
+  "pages": 39,
+  "dek": "Why rapid digital payment adoption in emerging markets has not yet closed the climate-capital gap—and how coupling digital public infrastructure, PAYGO clean-energy telemetry, tokenized sovereign green bonds, and parametric polycrisis insurance mobilizes long-tenor green capital to 2050.",
+  "topics": [
+    "Green FinTech & Digital Finance",
+    "Blended Climate Finance",
+    "PAYGO Clean Energy & Cooking",
+    "Polycrisis Resilience"
+  ],
+  "abstract": [
+    "Over the past fifteen years, emerging and developing economies (EMDEs) achieved an unprecedented retail financial leapfrog. Drawing on thirteen live empirical datasets spanning twenty-four economies (2000–2025)—including World Bank Global Findex, WDI financial depth, branch density, clean cooking, and electricity series alongside Ember/OWID grid decarbonization records—this monograph documents how mobile money and Digital Public Infrastructure (DPI) pushed adult account ownership to 90.1% in Kenya, 89.0% in India, 86.4% in Brazil, 81.2% in Ghana, and 72.8% in Uganda despite sparse physical banking networks (2.1–5.9 branches per 100,000 adults). Yet these digital rails expose a profound Green-FinTech Mobilization Gap: retail payment velocity has not translated into deep, long-tenor domestic climate capital. Across Sub-Saharan Africa and South Asia, private domestic credit remains shallow (7.9%–34.5% of GDP), weighted average costs of capital for clean energy remain prohibitive (11%–15%), and clean-cooking access lags far behind both clean grids and mobile-money penetration (2.0% in Uganda, 7.0% in Ethiopia, 32.0% in Kenya).",
+    "Operationalizing H Heuristics' Polycrisis Resilience and Intersectional Engineering framework, this study engineers the institutional stack required to convert retail digital rails into resilient green capital formation. It analyzes five high-leverage mechanisms—DPI green liquidity routing, PAYGO e-Cooking and solar-microgrid carbon telemetry, tokenized sovereign green and sustainability-linked bonds, automated parametric polycrisis climate insurance, and digital MRV for high-integrity carbon markets—while auditing second-order maladaptation traps including predatory digital nano-lending, ESG greenwashing, speculative proof-of-work energy drain, and gender digital exclusion (up to -11.0 percentage points in Nigeria and -9.9 pp in Bangladesh). Blended FinTech de-risking compresses emerging-market clean-asset WACC by up to 740 basis points (13.8% to 6.4%), and 2050 scenario modeling shows synchronized green FinTech lifts emerging-market green capital resilience to 286 (2024=100), versus 164 under fragmented retail rails and 84 under predatory debt and climate lock-in."
+  ],
+  "findings": [
+    "Quantifies the Green-FinTech Mobilization Gap across 24 economies (2000–2025), contrasting branchless digital account surges (+47.8 to +53.8 pp) against shallow domestic credit (7.9%–34.5% of GDP) and clean-cooking deficits.",
+    "Models a 740 bps WACC compression waterfall (13.8% to 6.4%) uniting concessional first-loss guarantees, local-currency DPI liquidity, IoT/PAYGO credit telemetry, parametric climate triggers, and tokenized green bonds.",
+    "Maps 2nd- through 4th-order Cross-System Spillovers across decarbonization, gender financial inclusion parity (-11.0 pp to +6.9 pp), public health, grid peak-load decoupling, informal MSME productivity, and sovereign stability.",
+    "Audits four maladaptation traps—predatory digital debt, ESG greenwashing, proof-of-work crypto electricity drain, and basis-risk insurance failure—and delivers a 2026–2050 Cross-Regional Operationalization Matrix."
+  ],
+  "keywords": [
+    "green fintech",
+    "digital capital mobilization",
+    "sustainable investment",
+    "emerging-market development",
+    "digital public infrastructure",
+    "PAYGO clean cooking",
+    "sovereign green bonds",
+    "parametric climate insurance",
+    "digital MRV tokenization",
+    "polycrisis resilience"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Financial Technology and the Green Transition",
+    "2 Global Empirical Baseline: Digital Financial Inclusion and the Green Capital Landscape",
+    "3 Branchless Leapfrogging and Digital Public Infrastructure (DPI) for Green Capital",
+    "4 Diagnosing the Green-FinTech Capital Mobilization Gap",
+    "5 PAYGO Clean Cooking, Distributed Solar, and Circular Bio-Economy Financing",
+    "6 Gender Financial Inclusion Parity and Open-Finance Green MSME Credit",
+    "7 Sovereign Green Bonds, Blended Finance, and Central Bank Architecture",
+    "8 Parametric Polycrisis Triggers and Cross-System Spillover Dynamics",
+    "9 Asset Tokenization, Digital MRV, and High-Integrity Carbon Markets",
+    "10 Second-Order Maladaptation Traps: Crypto Energy Drain, Greenwashing, and Predatory Digital Debt",
+    "11 Quantitative Scenarios and Polycrisis Stress Testing to 2050",
+    "12 Phased Implementation Roadmap, Cross-Regional Operationalization Matrix, and Limitations"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35112325",
+  "license": "CC BY 4.0"
+}
