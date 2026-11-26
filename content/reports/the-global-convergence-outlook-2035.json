@@ -1,0 +1,58 @@
+{
+  "slug": "the-global-convergence-outlook-2035",
+  "seriesNumber": 61,
+  "title": "The Global Convergence Outlook 2035",
+  "subtitle": "Which Economies Are Positioned to Experience the Fastest Economic and Technological Convergence?",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-global-convergence-outlook-2035.pdf",
+  "pages": 34,
+  "dek": "Evaluates which emerging and middle-income economies are structurally positioned to achieve the fastest economic and technological convergence through 2035 as agentic AI, clean-power compute grids, multipolar supply-chain rewiring, and demographic bifurcation reshape global living standards.",
+  "topics": [
+    "Development Economics",
+    "Sustainable Convergence",
+    "Technological Diffusion",
+    "Clean Energy Infrastructure"
+  ],
+  "abstract": [
+    "Over the decade to 2035, global economic convergence is no longer driven solely by low-wage labor arbitrage or traditional export-led manufacturing. Instead, catch-up velocity is increasingly governed by the interaction of three structural mega-drivers: technological convergence across agentic artificial intelligence, programmable biology, and compute-energy infrastructure; multipolar supply-chain rewiring around resilient connector economies; and sharp demographic bifurcation between aging advanced economies and prime working-age emerging markets. Using live World Bank World Development Indicators across 24 representative economies and 12 macroeconomic, technological, energy, investment, and human-capital series, this report constructs the 2035 Global Convergence Readiness Index (GCRI-2035) to identify which countries are structurally positioned to close the income and productivity gap with the US frontier fastest.",
+    "Empirical scoring shows that convergence leadership through 2035 bifurcates into distinct functional archetypes rather than a single monolithic path. Vietnam (GCRI 69.9; 7.37% real per-capita growth; 44.3% high-tech exports), India (GCRI 67.4; 6.62% growth; 48.6% ICT service exports), Malaysia (GCRI 64.5; 58.6% high-tech exports; 4.58% FDI/GDP), and the Philippines (GCRI 62.9; 60.4% high-tech exports) lead the Indo-Pacific hardware and AI-services corridor, while Poland (GCRI 54.6; 80.9% tertiary enrollment), Romania (26.0% ICT services), and Morocco anchor European near-shoring. Meanwhile, Brazil (77.4% renewable electricity), Colombia (76.2%), Chile (48.1%), Ethiopia (95.3%), Kenya (78.1%), and Rwanda (7.03% growth; 5.91% FDI/GDP) hold decisive clean-power advantages capable of resolving the 2035 compute-energy bottleneck if grid reliability and STEM absorption scale. Mapping second-, third-, and fourth-order cross-system spillovers alongside scenario projections to 2035, the report details a phased 2026–2035 policy and capital-mobilization roadmap to maximize productivity catch-up and human flourishing while avoiding premature deindustrialization, splintered cloud lock-in, and debt-trap infrastructure bottlenecks."
+  ],
+  "findings": [
+    "Constructs the 2035 Global Convergence Readiness Index (GCRI-2035) from 12 live World Bank WDI datasets across 24 economies, ranking Vietnam (69.9), India (67.4), Malaysia (64.5), and the Philippines (62.9) at the top of emerging catch-up readiness.",
+    "Quantifies the dual technological convergence engines of 2035—hardware rewiring (Philippines 60.4%, Malaysia 58.6%, Vietnam 44.3% high-tech exports) and digital/AI services (India 48.6%, Romania 26.0% ICT service exports)—against the compute-energy clean-grid bottleneck.",
+    "Demonstrates how demographic bifurcation (67%–71% working-age shares across India and ASEAN vs. aging OECD peers) compounds with multipolar FDI rewiring and STEM reskilling to lift flagship economies 10–16 percentage points closer to the US GDP per-capita frontier by 2035 under accelerated convergence."
+  ],
+  "keywords": [
+    "global economic convergence",
+    "technological convergence",
+    "emerging economies 2035",
+    "agentic AI and compute energy",
+    "supply chain rewiring",
+    "demographic dividend",
+    "clean energy grids",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The 2035 Convergence Landscape",
+    "2 Global Empirical Baseline: 24-Economy Convergence Diagnostics",
+    "3 Theoretical Architecture: The GCRI-2035 Convergence Model",
+    "4 Technological Convergence: Agentic AI, Programmable Biology, and the Compute-Energy Bottleneck",
+    "5 Multipolar Supply-Chain Rewiring, Connector Economies, and Digital Sovereignty",
+    "6 Demographic Bifurcation, STEM Talent Pipelines, and Capital Mobilization",
+    "7 Regional Comparative Outlook: 2035 Frontrunners Across Five Macro-Regions",
+    "8 Cross-System Spillovers of 2035 Convergence Catalysts",
+    "9 Structural Bottlenecks, Maladaptation Traps, and Governance Guardrails",
+    "10 2025–2035 Convergence Scenarios: Accelerated Tech-Energy Catch-Up vs. Fragmented Baseline",
+    "11 Policy Sequencing Roadmap and 2035 Convergence Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35134690",
+  "license": "CC BY 4.0"
+}
