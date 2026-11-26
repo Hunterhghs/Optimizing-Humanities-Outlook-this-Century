@@ -1,0 +1,58 @@
+{
+  "slug": "the-economics-of-green-convergence",
+  "seriesNumber": 62,
+  "title": "The Economics of Green Convergence",
+  "subtitle": "Can Emerging Economies Simultaneously Achieve Economic Convergence and Decarbonization?",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-economics-of-green-convergence.pdf",
+  "pages": 31,
+  "dek": "Evaluates whether emerging and developing economies can simultaneously close the income gap with advanced peers and decarbonize their energy systems—mapping the green latecomer advantage, decoupling dynamics, Green GDP accounting, and convergence clubs across 24 economies.",
+  "topics": [
+    "Development Economics",
+    "Green Transition",
+    "Sustainable Convergence",
+    "Climate Finance"
+  ],
+  "abstract": [
+    "For decades, development economics treated rapid industrialization and climate mitigation as an inescapable trade-off, assuming emerging economies must follow the carbon-intensive trajectory of twentieth-century Europe, North America, and East Asia before eventually curving downward along an Environmental Kuznets Curve. This report tests that assumption directly using 12 live World Bank World Development Indicators across 24 representative emerging and benchmark economies, evaluating whether developing countries can simultaneously achieve rapid economic convergence and deep decarbonization. Constructing the Green Convergence Index (GCI) across economic catch-up and genuine savings, carbon and energy efficiency, clean-power leapfrogging, and clean-cooking and air-quality health, we demonstrate that falling modular renewable, battery, and electric-cooking costs have created a structural Green Latecomer Advantage.",
+    "Empirical diagnostics reveal that global decarbonization is sorting economies into distinct Green Convergence Clubs rather than a uniform Kuznets path. Poland (3.9% growth with -13% CO2/capita since 2010), Romania (44.9% renewable electricity; -10% CO2/capita), Chile (48.1% renewables; -7% CO2/capita), and Germany (-31% CO2/capita) prove that absolute decoupling is achievable, while Vietnam (GCI 77.4; 7.4% growth; 41.2% renewables; 19.0% Adjusted Net Savings), Colombia (75.7; 76.2% renewables), Brazil (72.9; 77.4% renewables), Morocco (72.4; 21.5% Adjusted Net Savings), and India (6.6% growth at 2.2 t CO2/capita) demonstrate diverse pathways for relative and leapfrog decoupling. Conversely, coal-locked peers such as South Africa (GCI 33.2; 6.9 t CO2/capita; -2.5% Adjusted Net Savings) and air-pollution hotspots such as Bangladesh (69.3 ug/m3 PM2.5; 29% clean cooking) illustrate the macro-fiscal and health toll of delayed transition. Quantifying multi-order cross-system spillovers and modeling 2025–2045 pathways, the monograph details how blended climate finance, grid-interactive solar-storage, e-cooking, and Green GDP accounting can compress carbon intensity by 83% while accelerating real income catch-up to 46.8% of the US frontier."
+  ],
+  "findings": [
+    "Demonstrates across 24 live World Bank WDI economies that modular renewables, battery storage, and digital grids unlock a Green Latecomer Advantage—allowing emerging markets to bypass fossil lock-in and stranded thermal coal assets.",
+    "Constructs the Green Convergence Index (GCI) and maps four empirical Green Convergence Clubs, contrasting high-readiness movers (Vietnam 77.4, Colombia 75.7, Turkey 73.3, Brazil 72.9, Morocco 72.4) against coal-locked laggards (South Africa 33.2).",
+    "Quantifies second-, third-, and fourth-order spillovers from solar-storage grids, clean electric cooking, Green GDP accounting, and blended finance WACC compression, showing emerging markets can cut carbon intensity 83% while nearly doubling relative income catch-up by 2045."
+  ],
+  "keywords": [
+    "green convergence",
+    "economic convergence and decarbonization",
+    "green latecomer advantage",
+    "carbon decoupling",
+    "green GDP and adjusted net savings",
+    "convergence clubs",
+    "clean cooking transition",
+    "blended climate finance"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Reconciling Catch-Up Growth and Decarbonization",
+    "2 Global Empirical Baseline: Decoupling and the Broken Kuznets Curve",
+    "3 Theoretical Architecture: Green Convergence and the GCI Framework",
+    "4 The Green Latecomer Advantage: Modular Clean Tech and Energy Leapfrogging",
+    "5 Green GDP Accounting, Convergence Clubs, and Green Industrial Policy",
+    "6 Clean Cooking, Distributed Bio-Economy, and Blended Climate Finance",
+    "7 Regional Comparative Evidence: Divergent Paths Across Five Macro-Regions",
+    "8 Cross-System Spillovers of Green Convergence Catalysts",
+    "9 Stranded Assets, Maladaptation Traps, and Governance Guardrails",
+    "10 2025–2045 Green Convergence Scenarios: Decoupled Catch-Up vs. Fossil Lock-In",
+    "11 Policy Sequencing Roadmap and Green Convergence Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35134723",
+  "license": "CC BY 4.0"
+}
