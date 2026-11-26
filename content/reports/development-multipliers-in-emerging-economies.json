@@ -1,0 +1,58 @@
+{
+  "slug": "development-multipliers-in-emerging-economies",
+  "seriesNumber": 60,
+  "title": "Development Multipliers in Emerging Economies",
+  "subtitle": "How Improvements in One Development Variable Generate Secondary Economic and Social Benefits",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "development-multipliers-in-emerging-economies.pdf",
+  "pages": 30,
+  "dek": "Quantifies how targeted improvements in electricity, clean cooking, sanitation, digital connectivity, education, and cash transfers trigger multi-order economic and social spillovers across emerging economies.",
+  "topics": [
+    "Development Economics",
+    "Economic Convergence",
+    "Infrastructure Investment",
+    "Human Capital"
+  ],
+  "abstract": [
+    "In emerging economies, an initial improvement in a single foundational development variable—such as clean electricity, safe water and sanitation, clean cooking, broadband connectivity, girls' secondary education, or targeted household cash transfers—rarely ends with its direct first-order effect. Instead, it triggers interlocking chain reactions of local supply-chain demand, high-propensity household consumption, labor-market reallocation, and human capital accumulation across connected sectors. This standalone research monograph develops an empirical and analytical framework for measuring these development multipliers, decomposing total economic and social returns into direct impacts, indirect supply-chain effects, induced consumption cycles, and long-horizon health, gender, and productivity spillovers.",
+    "Drawing on 13 live World Bank World Development Indicators datasets across 24 emerging and benchmark economies (2000–2025) integrated with 46 peer-reviewed studies, the analysis demonstrates why multiplier magnitudes vary sharply by local retention, import leakage, and cross-sector bundling. Crossing 92%–100% electricity access, 80%–100% clean cooking and sanitation, and 80%+ female secondary enrollment is empirically associated with 65%–95% lower child mortality, manufacturing value-added shares of 19%–27% of GDP, and rapid real income convergence (South Korea, Malaysia, China, Vietnam, Chile). Scenario modeling through 2050 indicates that an integrated, bundled high-multiplier package can lift an Emerging-Economy Living Standards Index to 224 (2025 = 100), outperforming siloed single-sector projects by 66 index points while widening domestic tax bases and advancing inclusive human flourishing."
+  ],
+  "findings": [
+    "Decomposes development multipliers into four transmission channels—direct, indirect supply-chain, induced high-MPC consumption, and human-capital spillovers—yielding 2.3x to 3.4x cumulative returns across core levers.",
+    "Benchmarks 24 emerging and frontier economies across 13 live World Bank WDI indicators (2000–2025), linking electricity, clean cooking, sanitation, digital access, and education to GDP convergence and longevity.",
+    "Demonstrates analytically and empirically how household marginal propensity to consume (0.70–0.90) and import leakage determine whether public spending multiplies locally or leaks abroad.",
+    "Quantifies 2025–2050 living-standards convergence pathways showing a +66-point synergy dividend from bundled cross-sector investments over siloed projects."
+  ],
+  "keywords": [
+    "development multipliers",
+    "emerging economies",
+    "economic convergence",
+    "supply-chain spillovers",
+    "clean cooking",
+    "human capital",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Development Multipliers and Economic Convergence",
+    "2 Global Empirical Baseline: Infrastructure, Human Capital, and Convergence Across 24 Economies",
+    "3 Theoretical Framework: Four Transmission Channels and Multiplier Mechanics",
+    "4 Technology Diffusion, Clean Energy, and Digital Productivity Spillovers",
+    "5 Social, Health, Education, and Structural Transformation Multipliers",
+    "6 Fiscal Multipliers, Import Leakage, and Blended Financing in Emerging Markets",
+    "7 Regional Comparative Evidence: Four Emerging-Economy Multiplier Cohorts",
+    "8 Cross-System Spillovers: Mapping 2nd-, 3rd-, and 4th-Order Development Cascades",
+    "9 Failure Modes, Leakage Traps, and Methodological Limitations",
+    "10 2025–2050 Emerging-Economy Convergence Scenarios: Bundled Multipliers vs. Siloed Spending",
+    "11 Policy Sequencing Roadmap and Research Agenda for Emerging Economies"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35134663",
+  "license": "CC BY 4.0"
+}
