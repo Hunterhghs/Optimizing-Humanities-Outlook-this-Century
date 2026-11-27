@@ -1,0 +1,57 @@
+{
+  "slug": "global-technology-diffusion-dividend",
+  "title": "The Global Technology Diffusion Dividend",
+  "subtitle": "Quantifying the Economic Returns to Accelerating Technology Adoption Across Emerging Economies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "global-technology-diffusion-dividend.pdf",
+  "pages": 30,
+  "dek": "Quantifies the compounding economic, productivity, and clean-transition returns unlocked when emerging economies compress technology adoption lags from isolated pilots into broad operational integration.",
+  "topics": [
+    "Technology Diffusion",
+    "Emerging Economies",
+    "Absorptive Capacity",
+    "Global Economic Convergence"
+  ],
+  "abstract": [
+    "Across two centuries of economic history, cross-country income divergence has been driven less by whether frontier technologies arrive in developing nations than by how intensely and rapidly firms and households integrate them into daily production. Rather than treating technology adoption solely as an upfront expenditure, this monograph formalizes and quantifies the Global Technology Diffusion Dividend—the compounding economic, productivity, and clean-transition returns unlocked when emerging economies compress adoption lags from 12–20 years down to 4–6 years. Anchored to 12 live World Bank World Development Indicators across 24 emerging and benchmark economies (6,691 observations), the analysis dissects four structural drivers: the five-stage gap between basic access and operational integration, absorptive capacity (tertiary enrollment ranging from 76.9% in China and 69.7% in Brazil to 9.3% in Sub-Saharan Africa), multinational supply-chain linkages (propelling Malaysia to 58.6% and Vietnam to 44.3% high-technology export shares), and youthful demographic learning horizons.",
+    "Combining Comin-Mestieri intensive-margin diffusion dynamics, Cohen-Levinthal absorptive capacity, Javorcik vertical FDI spillovers, and Wright's Law latecomer cost-curve advantages (89%–95% cost declines across solar PV, batteries, mobile data, and AI inference), the monograph models three 2026–2050 adoption trajectories for low- and middle-income economies. Accelerating operational integration lifts annual emerging-market productivity growth by +1.1 to +1.8 percentage points per year—unlocking a cumulative Global Technology Diffusion Dividend of USD 28 trillion to USD 46 trillion through 2050 (central: USD 37 trillion, constant 2025 USD) and lifting developing-economy per-capita PPP income 28%–36% above slow-pilot baselines while accelerating clean-energy leapfrogging."
+  ],
+  "findings": [
+    "Operationalizes the Five-Stage Technology Diffusion Funnel separating basic availability and access from absorptive capacity, firm-level integration, and macroeconomic impact across 24 economies.",
+    "Quantifies how multinational supply-chain linkages, youthful workforce learning horizons, and latecomer learning-curve advantages (89%–95% cost declines) compound technology adoption returns.",
+    "Models three 2026–2050 diffusion regimes, demonstrating that compressing adoption lags unlocks USD 28 trillion to USD 46 trillion (central: USD 37T) in cumulative emerging-economy output gains through 2050."
+  ],
+  "keywords": [
+    "global technology diffusion dividend",
+    "technology adoption in emerging economies",
+    "absorptive capacity",
+    "firm networks and supply chains",
+    "clean technology cost curves",
+    "workforce demographics and learning horizons",
+    "operational integration",
+    "economic convergence"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Unlocking the Global Technology Diffusion Dividend",
+    "2 Empirical Baseline: Diffusion, Absorptive Capacity, and Network Linkages (2024–2025)",
+    "3 The Five-Stage Diffusion Funnel: Access vs. Operational Integration",
+    "4 Absorptive Capacity, Management Quality, and Human Capital",
+    "5 Supply Chains, FDI, and Multinational Firm Networks",
+    "6 Workforce Demographics and Career Learning Horizons",
+    "7 Latecomer Cost Curves and the Clean-Technology Diffusion Dividend",
+    "8 Quantifying the Global Technology Diffusion Dividend (2026–2050)",
+    "9 Sectoral Diffusion Patterns: Manufacturing, Agriculture, and Tradable Services",
+    "10 Cross-System Spillovers, Maladaptation Guardrails, and Methodological Limitations",
+    "11 Policy Architecture: Accelerating Technology Adoption Across Emerging Economies (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35139466",
+  "license": "CC BY 4.0"
+}
