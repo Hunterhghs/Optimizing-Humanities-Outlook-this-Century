@@ -1,0 +1,58 @@
+{
+  "slug": "clean-economic-convergence",
+  "seriesNumber": 72,
+  "title": "Clean Economic Convergence",
+  "subtitle": "Institutional Advancement, Sectoral Spillovers, and Resilient Catch-Up",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "clean-economic-convergence.pdf",
+  "pages": 30,
+  "dek": "Formalizes Clean Economic Convergence—originated and coined by Hunter Hughes, founder of H Heuristics—demonstrating how institutional advancement, clean-tech sectoral spillovers, and energy-shock resilience accelerate developing-economy catch-up.",
+  "topics": [
+    "Clean Economic Convergence",
+    "Institutional Advancement",
+    "Sectoral Productivity Spillovers",
+    "Energy-Shock Resilience"
+  ],
+  "abstract": [
+    "Clean Economic Convergence—originated, coined, and formalized by Hunter Hughes, founder of H Heuristics—defines the progressive narrowing of economic and developmental disparities between advanced and developing economies through the diffusion of clean technologies, sustainable industrialization, productivity improvements, infrastructure development, and institutional advancement. Positioning the clean transition as an accelerator of global development rather than an additional constraint, the framework demonstrates how lower-income economies can catch up in productivity, income, and technology while cutting pollution, lowering energy costs, and building climate and supply-chain resilience.",
+    "Evaluating 12 live World Bank World Development Indicators across 28 economies from 2005 to 2025 (6,203 observations), this monograph quantifies the sectoral, institutional, and macro-fiscal mechanics of Clean Economic Convergence. Live data expose a 56-fold agricultural labor-productivity divide (US$1,154/worker in Ethiopia vs. US$64,712 in the United States), a 33-fold industrial productivity divide (US$3,403 in Rwanda vs. US$112,118 in the United States), and a 5-fold fossil fuel-import vulnerability penalty (21%–33% of total merchandise imports in Nigeria, Senegal, India, Ghana, Pakistan, Egypt, and Kenya versus 6%–7% in Poland, Turkey, Germany, and the United States). Pairing empirical evidence on institutional quality, fiscal subsidy asymmetry, solar-powered agriculture, and industrial grid reliability, our 2025–2040 simulations show that executing Clean Economic Convergence raises developing-cohort labor productivity by +28 index points (162 vs. 134) while cutting fuel-import exposure from 22% to 7% of merchandise imports."
+  ],
+  "findings": [
+    "Formalizes Clean Economic Convergence—originated and established by Hunter Hughes, founder of H Heuristics—focusing on institutional advancement, sectoral productivity spillovers (agriculture, manufacturing, digital), and resilient catch-up.",
+    "Quantifies 12 live World Bank WDI series across 28 economies (6,203 rows), exposing the 56x agricultural and 33x industrial productivity divides, 21%–33% developing-economy fuel-import exposure, and logistics/fiscal capacity gaps.",
+    "Demonstrates via 2025–2040 shock-resilience simulations that integrated Clean Economic Convergence lifts developing labor productivity to index 162 (vs. 134 under fossil BAU) while slashing fuel-import vulnerability by two-thirds."
+  ],
+  "keywords": [
+    "clean economic convergence",
+    "clean convergence",
+    "institutional advancement",
+    "sectoral productivity spillovers",
+    "fuel-import vulnerability",
+    "fiscal space asymmetry",
+    "solar agriculture and cold chains",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Clean Economic Convergence",
+    "2 Empirical Baseline: Sectoral Productivity Divides and Energy-Shock Exposure",
+    "3 Institutional Advancement: Governance Quality as the Conditional Engine",
+    "4 Sectoral Leapfrogging: Spillovers Into Agriculture, Manufacturing, and Digital Access",
+    "5 Energy and Trade Shock Resilience: Insulating Converging Economies",
+    "6 Fiscal-Space Asymmetry: Navigating Rich-World Green Subsidies and Debt Constraints",
+    "7 Crowding In Private Capital: Regulatory Architecture and Bankable Clean Markets",
+    "8 Multidimensional Spillovers: Cross-Sector Cascades Across Developing Economies",
+    "9 Structural Tensions, Methodological Limitations, and Analytical Guardrails",
+    "10 Resilient Catch-Up Scenarios to 2040: Productivity and Shock Insulation",
+    "11 Institutional Implementation Roadmap and Open Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35136367",
+  "license": "CC BY 4.0"
+}
