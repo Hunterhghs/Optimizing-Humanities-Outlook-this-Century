@@ -634,14 +634,6 @@ function pageReports(reports, topics) {
         <label class="sr-only" for="q">Search reports</label>
         <input id="q" type="search" placeholder="Search titles, topics, keywords…" autocomplete="off" data-filter-input>
       </div>
-      ${
-        topics.length > 1
-          ? `<div class="filters__topics" role="group" aria-label="Filter by topic">
-        <button type="button" class="chip is-active" data-topic="">All</button>
-        ${topics.map((t) => `<button type="button" class="chip" data-topic="${esc(t.name)}">${esc(t.name)}</button>`).join('')}
-      </div>`
-          : ''
-      }
     </form>
     <div class="listbar">
       <p class="filters__count" data-filter-count hidden></p>
