@@ -101,8 +101,6 @@ const mb = fs.statSync(pdfPath).size / 1048576;
 const record = {
   draft: true,
   slug,
-  seriesNumber,
-  number: number || `HH-${year}-TODO`,
   title,
   ...(subtitle ? { subtitle } : {}),
   authors: [(info.Author || 'Hunter Hughes').split(',')[0].trim()],

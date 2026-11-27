@@ -110,7 +110,7 @@ function jpegSize(file) {
 
 /* ------------------------------------------------------------------- data */
 
-const REQUIRED = ['slug', 'seriesNumber', 'title', 'authors', 'published', 'pdf', 'pages', 'dek', 'abstract', 'keywords'];
+const REQUIRED = ['slug', 'title', 'authors', 'published', 'pdf', 'pages', 'dek', 'abstract', 'keywords'];
 const isPlaceholder = (v) => typeof v === 'string' && /\bTODO\b/.test(v);
 
 function validate(r, file) {
@@ -180,7 +180,7 @@ function loadReports() {
     });
   }
 
-  for (const key of ['slug', 'seriesNumber', 'number']) {
+  for (const key of ['slug', 'number']) {
     const seen = new Map();
     for (const r of reports) {
       if (!r[key] || isPlaceholder(r[key])) continue;
@@ -200,8 +200,12 @@ function loadReports() {
     process.exit(1);
   }
 
-  // Newest first: highest series number at the top.
-  reports.sort((a, b) => b.seriesNumber - a.seriesNumber);
+  // Newest first: publication date descending, then legacy seriesNumber descending as tiebreaker.
+  reports.sort((a, b) =>
+    b.published.localeCompare(a.published) ||
+    (b.seriesNumber || 0) - (a.seriesNumber || 0) ||
+    a.slug.localeCompare(b.slug)
+  );
   return { reports, skipped };
 }
 
@@ -248,10 +252,10 @@ function citations(r) {
   return {
     APA: r.number
       ? `${authorsApa} (${y}). ${r.title} (${config.citationSeries} No. ${r.number}). ${config.publisher}. ${locator}`
-      : `${authorsApa} (${y}). ${r.title} (${config.series}, ${seriesNo(r)}). ${config.publisher}. ${locator}`,
+      : `${authorsApa} (${y}). ${r.title} (${config.series}). ${config.publisher}. ${locator}`,
     Chicago: r.number
       ? `${authorsChi}. "${r.title}." ${config.citationSeries} ${r.number}. ${config.publisher}, ${y}. ${locator}.`
-      : `${authorsChi}. "${r.title}." ${config.series}, ${seriesNo(r)}. ${config.publisher}, ${y}. ${locator}.`,
+      : `${authorsChi}. "${r.title}." ${config.series}. ${config.publisher}, ${y}. ${locator}.`,
     BibTeX: [
       `@techreport{${key},`,
       `  title       = {${r.title}},`,
@@ -386,7 +390,7 @@ function coverArt(r, { lazy = true } = {}) {
     const dims = r.cover.width ? ` width="${r.cover.width}" height="${r.cover.height}"` : '';
     return `<img src="${r.cover.url}" alt="Cover of ${esc(r.title)}"${dims}${lazy ? ' loading="lazy"' : ''} decoding="async">`;
   }
-  return `<span class="coverph"><span class="coverph__no">${seriesNo(r)}</span><span class="coverph__title">${esc(r.title)}</span><span class="coverph__by">${esc(config.org)}</span></span>`;
+  return `<span class="coverph"><span class="coverph__no">${esc(fmtDate(r.published, true))}</span><span class="coverph__title">${esc(r.title)}</span><span class="coverph__by">${esc(config.org)}</span></span>`;
 }
 
 const openPdf = (r, cls = 'btn btn--sun', label = 'Open PDF in browser') =>
@@ -402,7 +406,7 @@ function card(r) {
   )}">
   <a class="card__cover" href="${r.url}" tabindex="-1" aria-hidden="true">${coverArt(r)}</a>
   <div class="card__body">
-    <p class="card__meta"><span class="card__no">${seriesNo(r)}</span><time datetime="${r.published}">${fmtDate(r.published, true)}</time><span>${r.pages} pp</span></p>
+    <p class="card__meta"><time datetime="${r.published}">${fmtDate(r.published, true)}</time><span>${r.pages} pp</span></p>
     <h3 class="card__title"><a href="${r.url}">${esc(r.title)}</a>${draftFlag(r)}</h3>
     ${r.subtitle ? `<p class="card__sub">${esc(r.subtitle)}</p>` : ''}
     <p class="card__dek">${esc(r.dek)}</p>
@@ -519,7 +523,7 @@ ${centuryBlock()}
     <article class="feature">
       <a class="feature__cover" href="${lead.url}" tabindex="-1" aria-hidden="true">${coverArt(lead, { lazy: false })}</a>
       <div class="feature__body">
-        <p class="feature__meta"><span>${seriesNo(lead)}</span>${lead.number ? `<span>${esc(lead.number)}</span>` : ''}<time datetime="${lead.published}">${fmtDate(lead.published)}</time><span>${lead.pages} pages</span></p>
+        <p class="feature__meta">${lead.number ? `<span>${esc(lead.number)}</span>` : ''}<time datetime="${lead.published}">${fmtDate(lead.published)}</time><span>${lead.pages} pages</span></p>
         <h3 class="feature__title"><a href="${lead.url}">${esc(lead.title)}</a>${draftFlag(lead)}</h3>
         ${lead.subtitle ? `<p class="feature__sub">${esc(lead.subtitle)}</p>` : ''}
         <p class="feature__dek">${esc(lead.dek)}</p>
@@ -567,7 +571,7 @@ ${benchmarkBlock(config.benchmark ? ++n : n)}
         ? `<div class="cards">${rest.map(card).join('\n')}</div>${
             others.length > rest.length ? `<p class="cards__more"><a class="btn btn--line" href="/reports/">Browse all ${reports.length} reports</a></p>` : ''
           }`
-        : `<p class="upcoming">${esc(seriesNo(lead))} opens the series. Further reports are published one at a time, and each gets its own page here with its abstract, metadata and full PDF. New reports are announced on the <a href="/feed.xml">RSS feed</a>.</p>`
+        : `<p class="upcoming">${esc(lead.title)} opens the series. Further reports are published one at a time, and each gets its own page here with its abstract, metadata and full PDF. New reports are announced on the <a href="/feed.xml">RSS feed</a>.</p>`
     }
   </div>
 </section>`;
@@ -604,7 +608,7 @@ ${lead.cover ? `<meta property="og:image" content="${lead.cover.absUrl}">\n` : '
         url: `${SITE}/`,
         description: config.description,
         publisher: { '@id': `${SITE}/#publisher` },
-        hasPart: reports.map((r) => ({ '@type': 'Report', name: r.title, url: r.absUrl, position: r.seriesNumber })),
+        hasPart: reports.map((r) => ({ '@type': 'Report', name: r.title, url: r.absUrl })),
       },
     ],
   })}</script>
@@ -658,7 +662,7 @@ function pageReports(reports, topics) {
     name: `Reports — ${config.series}`,
     url: `${SITE}/reports/`,
     isPartOf: { '@type': 'WebSite', name: config.series, url: `${SITE}/` },
-    hasPart: reports.map((r) => ({ '@type': 'Report', name: r.title, url: r.absUrl, position: r.seriesNumber })),
+    hasPart: reports.map((r) => ({ '@type': 'Report', name: r.title, url: r.absUrl })),
   })}</script>
 `;
 
@@ -728,7 +732,6 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
     abstract: abstractText,
     description: r.dek,
     ...(r.number ? { reportNumber: r.number } : {}),
-    position: r.seriesNumber,
     datePublished: r.published,
     dateModified: r.updated,
     inLanguage: r.language,
@@ -774,7 +777,6 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
 
   const record = [
     ['Series', `<a href="/">${esc(config.series)}</a>`],
-    ['Series number', seriesNo(r)],
     ...(r.number ? [['Report ID', esc(r.number)]] : []),
     ['Published', `<time datetime="${r.published}">${fmtDate(r.published)}</time>`],
     ...(r.updated !== r.published ? [['Updated', `<time datetime="${r.updated}">${fmtDate(r.updated)}</time>`]] : []),
@@ -797,8 +799,8 @@ ${newer ? `<link rel="next" href="${newer.absUrl}">\n` : ''}${older ? `<link rel
 
   const seriesNav = newer || older
     ? `<nav class="pn" aria-label="Other reports in the series">
-      ${older ? `<a class="pn__link" href="${older.url}" rel="prev"><span class="pn__dir">← Previous · ${seriesNo(older)}</span><span class="pn__title">${esc(older.title)}</span></a>` : '<span></span>'}
-      ${newer ? `<a class="pn__link pn__link--next" href="${newer.url}" rel="next"><span class="pn__dir">Next · ${seriesNo(newer)} →</span><span class="pn__title">${esc(newer.title)}</span></a>` : '<span></span>'}
+      ${older ? `<a class="pn__link" href="${older.url}" rel="prev"><span class="pn__dir">← Previous report</span><span class="pn__title">${esc(older.title)}</span></a>` : '<span></span>'}
+      ${newer ? `<a class="pn__link pn__link--next" href="${newer.url}" rel="next"><span class="pn__dir">Next report →</span><span class="pn__title">${esc(newer.title)}</span></a>` : '<span></span>'}
     </nav>`
     : '';
 
@@ -808,12 +810,12 @@ ${r.draft ? '<p class="draftbar">Draft preview. This report stays out of product
 <header class="rhead">
   <div class="wrap">
     <nav class="crumbs crumbs--onpanel" aria-label="Breadcrumb">
-      <a href="/">Home</a><span>/</span><a href="/reports/">Reports</a><span>/</span><span aria-current="page">${seriesNo(r)}</span>
+      <a href="/">Home</a><span>/</span><a href="/reports/">Reports</a><span>/</span><span aria-current="page">${esc(r.title)}</span>
     </nav>
     <div class="rhead__grid">
       <a class="rhead__cover" href="${r.pdfUrl}" target="_blank" rel="noopener" aria-label="Open the PDF of ${esc(r.title)} in the browser">${coverArt(r, { lazy: false })}</a>
       <div class="rhead__main">
-        <p class="rhead__kicker"><span>Report ${seriesNo(r)}</span><span>${esc(config.seriesShort)}</span></p>
+        <p class="rhead__kicker"><span>Research Monograph</span><span>${esc(config.seriesShort)}</span></p>
         <h1 class="rhead__title">${esc(r.title)}</h1>
         ${r.subtitle ? `<p class="rhead__sub">${esc(r.subtitle)}</p>` : ''}
         <p class="rhead__dek">${esc(r.dek)}</p>
@@ -971,7 +973,7 @@ function pageAbout(reports) {
       <p>Every report is free to read and download, with no registration and no paywall. Each report page states the licence that governs that report; the series default is <a href="${config.license.url}" rel="license noopener" target="_blank">${esc(config.license.name)}</a>, which allows sharing and adaptation with attribution.</p>
 
       <h2 id="citation">How to cite</h2>
-      <p>Each report page carries a ready-made citation in APA, Chicago and BibTeX form. Reports are numbered twice: once within this series (No. 01, No. 02 and so on) and once in the organisation-wide ${esc(config.citationSeries)} series (HH-2026-65, for example). Cite the HH number, and the DOI where a report has one, since the DOI is the most stable reference.</p>
+      <p>Each report page carries a ready-made citation in APA, Chicago and BibTeX form. Every monograph stands independently and carries a permanent DOI upon archival publication—cite the DOI as the most stable reference.</p>
       <p>Report pages also expose Google Scholar citation tags, Dublin Core tags and schema.org data, so the series can be indexed like any other working-paper series. Metadata for the whole series is available as <a href="/reports.json">JSON</a>, and new reports are announced on the <a href="/feed.xml">RSS feed</a>.</p>
 
       <h2>Contact</h2>
@@ -1097,7 +1099,7 @@ ${reports
     <dc:creator>${esc(r.authors.join(', '))}</dc:creator>
 ${r.topics.map((t) => `    <category>${esc(t)}</category>`).join('\n')}
     <description>${esc(r.dek)}</description>
-    <content:encoded><![CDATA[<p><strong>${seriesNo(r)}${r.number ? ` · ${esc(r.number)}` : ''}</strong> · ${r.pages} pages</p>${r.abstract
+    <content:encoded><![CDATA[<p><strong>${fmtDate(r.published)}${r.number ? ` · ${esc(r.number)}` : ''}</strong> · ${r.pages} pages</p>${r.abstract
       .map((p) => `<p>${esc(plain(p))}</p>`)
       .join('')}<p><a href="${r.pdfAbsUrl}">Open the PDF</a></p>]]></content:encoded>
     <enclosure url="${r.pdfAbsUrl}" length="${r.bytes}" type="application/pdf"/>
@@ -1119,7 +1121,6 @@ function metadataJson(reports) {
       updated: reports.map((r) => r.updated).sort().at(-1),
       count: reports.length,
       reports: reports.map((r) => ({
-        seriesNumber: r.seriesNumber,
         number: r.number || null,
         slug: r.slug,
         title: r.title,
