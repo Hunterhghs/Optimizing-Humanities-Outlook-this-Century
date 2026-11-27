@@ -1,0 +1,58 @@
+{
+  "slug": "the-economics-of-universal-cooling-access",
+  "seriesNumber": 66,
+  "title": "The Economics of Universal Cooling Access",
+  "subtitle": "What Are the Development Implications of Expanding Affordable Cooling?",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-economics-of-universal-cooling-access.pdf",
+  "pages": 30,
+  "dek": "Demonstrates why affordable, energy-efficient cooling is foundational economic infrastructure—preventing up to US$2.4 trillion in annual heat-induced output losses, slashing post-harvest food spoilage, and saving US$7.4 trillion in electricity and power-capacity costs over 25 years.",
+  "topics": [
+    "Development Economics",
+    "Sustainable Cooling Access",
+    "Energy Infrastructure",
+    "Food Security and Cold Chains"
+  ],
+  "abstract": [
+    "Across rapidly warming developing and emerging economies, extreme heat is no longer a seasonal discomfort—it is a binding macroeconomic constraint that erodes outdoor and indoor labor productivity, spoils 25%–40% of perishable agricultural harvests, degrades classroom learning, compromises rural vaccine cold chains, and escalates cardiovascular mortality. Extreme heat alone is projected to erase 2.2% of global working hours by 2030—equivalent to 80 million full-time jobs and up to US$2.4 trillion in lost annual output—with the steepest losses concentrated in South Asia and West Africa. Reframing affordable thermal comfort and cold-chain access as essential economic infrastructure rather than a luxury amenity, this report evaluates the development economics of universal cooling access using 12 live World Bank World Development Indicators across 24 heat-exposed and benchmark economies.",
+    "Live empirical diagnostics expose a 203-fold divide in per-capita electricity headroom—from the United States (13,064 kWh), South Korea (12,071 kWh), and Saudi Arabia (11,808 kWh) down to India (1,223 kWh), Bangladesh (632 kWh), Pakistan (494 kWh), Nigeria (141 kWh), and Niger (64 kWh)—alongside acute rural power deficits (10.8% in Niger; 23.5% in Nigeria) where 33%–73% of workers labor in outdoor agriculture. Constructing the Universal Cooling Access Index (UCAI), we demonstrate that a passive-first, high-efficiency cooling transition—combining vernacular passive architecture, cool roofs, solar-battery agricultural and vaccine cold chains, Minimum Energy Performance Standards (MEPS), Kigali-aligned low-GWP refrigerants, and Cooling-as-a-Service (CaaS) financing—requires US$400–800 billion in incremental upfront investment yet saves US$5.6 trillion in electricity bills and avoids US$1.8 trillion in power generation capacity over 25 years while cutting 2035 peak-load surges by 48% and heat-induced working-hour losses by 58%."
+  ],
+  "findings": [
+    "Quantifies the global cooling infrastructure divide across 24 live World Bank WDI economies, exposing a 203-fold per-capita electricity headroom gap (64 kWh in Niger and 141 kWh in Nigeria vs. 11,808 kWh in Saudi Arabia and 13,064 kWh in the United States) and introducing the Universal Cooling Access Index (UCAI).",
+    "Evaluates the macroeconomic return of universal cooling as essential infrastructure—preventing up to US$2.4 trillion in annual output losses (80 million full-time jobs by 2030) while turning US$400–800 billion in upfront investment into US$7.4 trillion in avoided electricity and generation costs over 25 years.",
+    "Maps a passive-first, solar-coupled deployment architecture—combining cool roofs, vernacular thermal design, solar-DC cold chains, high-efficiency MEPS, and Cooling-as-a-Service (CaaS)—that cuts 2035 peak cooling grid loads by 48% and heat-induced working-hour losses by 58%."
+  ],
+  "keywords": [
+    "universal cooling access",
+    "heat stress labor productivity",
+    "cold chain food security",
+    "passive vernacular cooling",
+    "cooling as a service",
+    "vaccine cold chain",
+    "Kigali Amendment HFC phase-down",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Cooling as Essential Economic Infrastructure",
+    "2 Global Empirical Baseline: The 203-Fold Cooling Infrastructure Divide",
+    "3 Theoretical Bridge: The Macroeconomics of Thermal Safety and Cold Chains",
+    "4 Passive-First Architecture and Solar-Coupled Cooling Leapfrogging",
+    "5 Grid Peak-Shaving, MEPS Regulation, and Kigali Governance",
+    "6 Cooling-as-a-Service (CaaS), Blended Capital, and WACC Compression",
+    "7 Regional Comparative Evidence: Heat-Belt Divergence and Cold-Chain Archetypes",
+    "8 Cross-System Spillovers: Multi-Order Cascades of Universal Cooling Access",
+    "9 Maladaptation Traps, Empirical Guardrails, and Methodological Uncertainty",
+    "10 Systemic Pathways to 2035: Labor Output and Peak-Grid Trajectories",
+    "11 Policy and Finance Roadmap: Scaling Universal Sustainable Cooling to 2035"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35135608",
+  "license": "CC BY 4.0"
+}
