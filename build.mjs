@@ -157,10 +157,15 @@ function loadReports() {
     if (errs.length) { errors.push(...errs); continue; }
 
     const pdfPath = path.join(ROOT, 'public/pdf', r.pdf);
+    const fileHash = (fp) => crypto.createHash('sha256').update(fs.readFileSync(fp)).digest('hex').slice(0, 8);
+    const pdfHash = fileHash(pdfPath);
     const coverRel = `covers/${r.slug}.jpg`;
     const coverPath = path.join(ROOT, 'public', coverRel);
     const cover = fs.existsSync(coverPath)
-      ? { url: `/${coverRel}`, absUrl: `${SITE}/${coverRel}`, ...(jpegSize(coverPath) || {}) }
+      ? (() => {
+          const ch = fileHash(coverPath);
+          return { url: `/${coverRel}?v=${ch}`, absUrl: `${SITE}/${coverRel}?v=${ch}`, ...(jpegSize(coverPath) || {}) };
+        })()
       : null;
 
     reports.push({
@@ -173,8 +178,8 @@ function loadReports() {
       updated: r.updated || r.published,
       url: `/reports/${r.slug}/`,
       absUrl: `${SITE}/reports/${r.slug}/`,
-      pdfUrl: `/pdf/${r.pdf}`,
-      pdfAbsUrl: `${SITE}/pdf/${r.pdf}`,
+      pdfUrl: `/pdf/${r.pdf}?v=${pdfHash}`,
+      pdfAbsUrl: `${SITE}/pdf/${r.pdf}?v=${pdfHash}`,
       bytes: fs.statSync(pdfPath).size,
       cover,
     });
@@ -1158,12 +1163,12 @@ const HEADERS = `/*
   Cache-Control: public, max-age=604800
 
 /covers/*
-  Cache-Control: public, max-age=604800
+  Cache-Control: public, max-age=3600, must-revalidate
 
 /pdf/*
   Content-Type: application/pdf
   Content-Disposition: inline
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=3600, must-revalidate
   X-Robots-Tag: all
 
 /feed.xml
