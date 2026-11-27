@@ -1,0 +1,57 @@
+{
+  "slug": "economics-universal-basic-infrastructure",
+  "title": "The Economics of Universal Basic Infrastructure",
+  "subtitle": "Quantifying the Returns to Electricity, Water, Transport, and Connectivity",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "economics-universal-basic-infrastructure.pdf",
+  "pages": 30,
+  "dek": "Establishes an empirical economic framework demonstrating that universal access to electricity, clean water, transport, and digital connectivity is not a social expenditure but a high-return investment in productive economic capacity.",
+  "topics": [
+    "Universal Basic Infrastructure",
+    "Development Economics",
+    "Public Capital and Growth",
+    "Electricity, Water, Transport, and Connectivity"
+  ],
+  "abstract": [
+    "Universal access to foundational infrastructure—reliable electricity, safely managed water and sanitation, all-weather transport and trade logistics, and high-bandwidth digital connectivity—is routinely misclassified in fiscal accounting as a social welfare expenditure rather than a core investment in productive economic capacity. Anchored to 14 live World Bank World Development Indicators across 24 economies and regional aggregates (7,317 observations) and a reproducible 0–100 Universal Basic Infrastructure (UBI) Composite Score, this monograph quantifies the global access deficits remaining in 2024–2025: while OECD economies exceed 99% electricity and basic water coverage, Sub-Saharan Africa averages just 55.1% electricity access (35.7% rural), 32.4% safely managed drinking water, 37.1% basic sanitation, 2.39/5.0 on transport-logistics quality, and 1.12 fixed broadband subscriptions per 100 people.",
+    "Synthesizing quasi-experimental and macroeconomic return studies across all four pillars, the study demonstrates that standalone infrastructure investments generate strong benefit-cost ratios (3.8x–6.2x for reliable electricity, 4.3x–7.0x for water and sanitation, 2.8x–5.1x for transport corridors, and 3.5x–6.0x for broadband), while co-locating all four pillars triggers a 35%–55% super-additive complementarity premium (6.5x–9.4x bundled BCR) through female labor-force participation, industrial uptime, health survival, and market scale. Closing the global Universal Basic Infrastructure gap across low- and middle-income economies between 2026 and 2050 requires USD 14.5 trillion to USD 18.0 trillion in cumulative capital investment—yet unlocks an estimated USD 68 trillion to USD 95 trillion in cumulative productive economic capacity and living-standards gains (4.7x–5.3x macro return)."
+  ],
+  "findings": [
+    "Introduces a transparent 0–100 Universal Basic Infrastructure (UBI) Composite Score across 14 live World Bank WDI indicators covering electricity, water and sanitation, transport logistics, and digital connectivity.",
+    "Quantifies individual pillar benefit-cost ratios (2.8x–7.0x) and proves why bundled four-pillar deployment unlocks a 35%–55% super-additive complementarity premium (6.5x–9.4x BCR).",
+    "Models the 2026–2050 global universal-access investment ledger (USD 14.5T–18.0T CapEx unlocking USD 68T–95T in cumulative economic capacity) alongside procurement, WACC-compression, and maintenance guardrails."
+  ],
+  "keywords": [
+    "universal basic infrastructure",
+    "infrastructure returns and benefit-cost ratio",
+    "rural electrification",
+    "clean water and sanitation economics",
+    "transport logistics and market integration",
+    "broadband connectivity and employment",
+    "productive economic capacity",
+    "sustainable convergence"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Foundational Infrastructure as Productive Economic Capacity",
+    "2 Empirical Baseline: Global Four-Pillar Infrastructure Deficits (2024–2025)",
+    "3 The Macroeconomics of Public Capital, Crowding-In, and Complementarity",
+    "4 Pillar 1: Electricity Access, Grid Reliability, and Industrial Capacity",
+    "5 Pillar 2: Clean Water, Sanitation, and Human-Capital Foundations",
+    "6 Pillar 3: Transport, Trade Logistics, and Market Integration",
+    "7 Pillar 4: Digital Connectivity, Broadband, and Employment Creation",
+    "8 Bundled Synergies: Quantifying the Four-Pillar Complementarity Premium",
+    "9 The Global 2026–2050 Investment Ledger: Capital Costs vs. Economic Capacity Returns",
+    "10 Cross-System Spillovers, Governance Guardrails, and Methodological Limitations",
+    "11 Financing and Delivery Architecture: Achieving Universal Access by 2050"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35139358",
+  "license": "CC BY 4.0"
+}
