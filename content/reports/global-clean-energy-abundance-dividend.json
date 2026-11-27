@@ -1,0 +1,57 @@
+{
+  "slug": "global-clean-energy-abundance-dividend",
+  "title": "The Global Clean Energy Abundance Dividend",
+  "subtitle": "Cheap Electricity, Industrial Productivity, and Accelerated Development Across Emerging Economies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "global-clean-energy-abundance-dividend.pdf",
+  "pages": 30,
+  "dek": "Quantifies the macroeconomic, industrial, and human-development returns emerging economies capture when plummeting solar, wind, and battery costs deliver cheap, abundant, domestic electricity.",
+  "topics": [
+    "Clean Energy Abundance",
+    "Industrial Productivity",
+    "Emerging Economies",
+    "Solar, Wind, and Storage Economics"
+  ],
+  "abstract": [
+    "For over a century, latecomer industrialization forced developing economies to choose between energy scarcity and costly imported fossil fuels. Plummeting global learning curves—an 89% decline in utility solar PV costs, 70% in onshore wind, and over 90% in lithium-ion battery storage since 2010—have inverted that equation permanently. Anchored to 12 live World Bank World Development Indicators across 24 emerging and benchmark economies (7,195 observations), this monograph formalizes and quantifies the Global Clean Energy Abundance Dividend: the compounding boost to foreign-exchange stability, industrial competitiveness, agricultural incomes, and digital growth unlocked when emerging economies build abundant, low-cost domestic clean electricity.",
+    "Today, developing nations suffer a severe energy-abundance chasm: Sub-Saharan Africa consumes just 380 kWh per capita (Nigeria 141 kWh; Ethiopia 157 kWh; Kenya 195 kWh) and India 1,223 kWh versus 7,794 kWh in the OECD and 7,038 kWh in China, while fuel imports drain 21%–33% of total merchandise imports across Nigeria (33.2%), India (28.0%), South Asia (27.5%), Sub-Saharan Africa (23.5%), Egypt (21.4%), and Kenya (21.2%). Modeling clean-power cost parity, industrial heat and light-mobility electrification (-34% to -68% OPEX), EU CBAM export defense, and solar agro-cold chains, the study projects that accelerating clean energy abundance across emerging economies between 2026 and 2050 unlocks a cumulative dividend of USD 26 trillion to USD 42 trillion (central: USD 34.0 trillion, constant 2025 USD)—conditional on compressing developing-world renewable cost of capital (WACC) from 14% toward 7% and scaling flexible clean grids."
+  ],
+  "findings": [
+    "Documents the live 2024–2025 emerging-economy energy chasm (380 kWh/cap in Sub-Saharan Africa vs. 7,794 kWh OECD) alongside 21%–33% fossil-fuel import drains across South Asia and Africa.",
+    "Quantifies 34%–68% operating-cost reductions from electrifying light manufacturing, industrial heat, electric two-/three-wheelers, solar irrigation, and rural cold storage with cheap clean power.",
+    "Projects a cumulative 2026–2050 Global Clean Energy Abundance Dividend of USD 26 trillion to USD 42 trillion (central: USD 34.0T) across five hard macroeconomic and sectoral channels."
+  ],
+  "keywords": [
+    "clean energy abundance dividend",
+    "cheap electricity and industrialization",
+    "solar wind and battery cost curves",
+    "emerging economy development",
+    "carbon border adjustment mechanism CBAM",
+    "fossil fuel import savings",
+    "solar irrigation and cold storage",
+    "decentralized microgrids"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Economics of Clean Energy Abundance",
+    "2 Empirical Baseline: Energy Scarcity, Fuel-Import Drains, and Industrial Capacity (2024–2025)",
+    "3 The Historic Cost Inversion: Solar, Wind, and Battery Learning Curves",
+    "4 Grid Leapfrogging, Microgrids, and Foreign-Exchange Liberation",
+    "5 Industrial Productivity, Outage Elimination, and Green Manufacturing",
+    "6 Carbon Border Tariffs (CBAM) and Global Supply-Chain Relocation",
+    "7 Electrification of Industrial Heat and Commercial Light Mobility",
+    "8 Agricultural Productivity and Clean Digital-Infrastructure Dividends",
+    "9 Quantifying the Global Clean Energy Abundance Dividend (2026–2050)",
+    "10 Cross-System Spillovers, Maladaptation Guardrails, and Methodological Limitations",
+    "11 WACC Compression and Policy Architecture for Clean Energy Abundance (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35139574",
+  "license": "CC BY 4.0"
+}
