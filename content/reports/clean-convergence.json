@@ -1,0 +1,58 @@
+{
+  "slug": "clean-convergence",
+  "seriesNumber": 69,
+  "title": "Clean Convergence",
+  "subtitle": "A Framework for Clean Global Economic Convergence",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "clean-convergence.pdf",
+  "pages": 32,
+  "dek": "Formalizes Clean Convergence—the H Heuristics framework originated by Hunter Hughes—demonstrating how developing economies close income, productivity, and technology gaps with advanced economies while tunneling under legacy high-carbon industrialization curves.",
+  "topics": [
+    "Clean Convergence",
+    "Development Economics",
+    "Green Industrialization",
+    "Energy Transition and Decoupling"
+  ],
+  "abstract": [
+    "Traditional economic convergence theory asks whether lower-income nations can catch up to advanced economies in per-capita output and productivity, treating environmental degradation as an unavoidable byproduct of early industrialization. Originated and formalized by Hunter Hughes, founder of H Heuristics, Clean Convergence establishes a unified economic framework for reducing disparities in productivity, technological capacity, industrialization, and living standards between developing and advanced economies through the diffusion of clean technologies, sustainable infrastructure, and low-emission industrial systems. Its central proposition is that global economic convergence and environmental progress are mutually reinforcing rather than competing objectives—enabling latecomer economies to tunnel beneath the resource- and emissions-intensive pathways historically followed by industrialized nations.",
+    "Evaluating 12 live World Bank World Development Indicators across 24 economies from 2005 to 2024, this monograph empirically maps the global decoupling landscape across relative decoupling (where GDP per capita outpaces CO2 per capita across Ethiopia +225% vs. +110%, India +166% vs. +106%, Chile +48% vs. +9%, and Thailand +55% vs. +14%) and absolute decoupling (Poland +118% GDP vs. -9% CO2, Germany +23% vs. -32%, and the United States +29% vs. -32%), while identifying carbon-coupled catch-up risks (Vietnam +168% GDP vs. +244% CO2) and a 10-fold particulate air-pollution penalty (69.3 ug/m3 PM2.5 in Bangladesh vs. 7.0 in the United States). Constructing the Clean Convergence Index (CCI), our 2025–2035 simulations demonstrate that modular solar-storage leapfrogging, electric mobility, green industrial policy, and WACC-compressed blended finance accelerate developing-economy GDP catch-up by 16 index points while slashing carbon intensity of GDP by 48%."
+  ],
+  "findings": [
+    "Formalizes Clean Convergence—coined and established by Hunter Hughes (founder of H Heuristics)—as an applied development framework uniting income catch-up, clean technology diffusion, relative-to-absolute decoupling, and human flourishing.",
+    "Evaluates live 2005–2024 World Bank WDI decoupling trajectories across 24 economies, exposing the 91-fold CO2/capita divide, Poland's +118% GDP / -9% CO2 absolute-decoupling benchmark, and the 10-fold PM2.5 air-pollution penalty, while introducing the Clean Convergence Index (CCI).",
+    "Demonstrates via 2025–2035 pathway simulations that executing a Clean Convergence portfolio accelerates developing-economy real GDP catch-up (index 154 vs. 138 under legacy fossil growth) while cutting GDP carbon intensity by 48% and insulating exports from carbon border adjustments."
+  ],
+  "keywords": [
+    "clean convergence",
+    "green economic convergence",
+    "relative and absolute decoupling",
+    "clean technology leapfrogging",
+    "green total factor productivity",
+    "sustainable industrialization",
+    "carbon border adjustment mechanism",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Establishing the Clean Convergence Framework",
+    "2 Global Empirical Baseline: Mapping Decoupling Across Twenty-Four Economies",
+    "3 Theoretical Architecture: From Classical Catch-Up to Clean Convergence",
+    "4 Energy Efficiency, Urban Air Quality, and the Clean-Technology Diffusion Frontier",
+    "5 Clean Industrial Policy, Learning Curves, and Trade Governance",
+    "6 Capital Economics: Benefit-Cost Returns, WACC Compression, and Blended Finance",
+    "7 Regional Evidence: Clean Convergence Pathways Across Four Macro-Regions",
+    "8 Multidimensional Spillovers: Second-, Third-, and Fourth-Order Cascades",
+    "9 Structural Risks, Maladaptation Traps, and Analytical Guardrails",
+    "10 Dynamic Pathways to 2035 and 2050: Simulating Clean Convergence",
+    "11 Implementation Roadmap and Open Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35136100",
+  "license": "CC BY 4.0"
+}
