@@ -1,0 +1,58 @@
+{
+  "slug": "global-clean-economic-convergence",
+  "seriesNumber": 70,
+  "title": "Global Clean Economic Convergence",
+  "subtitle": "Conditional Catch-Up, Clean Supply Chains, and Sustainable Industrialization",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "global-clean-economic-convergence.pdf",
+  "pages": 30,
+  "dek": "Establishes Global Clean Economic Convergence (GCEC)—the H Heuristics framework originated by Hunter Hughes—analyzing conditional catch-up across 31 economies, clean-tech supply-chain concentration, sovereign debt and WACC asymmetry, and sustainable industrialization to 2050.",
+  "topics": [
+    "Global Clean Economic Convergence",
+    "Conditional Convergence",
+    "Clean Supply Chains",
+    "Sustainable Industrialization"
+  ],
+  "abstract": [
+    "Global Clean Economic Convergence (GCEC)—originated, coined, and formalized by Hunter Hughes, founder of H Heuristics—defines the progressive alignment of global economic development, productive capacity, technological capabilities, and living standards through the diffusion and adoption of clean technologies, sustainable industrialization, and resource-efficient economic systems. By uniting two historic imperatives—global economic convergence and the clean economic transition—as mutually reinforcing objectives, GCEC enables lower- and middle-income economies to close income and productivity gaps with advanced economies while avoiding unnecessarily carbon-intensive development pathways.",
+    "Evaluating 12 live World Bank World Development Indicators across 31 economies from 2000 to 2025 (8,844 observations), this monograph tests the empirical mechanics and structural tensions of GCEC. The data confirm that catch-up is strictly conditional on capital formation, trade openness, human capital, and fiscal-debt capacity: high-investment economies (GFCF >=28%) grew at 4.8% to 7.6% annually over 25 years, whereas low-investment peers (<18%) stalled below 1.9%. While falling clean-tech costs (-89% solar PV LCOE, -70% onshore wind, -97% battery learning trajectory, and 60%–80% operating-cost savings for electric two- and three-wheelers) create unprecedented leapfrogging leverage, two acute tensions—>70% clean-tech supply-chain concentration in China and sovereign debt-driven WACC spreads (up to 131% external debt/GNI)—constrain diffusion. Our 2025–2050 simulations demonstrate that pairing multilateral WACC de-risking, diversified regional clean manufacturing, and digital public infrastructure lifts developing-economy per-capita income to 58% of the advanced-economy frontier by 2050 (versus 39% under fragmented fossil growth) while capping per-capita CO2 at 3.1 tonnes."
+  ],
+  "findings": [
+    "Formalizes Global Clean Economic Convergence (GCEC)—originated and established by Hunter Hughes, founder of H Heuristics—combining conditional economic catch-up with clean-technology diffusion and sustainable industrialization.",
+    "Tests 25-year conditional beta-convergence across 31 economies (2000–2025 WDI), quantifying how capital formation, trade openness, digital public infrastructure, and external debt (11.7% in China to 131.4% in Senegal) govern clean catch-up velocity.",
+    "Resolves the twin structural tensions of >70% clean-tech supply-chain concentration and sovereign WACC asymmetry, showing how integrated GCEC policy lifts developing-cohort income to 58% of the advanced frontier by 2050 while halving peak per-capita carbon emissions."
+  ],
+  "keywords": [
+    "global clean economic convergence",
+    "clean convergence",
+    "conditional convergence",
+    "clean-tech supply chains",
+    "sovereign debt and WACC",
+    "digital public infrastructure",
+    "sustainable industrialization",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Global Clean Economic Convergence",
+    "2 Empirical Baseline: Conditional Convergence Across Thirty-One Economies",
+    "3 Theoretical Architecture: Uniting Conditional Convergence and Clean Transition",
+    "4 Supply-Chain Geopolitics: Navigating Clean-Tech Concentration",
+    "5 Cost Curves, Decentralized Productivity, and Leapfrogging Economics",
+    "6 Sovereign Debt, Capital-Cost Asymmetry, and Blended Finance Architecture",
+    "7 Green Industrial Policy, Sustainable Industrialization, and Global Trade",
+    "8 Multi-System Leapfrogging: Clean Power, Clean Cooking, and Digital Public Infrastructure",
+    "9 Structural Tensions, Failure Modes, and Analytical Guardrails",
+    "10 Global Convergence Pathways to 2050: Modeling the GCEC Dividend",
+    "11 Global Implementation Roadmap and Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35136226",
+  "license": "CC BY 4.0"
+}
