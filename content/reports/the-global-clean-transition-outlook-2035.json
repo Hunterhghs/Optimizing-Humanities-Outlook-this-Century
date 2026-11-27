@@ -1,0 +1,58 @@
+{
+  "slug": "the-global-clean-transition-outlook-2035",
+  "seriesNumber": 63,
+  "title": "The Global Clean Transition Outlook 2035",
+  "subtitle": "How Will Clean Technologies Reshape Development Over the Next Decade?",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-global-clean-transition-outlook-2035.pdf",
+  "pages": 30,
+  "dek": "Examines how rapid electrification (\"35 by 35\"), low-emissions power generation, grid modernization, and battery storage will reshape economic development, energy security, and global living standards through 2035.",
+  "topics": [
+    "Clean Energy Transition",
+    "Development Economics",
+    "Grid Modernization",
+    "Electrification"
+  ],
+  "abstract": [
+    "Over the next decade to 2035, clean technologies are transitioning from marginal environmental substitutes into the core physical infrastructure of global economic development. Anchored by the COP31 \"35 by 35\" electrification push—raising electricity's share of global final energy consumption from 23%–24% today to 35% by 2035—and the power-sector shift from 42% toward nearly 90% low-emissions generation, the clean transition reshapes development across transport (2% to 11%–17% electrified), buildings and cooking/cooling (35% to 50%–57%), and industry (30% to 34%–46%). Yet current national policies track toward only 28% electrification by 2035, requiring roughly a four-fold acceleration in grid, storage, and end-use deployment.",
+    "Using 12 live World Bank World Development Indicators across 24 representative economies, this report constructs the 2035 Clean Transition Readiness Index (CTRI-2035) to map the 165-fold global electrification divide—from Rwanda (79 kWh/capita) and Nigeria (141 kWh/capita) to China (7,038 kWh/capita) and the United States (13,064 kWh/capita)—alongside binding grid-loss and energy-security bottlenecks. Empirical diagnostics reveal that transmission and distribution losses exceeding 14%–26% in Kenya (25.8%), Ethiopia (20.7%), Egypt (19.9%), Morocco (18.1%), Brazil (14.9%), and India (14.5%) severely erode clean-power returns, while heavy fossil-import exposure in Morocco (93.9%), Turkey (70.1%), Chile (61.5%), the Philippines (57.7%), Bangladesh (48.5%), Vietnam (48.3%), and India (36.0%) makes domestic renewables a direct balance-of-payments shield. Evaluating second-, third-, and fourth-order cross-system spillovers alongside critical-mineral and WACC guardrails, the monograph lays out a phased 2026–2035 sequencing roadmap to turn clean technologies into broad-based productivity gains and human flourishing."
+  ],
+  "findings": [
+    "Maps the COP31 \"35 by 35\" electrification push and 42%-to-90% low-emissions power shift across transport (11%–17%), buildings (50%–57%), and industry (34%–46%), quantifying the four-fold acceleration needed to close the 28% current-policy gap.",
+    "Constructs the 2035 Clean Transition Readiness Index (CTRI-2035) from 12 live World Bank WDI series across 24 economies, exposing the 165-fold per-capita electricity gap and 14%–26% grid transmission losses constraining clean-tech absorption.",
+    "Demonstrates how domestic renewables and electrification act as a direct energy-security and FX shield for net energy importers (Morocco 93.9%, Turkey 70.1%, Chile 61.5%, Philippines 57.7%, Vietnam 48.3%, India 36.0%) while cutting urban air pollution."
+  ],
+  "keywords": [
+    "global clean transition 2035",
+    "35 by 35 electrification",
+    "grid modernization and battery storage",
+    "energy security and import substitution",
+    "transport and building electrification",
+    "industrial decarbonization",
+    "clean cooking transition",
+    "living standards"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Clean Technologies as the Engine of 2035 Development",
+    "2 Global Empirical Baseline: The Electrification Ladder and the \"35 by 35\" Gap",
+    "3 Theoretical Architecture: Clean-Tech Transition Velocity and CTRI-2035",
+    "4 Power Generation, Grid Modernization, and Next-Generation Storage",
+    "5 Energy Security, Import Substitution, and Sectoral Electrification",
+    "6 Buildings, Heat Pumps, Clean Cooking, and EV Charging Infrastructure",
+    "7 Regional Comparative Outlook: Clean-Tech Transition Frontrunners to 2035",
+    "8 Cross-System Spillovers of 2035 Clean Technology Catalysts",
+    "9 Transition Bottlenecks, Critical-Mineral Risks, and Governance Guardrails",
+    "10 2025–2035 Global Clean Transition Scenarios: Closing the \"35 by 35\" Policy Gap",
+    "11 Policy Sequencing Roadmap and 2035 Clean Transition Research Agenda"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35135008",
+  "license": "CC BY 4.0"
+}
