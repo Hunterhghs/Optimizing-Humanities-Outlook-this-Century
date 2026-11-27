@@ -1,0 +1,57 @@
+{
+  "slug": "global-productivity-revolution",
+  "title": "The Global Productivity Revolution",
+  "subtitle": "Technology Adoption, Capital Deepening, and Economic Growth to 2100",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "global-productivity-revolution.pdf",
+  "pages": 30,
+  "dek": "Examines how artificial intelligence, robotics, and capital deepening interact with technology diffusion lags, demographic aging, and energy-grid constraints to govern global economic growth and living standards through 2100.",
+  "topics": [
+    "Productivity and Economic Growth",
+    "Artificial Intelligence and Automation",
+    "Capital Deepening",
+    "Technology Diffusion to 2100"
+  ],
+  "abstract": [
+    "Long-run global economic growth through 2100 hinges on how rapidly economies adopt general-purpose technologies—especially artificial intelligence, robotics, and autonomous industrial systems—and pair them with sustained capital deepening. Anchored to 12 live World Bank World Development Indicators spanning 2000–2025 across 24 economies and regional aggregates (6,826 observations), this monograph quantifies the stark structural asymmetries entering the AI era: global labor productivity stands at USD 50,672 per employed worker (constant 2021 PPP), yet Sub-Saharan Africa averages USD 12,931—a 12.1-fold gap below the United States (USD 156,983)—while fixed broadband penetration spans from 47.8 per 100 people in South Korea to 1.12 in Sub-Saharan Africa and electric power consumption spans a 34-fold to 93-fold divide (13,064 kWh/capita in the United States versus 380 kWh in Sub-Saharan Africa and 141 kWh in Nigeria).",
+    "Integrating Solow-Swan capital deepening, endogenous idea-production theory, and Productivity J-Curve intangible complementarity, the study models four century-scale growth regimes from 2025 to 2100—from Demographic Drag (1.1% annual productivity growth) and Steady Historical Trend (1.8%) to Broad AI Acceleration (2.8%) and Rapid Diffusion Breakthrough (4.0%). Under Broad AI Acceleration, global output per worker reaches USD 101,000 by 2050 and USD 402,000 by 2100 (7.9x today's level), offsetting shrinking working-age cohorts in Japan (51.0 old-age dependency), Germany (38.0), and China (21.4). Achieving broad-based living-standards convergence, however, requires solving three binding bottlenecks: high-bandwidth digital infrastructure, clean baseload power for compute and robotics, and institutional capital-allocation reforms that prevent capital-biased inequality and premature deindustrialization."
+  ],
+  "findings": [
+    "Quantifies live 2000–2025 global productivity, capital deepening (GFCF and R&D), digital broadband, demographic aging, and electricity-headroom baselines across 24 economies and aggregates.",
+    "Models four century-scale growth trajectories (2025–2100) showing how technology diffusion speed and capital deepening separate USD 115k stagnation from USD 402k–USD 960k global output per worker by 2100.",
+    "Maps 2nd- to 4th-order cross-system spillovers and governance guardrails to overcome data-center grid bottlenecks, aging labor scarcity, and capital-share polarization."
+  ],
+  "keywords": [
+    "global productivity revolution",
+    "technology adoption",
+    "artificial intelligence and robotics",
+    "capital deepening",
+    "economic growth to 2100",
+    "total factor productivity",
+    "demographic aging",
+    "energy and compute constraints"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Architecture of Twenty-First-Century Productivity Growth",
+    "2 Empirical Baseline: Global Productivity, Capital Deepening, and R&D (2000–2025)",
+    "3 The Macroeconomics of AI, Robotics, and Capital Deepening",
+    "4 General Purpose Technology Diffusion and the Productivity J-Curve",
+    "5 Digital Infrastructure and Global Technology Diffusion Gaps",
+    "6 Demographic Aging, Labor Scarcity, and the Automation Imperative",
+    "7 Physical Energy, Grid Infrastructure, and AI Compute Constraints",
+    "8 Century-Scale Growth Scenarios to 2100: From Demographic Drag to Broad Acceleration",
+    "9 Distributional Dynamics, Labor Shares, and Developing-Economy Catch-Up",
+    "10 Cross-System Spillovers, Maladaptation Guardrails, and Methodological Limitations",
+    "11 Policy Architecture for Broad-Based Productivity Growth (2026–2050)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35139298",
+  "license": "CC BY 4.0"
+}

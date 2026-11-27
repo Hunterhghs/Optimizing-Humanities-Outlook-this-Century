@@ -200,9 +200,10 @@ function loadReports() {
     process.exit(1);
   }
 
-  // Newest first: publication date descending, then legacy seriesNumber descending as tiebreaker.
+  // Newest first: publication date descending; unnumbered (post-seriesNumber) monographs sort ahead of legacy numbered ones on the same date.
   reports.sort((a, b) =>
     b.published.localeCompare(a.published) ||
+    (b.seriesNumber ? 0 : 1) - (a.seriesNumber ? 0 : 1) ||
     (b.seriesNumber || 0) - (a.seriesNumber || 0) ||
     a.slug.localeCompare(b.slug)
   );
