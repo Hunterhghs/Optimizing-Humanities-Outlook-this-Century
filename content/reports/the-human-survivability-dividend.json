@@ -1,0 +1,58 @@
+{
+  "slug": "the-human-survivability-dividend",
+  "seriesNumber": 67,
+  "title": "The Human Survivability Dividend",
+  "subtitle": "Valuing Lives, Person-Years, and Capital Protected",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-human-survivability-dividend.pdf",
+  "pages": 30,
+  "dek": "Establishes a rigorous four-ledger VSL and capital-protection accounting framework—converting lives saved, the 143-billion person-year Century Pathways deprivation gap, and surviving physical and human capital into unified investment-grade monetary returns without double counting.",
+  "topics": [
+    "Development Economics",
+    "Value of a Statistical Life (VSL)",
+    "Benefit-Cost Accounting",
+    "Human Capital Valuation"
+  ],
+  "abstract": [
+    "Preventive development investments—ranging from early-warning networks and clean water to universal health risk-pooling, clean cooking, and sustainable cooling—are routinely evaluated in incompatible units: GDP percentages, physical hazard losses avoided, lives saved, or isolated project benefit-cost ratios (3.4x–9.0x). Because these disparate units cannot be summed across portfolios, finance ministries systematically undervalue ex-ante prevention relative to conventional hard infrastructure. This monograph introduces the Human Survivability Dividend—a dedicated Value of a Statistical Life (VSL) and capital-protection accounting framework that converts preventive development gains into a single auditable monetary denominator using four strictly delineated ledgers: (1) Lives Protected (valued via income-elasticity-adjusted VSL), (2) Person-Years of Deprivation Avoided (converting the 143-billion person-year Century Pathways gap into monetary value via documented VSLY deprivation weights), (3) Physical and Human Capital Protected (replacement cost plus present value of preserved lifetime earnings), and (4) Co-Benefits (second- and third-order spillovers segregated in a non-additive memo ledger to prevent double counting).",
+    "Calibrated to 12 live World Bank World Development Indicators across 24 economies, our empirical VSL transfer schedules span a 58-fold range at unit income elasticity (from US$0.25 million in Mozambique and US$0.30 million in DR Congo to US$1.86 million in India, US$3.63 million in Brazil, and US$14.32 million in the United States) and a 477-fold range at elasticity 1.5. Applying a conservative central deprivation-year rate of US$2,200 per person-year (range US$1,200–US$3,800) converts the 143-billion person-year gap into US$315 trillion undiscounted (US$68.4 trillion Net Present Value at a 3.5% social discount rate). Across a 2025–2050 investment horizon, integrating Lives Protected (US$42.6 trillion NPV), Person-Years Avoided (US$29.8 trillion NPV), and Physical and Human Capital Protected (US$21.2 trillion NPV) yields a core additive Human Survivability Dividend of US$93.6 trillion NPV against US$12.0 trillion NPV in preventive capital costs—a unified portfolio Benefit-Cost Ratio of 7.8x before counting US$16.4 trillion in segregated memo co-benefits."
+  ],
+  "findings": [
+    "Introduces a unified four-ledger VSL accounting architecture—Lives Protected, Person-Years of Deprivation Avoided, Physical and Human Capital Protected, and strictly segregated Non-Additive Co-Benefits—giving Preventive Development Economics an auditable investment-case denominator.",
+    "Computes live 24-economy VSL and VSLY transfer schedules from 12 World Bank WDI datasets (mapping the 58-fold VSL gradient at elasticity 1.0 vs. 477-fold at elasticity 1.5) and converts the 143-billion person-year Century Pathways gap into US$68.4 trillion NPV (US$315 trillion undiscounted).",
+    "Demonstrates that a 2025–2050 preventive development portfolio costing US$12.0 trillion NPV generates US$93.6 trillion NPV in core additive survivability value—a 7.8x unified Benefit-Cost Ratio—while enforcing strict double-counting guardrails across all four ledgers."
+  ],
+  "keywords": [
+    "human survivability dividend",
+    "value of a statistical life",
+    "value of a statistical life year",
+    "preventive development economics",
+    "four-ledger accounting framework",
+    "person-years of deprivation",
+    "human and physical capital protection",
+    "benefit-cost analysis"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Human Survivability Dividend",
+    "2 Global Empirical Baseline: Live VSL, VSLY, and Capital Schedules Across 24 Economies",
+    "3 Theoretical Bridge: From Physical Counts to Inclusive Wealth Valuation",
+    "4 Valuing the 143-Billion Person-Year Yardstick and Surviving Capital",
+    "5 The Four-Ledger Accounting Architecture and Double-Counting Rules",
+    "6 Reconciling Preventive BCRs and Structuring Blended Finance",
+    "7 Regional Comparative Evidence: Distributional Valuation Across Four Continents",
+    "8 Ledger 4 Co-Benefits: Auditing Second- and Third-Order Multipliers Without Double Counting",
+    "9 Valuation Traps, Actuarial Guardrails, and Methodological Uncertainty",
+    "10 Century Pathways Valuation Scenarios: 2025–2050",
+    "11 Policy and Finance Roadmap: Institutionalizing Four-Ledger VSL Accounting"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35135692",
+  "license": "CC BY 4.0"
+}
