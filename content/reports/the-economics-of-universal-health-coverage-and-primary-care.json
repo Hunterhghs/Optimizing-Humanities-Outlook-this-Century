@@ -1,0 +1,58 @@
+{
+  "slug": "the-economics-of-universal-health-coverage-and-primary-care",
+  "seriesNumber": 68,
+  "title": "The Economics of Universal Health Coverage and Primary Care",
+  "subtitle": "How Primary Healthcare Multiplies Productivity, Human Capital, and Economic Convergence",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-26",
+  "language": "en",
+  "pdf": "the-economics-of-universal-health-coverage-and-primary-care.pdf",
+  "pages": 30,
+  "dek": "Demonstrates why primary-care-led Universal Health Coverage (UHC) is not a social consumption cost but the largest missing development multiplier—averting DALYs at US$25–US$240, curbing 3 million annual clean-cooking deaths, and lifting developing-economy GDP by 4.8% by 2035.",
+  "topics": [
+    "Development Economics",
+    "Universal Health Coverage",
+    "Primary Healthcare Economics",
+    "Public Health and Human Capital"
+  ],
+  "abstract": [
+    "Across developing and emerging economies, ill health and unbuffered medical bills remain the single largest missing multiplier in economic convergence— eroding household budgets, depressing school attendance, curtailing prime-age labor supply, and trapping tens of millions in medical impoverishment each year. Challenging the legacy fiscal view that treats healthcare as passive social consumption, this monograph formalizes the Healthcare Development Multiplier: a five-stage causal chain linking primary healthcare (PHC) investment to lower disease burden, stronger human capital, higher household incomes, and durable economic convergence. Drawing on 12 live World Bank World Development Indicators across 24 economies, we expose a 233-fold divide in per-capita health spending (from US$58 PPP in DR Congo and US$77 in Niger to US$13,473 in the United States) alongside a 496-fold chasm in maternal mortality (993 per 100,000 live births in Nigeria vs. 2.0 in Poland).",
+    "Live empirical diagnostics reveal that institutional design dominates raw expenditure: Thailand (US$1,067/capita; 9.9% out-of-pocket spending; 76.6 years life expectancy) and Rwanda (US$177/capita; 4.1% out-of-pocket; 98% childhood immunization) achieve extraordinary health-system efficiency compared with fragmented, out-of-pocket-heavy systems in Bangladesh (79.3% OOP) and Nigeria (71.9% OOP). Benchmarking empirical costs per Disability- Adjusted Life Year (DALY) averted—from US$25 for childhood immunization and US$45 for clean-cooking respiratory prevention (addressing ~3 million annual household air-pollution deaths) to US$75–US$240 for community health workers and primary clinics versus US$6,500+ for tertiary hospital salvage care—our 2025–2035 simulations demonstrate that primary-care-led UHC cuts catastrophic medical impoverishment by 62% while generating a 4.8% cumulative GDP convergence dividend."
+  ],
+  "findings": [
+    "Maps the 233-fold per-capita health spending divide and 496-fold maternal mortality chasm across 24 live World Bank WDI economies, introducing the Primary Healthcare and UHC Readiness Index (PHC-UHC Index).",
+    "Quantifies the 20x–100x cost-effectiveness advantage of primary care (US$25–US$240 per DALY averted) over tertiary salvage care (US$6,500+/DALY), explicitly integrating clean-cooking transitions (~3 million deaths/year) into preventive primary-care economics.",
+    "Demonstrates via 2025–2035 pathway simulations that capitated, primary-care-led UHC with clean-cooking co-investment slashes catastrophic medical impoverishment by 62% and lifts cumulative developing-economy GDP by 4.8%."
+  ],
+  "keywords": [
+    "universal health coverage",
+    "primary healthcare economics",
+    "cost per DALY averted",
+    "healthcare development multiplier",
+    "out-of-pocket health expenditure",
+    "clean cooking household air pollution",
+    "community health workers",
+    "economic convergence"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Health as the Largest Missing Development Multiplier",
+    "2 Global Empirical Baseline: The 233-Fold Health Divide and the Primary-Care Frontier",
+    "3 Theoretical Bridge: The Five-Stage Healthcare Development Multiplier",
+    "4 Environmental Primary Prevention, Clean Cooking, and Digital PHC Leapfrogging",
+    "5 Cost per DALY Averted and Strategic Purchasing Governance",
+    "6 Financially Sustainable UHC Financing and Primary-Care Blended Capital",
+    "7 Regional Comparative Evidence: Four Global UHC and Primary-Care Archetypes",
+    "8 Cross-System Spillovers: Mapping the Healthcare Development Multiplier",
+    "9 Financing Traps, Institutional Guardrails, and Methodological Uncertainty",
+    "10 Systemic Pathways to 2035: Financial Protection and Economic Convergence",
+    "11 Policy and Finance Roadmap: Scaling Primary-Care-Led UHC Through 2035"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35136010",
+  "license": "CC BY 4.0"
+}
