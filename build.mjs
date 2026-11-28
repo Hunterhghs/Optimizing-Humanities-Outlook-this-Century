@@ -205,9 +205,14 @@ function loadReports() {
     process.exit(1);
   }
 
-  // Newest first: publication date descending; unnumbered (post-seriesNumber) monographs sort ahead of legacy numbered ones on the same date.
+  // Newest first: publication date descending, then Figshare DOI numeric ID descending (exact minting order on the same day), then legacy seriesNumber.
+  const figshareId = (r) => {
+    const m = r.doi && String(r.doi).match(/figshare\.(\d+)/i);
+    return m ? Number(m[1]) : 0;
+  };
   reports.sort((a, b) =>
     b.published.localeCompare(a.published) ||
+    figshareId(b) - figshareId(a) ||
     (b.seriesNumber ? 0 : 1) - (a.seriesNumber ? 0 : 1) ||
     (b.seriesNumber || 0) - (a.seriesNumber || 0) ||
     a.slug.localeCompare(b.slug)
