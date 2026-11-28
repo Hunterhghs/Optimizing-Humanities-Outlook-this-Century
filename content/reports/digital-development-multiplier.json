@@ -1,0 +1,57 @@
+{
+  "slug": "digital-development-multiplier",
+  "title": "The Digital Development Multiplier",
+  "subtitle": "How Connectivity, Digital Public Infrastructure, and Technology Adoption Transform Emerging Economies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "digital-development-multiplier.pdf",
+  "pages": 30,
+  "dek": "Quantifies how broadband connectivity, open-protocol Digital Public Infrastructure (DPI), and enterprise technology adoption compound productivity, fiscal capacity, and financial inclusion across emerging economies through 2050.",
+  "topics": [
+    "Digital Public Infrastructure (DPI)",
+    "Broadband Connectivity & Labor Markets",
+    "Mobile Money & Financial Inclusion",
+    "Enterprise Technology & AI Leapfrogging"
+  ],
+  "abstract": [
+    "Over the past two decades, digital infrastructure has evolved from a communications sector into a general-purpose economic multiplier capable of compressing decades of institutional, financial, and productivity catch-up across the Global South. Anchored to 10 live World Bank World Development Indicators across 24 economies and regional aggregates and 24 peer-reviewed studies in development economics, industrial organization, and public finance, this monograph quantifies how broadband connectivity, open-protocol Digital Public Infrastructure (DPI), and enterprise technology adoption interact to accelerate living-standards convergence.",
+    "Live 2024–2025 WDI baselines reveal both extraordinary leapfrogging and a persistent three-layer divide: while Kenya (90.1% financial account ownership on USD 5,995 GDP/cap PPP) and India (89.0% on USD 10,039 PPP, with ICT services generating 48.6% of service exports) prove that mobile money and open DPI rails bypass legacy brick-and-mortar bottlenecks, low-income economies still lag at 23.4% internet usage, 0.57 fixed broadband subscriptions per 100 people, and a 3,250-fold deficit in secure internet servers relative to high-income nations. Modeling an integrated architecture combining universal affordable broadband, interoperable DPI (digital identity, instant payments, consent-based data exchange), rural digital markets, and AI-augmented SME and education platforms, this study projects a cumulative 2026–2050 Digital Development Dividend of USD 24 trillion to USD 42 trillion (central: USD 33.0 trillion, constant 2025 USD)—more than double the return of fragmented, siloed connectivity alone."
+  ],
+  "findings": [
+    "Documents the live 2024–2025 three-layer digital divide across 10 WDI indicators—including the 3,250x secure-server gap alongside Kenya's 90.1% and India's 89.0% DPI financial-inclusion leapfrogs.",
+    "Synthesizes causal evidence across submarine broadband, instant payments, biometric social transfers, SMS agricultural extension, and generative AI productivity gains (+14% to +35% for lower-tenure workers).",
+    "Projects a cumulative 2026–2050 Digital Development Dividend of USD 24T–42T (central: USD 33.0T; 3% NPV: USD 19.6T) across five empirically anchored macroeconomic channels."
+  ],
+  "keywords": [
+    "digital development multiplier",
+    "digital public infrastructure and instant payments",
+    "broadband connectivity and emerging economy growth",
+    "mobile money financial inclusion",
+    "e-governance and fiscal leakage reduction",
+    "rural e-commerce and agricultural market integration",
+    "generative AI productivity in emerging markets",
+    "sovereign cloud and open-protocol digital rails"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Digital Development Multiplier in Emerging Economies",
+    "2 Empirical Baseline: Connectivity, Financial Inclusion, and the 3,250x Cloud-Compute Divide (2024–2025)",
+    "3 Connectivity Economics: Submarine Fiber, Mobile Broadband, and Formal Job Creation",
+    "4 Digital Public Infrastructure: Open-Protocol Identity, Instant Payments, and Financial Leapfrogging",
+    "5 State Capacity, Fiscal Leakage Reduction, and Precision Social Protection",
+    "6 Agricultural Markets, Rural E-Commerce, and SME Productivity Transformation",
+    "7 Enterprise Technology Adoption, Management Complementarity, and Generative AI Leapfrogging",
+    "8 Human Capital Multipliers: Adaptive EdTech, Tertiary Scaling, and Digital Health",
+    "9 Quantifying the Digital Development Multiplier to 2050",
+    "10 Spillovers, Digital Exclusion Traps, and Methodological Limitations",
+    "11 Financing, Governance, and Open-Protocol Policy Architecture (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35145136",
+  "license": "CC BY 4.0"
+}
