@@ -1,0 +1,57 @@
+{
+  "slug": "global-food-security-dividend",
+  "title": "The Global Food Security Dividend",
+  "subtitle": "Agricultural Productivity, Nutrition, Trade Resilience, and the Economics of Ending Hunger",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "global-food-security-dividend.pdf",
+  "pages": 30,
+  "dek": "Quantifies how improved seeds, precision AgTech, solar irrigation, cold chains, soil restoration, and open trade can eliminate chronic hunger while unlocking a multi-trillion-dollar global productivity dividend.",
+  "topics": [
+    "Global Food Security",
+    "Agricultural Productivity & Yield Gaps",
+    "Nutrition Economics & Human Capital",
+    "Trade Integration & Cold-Chain Infrastructure"
+  ],
+  "abstract": [
+    "Ending chronic hunger is widely framed as a humanitarian obligation, yet empirical development economics demonstrates it is one of the highest-return macroeconomic investments available to humanity. Anchored to 10 live World Bank World Development Indicators across 24 economies and macro-regions and 24 peer-reviewed studies in agricultural, nutritional, and trade economics, this monograph formalizes and quantifies the Global Food Security Dividend: the compounding surge in agricultural total factor productivity, cognitive human capital, rural household incomes, and macro-fiscal stability unlocked when developing economies close persistent yield, post-harvest, and nutrition chasms.",
+    "Evaluating the study's core policy metric—cost per person lifted out of food insecurity—across seven complementary levers reveals an average blended portfolio cost of USD 65 to USD 145 per person-year (ranging from USD 28–55 for improved drought-tolerant seeds and digital agronomy to USD 110–195 for modular solar cold chains and solar irrigation). Mobilizing USD 35B–50B annually in targeted public and blended agricultural investment between 2026 and 2050 can eliminate chronic undernourishment for 700M+ people while generating a cumulative Global Food Security Dividend of USD 18 trillion to USD 31 trillion (central: USD 24.5 trillion, constant 2025 USD)—a 15:1 to 25:1 social return across agricultural output, avoided stunting earnings losses, halved post-harvest spoilage, and resilient global food trade."
+  ],
+  "findings": [
+    "Establishes live 2024–2025 global yield, fertilizer, and malnutrition chasms (Sub-Saharan Africa 19.3 kg/ha fertilizer and 49.3% farm employment vs. OECD 132.2 kg/ha and 4.3% farm employment).",
+    "Quantifies the key policy metric—cost per person lifted out of food insecurity (USD 28–195/person-year; blended portfolio USD 65–145)—across seeds, soil restoration, solar irrigation, cold chains, nutrition, and trade.",
+    "Projects a cumulative 2026–2050 Global Food Security Dividend of USD 18T–31T (central: USD 24.5T) across five hard macroeconomic, nutritional, and climate-resilience channels."
+  ],
+  "keywords": [
+    "global food security dividend",
+    "cost per person lifted out of food insecurity",
+    "agricultural productivity and yield gaps",
+    "child stunting and nutrition economics",
+    "solar irrigation and cold chains",
+    "soil restoration and improved seeds",
+    "agricultural trade resilience",
+    "ending chronic hunger"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Ending Chronic Hunger as a High-Yield Global Investment",
+    "2 Empirical Baseline: Global Yield Chasms, Undernourishment, and Child Stunting (2024–2025)",
+    "3 The Core Metric: Quantifying Cost per Person Lifted Out of Food Insecurity",
+    "4 Improved Seeds, Precision AgTech, and Soil Carbon Restoration",
+    "5 Solar Irrigation and Cold-Chain Infrastructure: Slashing Post-Harvest Food Loss",
+    "6 The Economics of Nutrition: Stunting, Cognitive Capital, and Lifetime Earnings",
+    "7 Food Trade Integration, Export-Ban Avoidance, and Import-Shock Resilience",
+    "8 Climate-Resilient Agriculture: Offsetting Warming Yield Drag Without Deforestation",
+    "9 Quantifying the Global Food Security Dividend (2026–2050)",
+    "10 Cross-System Spillovers, Maladaptation Guardrails, and Methodological Limitations",
+    "11 Financing Architecture and Policy Roadmap to End Chronic Hunger (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35145085",
+  "license": "CC BY 4.0"
+}
