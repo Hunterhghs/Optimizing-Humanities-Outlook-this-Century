@@ -1,0 +1,57 @@
+{
+  "slug": "cooling-access-economics-of-climate-adaptation",
+  "title": "Cooling Access and the Economics of Climate Adaptation",
+  "subtitle": "Productivity Preservation, Public Health, Energy Systems, and Economic Resilience in Emerging Economies",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "cooling-access-economics-of-climate-adaptation.pdf",
+  "pages": 30,
+  "dek": "Quantifies how passive cooling, high-efficiency solar-coupled air conditioning, and rural cold chains preserve industrial productivity, avert heatwave mortality, and stabilize emerging-economy power grids through 2050.",
+  "topics": [
+    "Cooling Access & Climate Adaptation",
+    "Heat-Stress Productivity Preservation",
+    "Public Health & Urban Heat Islands",
+    "Clean Energy Systems & Thermal Storage"
+  ],
+  "abstract": [
+    "As extreme wet-bulb temperatures intensify across the Global South, access to reliable, affordable cooling is transitioning rapidly from a residential amenity into foundational climate-adaptation infrastructure. Anchored to 10 live World Bank World Development Indicators across 24 economies and macro-regions and 24 peer-reviewed studies in labor economics, epidemiology, building physics, and power-systems engineering, this monograph quantifies the macroeconomic returns to sustainable cooling access across emerging economies—linking productivity preservation, public health, clean energy systems, and agricultural-urban resilience.",
+    "Live 2024–2025 WDI baselines expose a stark adaptation divide: over 60%–68% of workers in India, Bangladesh, Pakistan, and Sub-Saharan Africa toil in heat-exposed agriculture and industry while operating on just 380 to 1,223 kWh/cap of electricity (versus 7,794 kWh in the OECD and 12,000+ kWh in the United States), even as heat-related labor-capacity losses already exceed USD 1.09 trillion annually worldwide. Modeling an integrated architecture combining passive cool roofs and radiative materials (-30% to -55% thermal loads), doubled-efficiency inverter air conditioning coupled with midday solar PV and phase-change thermal storage, Kigali HFC phase-down, and village agro-cold chains, this study projects a cumulative 2026–2050 Cooling Adaptation Dividend of USD 16 trillion to USD 28 trillion (central: USD 22.0 trillion, constant 2025 USD)—preserving factory and outdoor output, cutting heat mortality by up to 75%, and avoiding grid-peak blackouts and 0.4°C–0.5°C of refrigerant-driven warming by 2100."
+  ],
+  "findings": [
+    "Documents the live 2024–2025 emerging-economy heat-adaptation divide (60%–68% heat-exposed workforce on 380–1,223 kWh/cap electricity vs. 7,794 kWh OECD).",
+    "Quantifies how passive cooling (-30% to -55% load), high-SEER inverter ACs, midday solar-PV coincidence, and thermal ice storage prevent grid-peak blackouts while cutting cooling energy bills by 40%–60%.",
+    "Projects a cumulative 2026–2050 Cooling Adaptation Dividend of USD 16T–28T (central: USD 22.0T) across productivity preservation, public health, grid-peak savings, agro-cold chains, and avoided refrigerant warming."
+  ],
+  "keywords": [
+    "cooling access and climate adaptation",
+    "heat stress labor productivity",
+    "passive radiative cooling and urban heat islands",
+    "high efficiency air conditioning and Kigali amendment",
+    "solar PV cooling load coincidence",
+    "thermal energy storage and cold chains",
+    "emerging economy climate resilience",
+    "heatwave mortality reduction"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Cooling Access as Core Climate-Adaptation Infrastructure",
+    "2 Empirical Baseline: Heat-Exposed Workforces, Electricity Depth, and the Global Cooling Chasm (2024–2025)",
+    "3 Productivity Preservation: Quantifying Heat Stress Across Factories, Construction, and Schools",
+    "4 Public Health Adaptation: Heatwave Mortality, Maternal Survival, and Vaccine Cold Chains",
+    "5 Energy Systems Under Extreme Heat: Peak Cooling Loads, Solar-PV Coincidence, and Thermal Storage",
+    "6 Passive Cooling, Radiative Materials, and Urban Heat-Island Economics",
+    "7 Refrigerant Climate Feedback and Kigali Compliance",
+    "8 Agro-Cold Chains and Rural Economic Resilience",
+    "9 Quantifying the Climate-Adaptation Cooling Dividend to 2050",
+    "10 Spillovers, Maladaptation Traps, and Methodological Limitations",
+    "11 Financing and Policy Architecture for Sustainable Cooling"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35145097",
+  "license": "CC BY 4.0"
+}
