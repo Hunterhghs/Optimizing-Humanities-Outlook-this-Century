@@ -1,0 +1,57 @@
+{
+  "slug": "clean-energy-health-development-dividend",
+  "title": "The Clean Energy-Health-Development Dividend",
+  "subtitle": "How Energy Transition Pathways Can Simultaneously Improve Environmental Quality, Public Health, and Economic Performance",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "clean-energy-health-development-dividend.pdf",
+  "pages": 30,
+  "dek": "Quantifies how clean-energy transition pathways—coal-to-solar grids, electric mobility, and clean cooking—simultaneously slash lethal PM2.5 air pollution, save millions of lives, and boost emerging-economy labor productivity through 2050.",
+  "topics": [
+    "Clean Energy & Public Health Co-Benefits",
+    "Air Quality & PM2.5 Mortality Reduction",
+    "Clean Cooking & Household Air Pollution",
+    "Pollution, Labor Productivity & Development"
+  ],
+  "abstract": [
+    "Energy policy, environmental regulation, and public health have traditionally been budgeted and governed in separate ministerial silos—obscuring one of the highest-return synergies in modern development economics. Every year, fossil-fuel combustion and household solid-biomass smoke generate more than 8 million premature deaths worldwide, strip years off life expectancy across Asia and Africa, depress factory and outdoor worker output, and impose trillions of dollars in preventable healthcare and productivity losses. Anchored to 10 live World Bank World Development Indicators across 24 economies and regional aggregates and 24 peer-reviewed studies in epidemiology, labor economics, and energy-systems modeling, this monograph quantifies the integrated Clean Energy-Health-Development Dividend.",
+    "Live 2024–2025 WDI baselines expose an acute environmental-health divide: Bangladesh (69.3 ug/m3), Nigeria (65.7 ug/m3), and India (54.1 ug/m3) endure ambient PM2.5 concentrations 10 to 14 times above World Health Organization guidelines, while clean-cooking access lags at just 7.0% in Ethiopia, 15.6% in low-income economies, and 22.9% in Sub-Saharan Africa (where under-5 mortality remains 71.2 per 1,000 live births versus 5.1 in high-income nations). Modeling an integrated clean-energy pathway combining utility solar-plus-storage coal displacement, urban e-mobility, universal clean cooking, and solarized health clinics, this study projects a cumulative 2026–2050 EMDE Clean Energy-Health-Development Dividend of USD 38 trillion to USD 64 trillion (central: USD 51.0 trillion, constant 2025 USD; 3% NPV: USD 30.2 trillion)—demonstrating that local health and productivity co-benefits alone exceed transition capital costs by 2x to 4x."
+  ],
+  "findings": [
+    "Documents the live 2024–2025 air-quality and clean-cooking divide across 10 WDI indicators (PM2.5 up to 69.3 ug/m3; clean cooking at 15.6% in LICs vs. 99.5% in HICs).",
+    "Synthesizes causal evidence proving that local health co-benefits (USD 50–380/tCO2) and clean-air worker productivity gains exceed clean-energy mitigation costs by 2x–4x.",
+    "Projects a cumulative 2026–2050 EMDE Clean Energy-Health-Development Dividend of USD 38T–64T (central: USD 51.0T; 3% NPV: USD 30.2T) across five transmission channels."
+  ],
+  "keywords": [
+    "clean energy health development dividend",
+    "fossil fuel air pollution mortality",
+    "PM2.5 and labor productivity",
+    "clean cooking transition and child survival",
+    "energy transition health co-benefits",
+    "coal to solar health savings",
+    "electric mobility urban air quality",
+    "emerging economy clean energy financing"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: The Triple Dividend of Clean Energy, Public Health, and Economic Development",
+    "2 Empirical Baseline: Ambient PM2.5, Household Smoke, and the Global Survival Divide (2024–2025)",
+    "3 The Hidden Toll of Fossil Combustion: Ambient PM2.5, Premature Mortality, and Life Expectancy",
+    "4 Eliminating Household Air Pollution: Clean Cooking, Maternal-Child Survival, and Rural Time Dividends",
+    "5 Clean Air as a Productive Input: Causal Effects of Pollution on Workers, Factories, and Human Capital",
+    "6 Health Co-Benefits Versus Mitigation Costs: Why Clean Power Pays for Itself Locally",
+    "7 Sectoral Transition Pathways: Coal-to-Solar Grids, Electric Mobility, and Clinic Electrification",
+    "8 Regional Energy-Health Typologies and Comparative Benefit-Cost Returns",
+    "9 Quantifying the Clean Energy-Health-Development Dividend to 2050",
+    "10 Cross-System Spillovers, Transition Traps, and Methodological Limitations",
+    "11 Integrated Financing and Policy Architecture: Linking Health, Energy, and Finance Ministries (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35145175",
+  "license": "CC BY 4.0"
+}
