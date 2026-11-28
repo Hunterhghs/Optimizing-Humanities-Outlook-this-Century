@@ -1,0 +1,57 @@
+{
+  "slug": "clean-economic-convergence-global-development-framework",
+  "title": "Clean Economic Convergence: A Global Development Framework",
+  "subtitle": "Integrating Economic Catch-Up, Clean Technology Diffusion, and Sustainable Structural Transformation",
+  "authors": [
+    "Hunter Hughes"
+  ],
+  "published": "2026-11-27",
+  "language": "en",
+  "pdf": "clean-economic-convergence-global-development-framework.pdf",
+  "pages": 31,
+  "dek": "Formalizes Clean Economic Convergence as an integrated global development framework showing how declining clean-technology costs, modern green industrial policy, and WACC compression accelerate catch-up growth and sustainable structural transformation across emerging economies through 2050.",
+  "topics": [
+    "Clean Economic Convergence",
+    "Sustainable Structural Transformation",
+    "Clean Technology Diffusion & Learning Curves",
+    "Green Industrial Policy & WACC Compression"
+  ],
+  "abstract": [
+    "For over half a century, development economics operated under an assumed structural trade-off: rapid income convergence required carbon-intensive heavy industrialization, while environmental stewardship constrained developing-country growth. The dramatic, empirically grounded cost collapse of modular clean technologies—solar photovoltaics, lithium-ion storage, electric mobility, precision agritech, and digital public rails—has fundamentally inverted that trade-off. Anchored to 9 live World Bank World Development Indicators spanning 2000–2025 across 24 economies and regional aggregates and 24 peer-reviewed studies in growth theory, structural transformation, directed technical change, and green industrial policy, this monograph formalizes Clean Economic Convergence as an actionable global development framework.",
+    "Live 25-year WDI baselines expose a stark divergence between high-investment industrial convergers (China 7.55%/yr, Vietnam 5.20%/yr, India 4.94%/yr, Bangladesh 4.76%/yr) and capital-constrained, prematurely deindustrializing regions (Latin America 1.31%/yr, Sub-Saharan Africa 1.36%/yr, Low-Income economies 1.19%/yr at 48.8% electricity access and 7.14 MJ/USD energy intensity). Integrating clean-technology diffusion, agricultural productivity release, green-complexity industrial policy, and multilateral WACC compression into a 2026–2050 macroeconomic simulation, this study projects a cumulative Clean Economic Convergence Dividend of USD 45 trillion to USD 78 trillion (central: USD 61.5 trillion, constant 2025 USD; 3% NPV: USD 36.4 trillion)—lifting EMDE per-capita growth by +1.4 to +2.2 percentage points annually while cutting the carbon intensity of catch-up by 55%–68%."
+  ],
+  "findings": [
+    "Documents 25-year live WDI convergence baselines (2000–2025), exposing the split between high-investment Asian convergers and stalled, energy-scarce regions.",
+    "Formalizes Clean Economic Convergence by uniting directed technical change, Wright's Law clean-tech learning curves, green economic complexity, and blended-finance WACC compression.",
+    "Projects a cumulative 2026–2050 EMDE Clean Economic Convergence Dividend of USD 45T–78T (central: USD 61.5T; 3% NPV: USD 36.4T) across five sectoral channels."
+  ],
+  "keywords": [
+    "clean economic convergence",
+    "global development framework",
+    "sustainable structural transformation",
+    "clean technology diffusion and Wrights law",
+    "premature deindustrialization",
+    "green industrial policy",
+    "emerging economy cost of capital WACC",
+    "low-carbon industrialization"
+  ],
+  "method": "Empirical synthesis using verified World Bank WDI and international datasets, peer-reviewed literature, H Heuristics Cross-System Spillover (2nd–4th order) mapping, maladaptation guardrails, and quantitative 2050 polycrisis scenarios.",
+  "contents": [
+    "1 Executive Synthesis: Formalizing Clean Economic Convergence as a Global Development Framework",
+    "2 Empirical Baseline: 25 Years of Global Catch-Up, Premature Deindustrialization, and Energy Intensity (2000–2025)",
+    "3 Theoretical Foundations: From Neoclassical Catch-Up to Directed Clean Technical Change",
+    "4 Clean Technology Diffusion: S-Curve Acceleration and Latecomer Leapfrogging",
+    "5 Structural Transformation: Overcoming Premature Deindustrialization via Green Value Chains",
+    "6 Agricultural Productivity, Rural Electrification, and Intersectoral Labor Release",
+    "7 Modern Green Industrial Policy, Trade Integration, and Institutional Design",
+    "8 Compressing the Cost of Capital: WACC Parity and Climate-Resilient Infrastructure",
+    "9 Quantifying the Global Clean Economic Convergence Dividend to 2050",
+    "10 Cross-System Spillovers, Transition Traps, and Methodological Limitations",
+    "11 Global Policy Architecture and Three-Phase Implementation Roadmap (2026–2040)"
+  ],
+  "backmatter": [
+    "References"
+  ],
+  "doi": "10.6084/m9.figshare.35145148",
+  "license": "CC BY 4.0"
+}
